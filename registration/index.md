@@ -4,7 +4,7 @@ title: "ISQBP 2026 Registration"
 tags: [ISQBP, President's Meeting, Biomolecular Simulations, Drug Design, Structural Biology, Computational Biology]
 
 image:
-   banner: /assets/images/pages/registration_page_banner_image.jpg
+   banner: /isqbp2026/assets/images/pages/registration_page_banner_image.jpg
 ---
 
 Registration and abstract submission will open on <span style="color:red">15.01.2026</span>
