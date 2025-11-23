@@ -1,19 +1,19 @@
 # main links
 main:
   - title: "News"
-    url: /isqbp2026/news/
+    url: /news/
   - title: "Speakers"
-    url: /isqbp2026/speakers/
+    url: /speakers/
   - title: "Program"
-    url: /isqbp2026/program/
+    url: /program/
   - title: "Registration"
-    url: /isqbp2026/registration/
+    url: /registration/
   - title: "Venue"
-    url: /isqbp2026/venue/
+    url: /venue/
   - title: "Travel"
-    url: /isqbp2026/travel/
+    url: /travel/
   - title: "Contact"
-    url: /isqbp2026/contact/
+    url: /contact/
 
 breadcrumbs: true
 
