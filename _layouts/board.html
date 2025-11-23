@@ -48,7 +48,7 @@ layout: default
             <img src="{{ post.image.cover }}" alt="{{ post.title }} cover image" | relative_url>
           {% endif %}
         {% else %}
-          {% capture post.image.cover %}{/assets/images/people/people_default.jpg]{% endcapture %}
+          {% capture post.image.cover %}{../assets/images/people/people_default.jpg]{% endcapture %}
           <img src="{{ post.image.cover }}" alt="{{ post.title }} cover image" | relative_url>
         {%  endif %}
       </div> <!-- gridbox  -->
