@@ -4,7 +4,7 @@ title: "ISQBP 2026 Venue"
 tags: [ISQBP, President's Meeting, Biomolecular Simulations, Drug Design, Structural Biology, Computational Biology]
 
 image:
-   banner: /assets/images/pages/venue_page_banner_image.jpg
+   banner: ../assets/images/pages/venue_page_banner_image.jpg
 ---
 
 
@@ -14,7 +14,7 @@ It is located in the building of the Academic College, next to the main building
 
 The main building of the university is a historic landmark in the old city center. The precise address can be viewed [here](https://maps.app.goo.gl/MRWFCL2j7bjMEYy99)
 
-<img src="/assets/images/pages/venue_ubb_cluj.jpg" style="width:70%; display:block; justify-content:center; align-items:center">
+<img src="../assets/images/pages/venue_ubb_cluj.jpg" style="width:70%; display:block; justify-content:center; align-items:center">
 
 <div class="double-line"></div>
 
