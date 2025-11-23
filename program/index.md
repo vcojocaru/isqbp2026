@@ -5,7 +5,7 @@ title: "ISQBP 2026 Program"
 tags: [ISQBP, President's Meeting, Biomolecular Simulations, Drug Design, Structural Biology, Computational Biology]
 
 image:
-   banner: ../assets/images/pages/program_page_banner_image.jpg
+   banner: /assets/images/pages/program_page_banner_image.jpg
 ---
 
 The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 at 13:30 with an opening ceremony and will end on Thursday, June 18 at 14:00 after a closing ceremony during which the poster prizes will be awarded and a window of free time for lunch. The full program will be available [here](isqbp2026_program.pdf)

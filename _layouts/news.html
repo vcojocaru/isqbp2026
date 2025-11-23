@@ -42,7 +42,7 @@ layout: default
           <img src="{{ post.image.cover }}" alt="{{ post.title }} cover image" | relative_url>
         {% endif %}
       {% else %}
-        {% capture image_cover %}../assets/images/posts/news/default.jpg{% endcapture %}
+        {% capture image_cover %}{{ site.baseurl }}/assets/images/posts/news/default.jpg{% endcapture %}
         <img src="{{ image_cover }}" alt="{{ post.title }} cover image" | relative_url>
       {% endif %}
       <a href="{{ post.url }}">read more ...</a>
