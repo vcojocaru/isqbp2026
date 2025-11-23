@@ -4,7 +4,7 @@ title: "ISQBP 2026 Contact"
 tags: [ISQBP, President's Meeting, Biomolecular Simulations, Drug Design, Structural Biology, Computational Biology]
 
 image:
-   banner: /assets/images/pages/contact_page_banner_image.jpg
+   banner: /isqbp2026/assets/images/pages/contact_page_banner_image.jpg
 ---
 
 
