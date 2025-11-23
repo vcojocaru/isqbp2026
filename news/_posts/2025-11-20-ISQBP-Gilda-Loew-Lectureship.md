@@ -4,7 +4,7 @@ classes: wide
 title: ""
 category: news
 image:
-   cover: /assets/images/posts/news/isqbp_award_loew_lecture_cover.jpg
+   cover: /isqbp2026/assets/images/posts/news/isqbp_award_loew_lecture_cover.jpg
 author: Vlad Cojocaru
 ---
 
