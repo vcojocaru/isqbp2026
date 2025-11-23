@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+{% if page.image.banner %}
+  <div class="banner-image">
+    {% if page.image.banner contains 'http' %}
+      <img src="{{ page.image.banner }}" alt="{{ page.title }} external cover image">
+    {% else %}
+      <img src="{{ page.image.banner }}" alt="{{ page.title }} cover image" | relative_url>
+    {% endif %}
+    {% if page.image.credit %}
+      <span class="image-credit">image by: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+    {% endif %}
+    {% if page.image.label %}
+      <span class="image-label"><h1>{{ page.image.label }}</h1></span>
+    {% endif %}
+  </div><!-- /.banner-image -->
+  <div class="double-line"></div>
+{% endif %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  {{ content }}
+
+<div class="grid-2-4-8">
+  {% for post in site.categories.people %}
+    <div class="gridbox">
+      <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
+      {% if post.image.cover %}
+        {% if post.image.cover contains 'http' %}
+          <img src="{{ post.image.cover }}" alt="{{ post.title }} external cover image">
+        {% else %}
+          <img src="{{ post.image.cover }}" alt="{{ post.title }} cover image" | relative_url>
+        {% endif %}
+      {% else %}
+        {% capture post.image.cover %}{/assets/images/people/people_default.jpg]{% endcapture %}
+        <img src="{{ post.image.cover }}" alt="{{ post.title }} cover image" | relative_url>
+      {% endif %}
+    </div> <!-- gridbox  -->
+  {% endfor %}
+</div> <!-- grid-2-4-8  -->
+
+</div> <!--- main -->

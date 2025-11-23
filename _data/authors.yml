@@ -1,0 +1,34 @@
+Vlad Cojocaru:
+  name        : "Vlad Cojocaru"
+  bio         : "ISQBP President"
+  links       :
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:v.cojocaru@ubbcluj.ro"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://cojocarulab.eu"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/vcojocaru"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/vlad-cojocaru-412a46b5"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/_VladCojocaru"
+
+Andrei Gurinov:
+  name        : "Andrei Gurinov"
+  bio         : "Scientific supervisor uNMR-NL"
+  links       :
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:a.gurinov@uu.nl"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://nmr-kb.science.uu.nl/"
+   # - label: "LinkedIn"
+   #   icon: "fab fa-linkedin"
+   #   url: "https://www.linkedin.com/in/andrei-gurinov"
+

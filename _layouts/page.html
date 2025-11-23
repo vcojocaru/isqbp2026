@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<body class="page">
+
+{% if page.image.banner %}
+  <div class="banner-image">
+    {% if page.image.banner contains 'http' %}
+      <img src="{{ page.image.banner }}" alt="{{ page.title }} external cover image">
+    {% else %}
+      <img src="{{ page.image.banner }}" alt="{{ page.title }} cover image" | relative_url>
+    {% endif %}
+    {% if page.image.credit %}
+      <span class="image-credit">image by: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+    {% endif %}
+    {% if page.image.label %}
+      <span class="image-label"><h1>{{ page.image.label }}</h1></span>
+    {% endif %}
+  </div><!-- /.banner-image -->
+  <div class="double-line"></div>
+{% endif %}
+
+<div id="md-content">
+  {{ content }}
+</div><!-- /.md-content -->
+
+</body>
+</html>

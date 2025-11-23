@@ -1,0 +1,20 @@
+
+- id: logos
+  description: This is gallery with partner logos
+  imagefolder: /assets/images/logos
+  images:
+  - name: logo_utrecht_univ.png
+    thumb: logo_utrecht_univ.png
+    text: Utrecht University
+  - name: logo_wageningen_univ.png
+    thumb: logo_wageningen_univ.png
+    text: Wageningen University
+  - name: logo_radbound_univ.png
+    thumb: logo_radbound_univ.png
+    text: Radbound University
+  - name: logo_leiden_univ.png
+    thumb: logo_leiden_univ.png
+    text: Leiden University
+  - name: logo_ti-cost.png
+    thumb: logo_ti-cost.png
+    text: TI-COST
