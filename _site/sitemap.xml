@@ -56,10 +56,10 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/category/news/</loc>
+<loc>http://localhost:4000/news/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/category/people/</loc>
+<loc>http://localhost:4000/people/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/category/news/</loc>
