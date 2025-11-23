@@ -40,7 +40,7 @@ layout: default
   <div class="grid-2-4-8">
     {% for post in site.categories.board-members %}
       <div class="gridbox">
-        <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
+        <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
         {% if post.image.cover %}
           {% if post.image.cover contains 'http' %}
             <img src="{{ post.image.cover }}" alt="{{ post.title }} external cover image">
