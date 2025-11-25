@@ -16,8 +16,6 @@ author_profile:
 
 {: .text-center}
 Early registration and abstract submission until <span style="color:red">15.03.2026</span>; Late registration until <span style="color:red">15.05.2026</span>
-
-
+ 
 ***
 
-<div class="double-line"></div>
