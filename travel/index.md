@@ -7,10 +7,10 @@ image:
    banner: /isqbp2026/assets/images/pages/travel_page_banner_image.jpg
 ---
 
-- ###### How to get to Cluj-Napoca ? [see details]({{ "travel" relative_url}} )
+- ###### How to get to Cluj-Napoca ? [see details](travel)
 
-- ###### Where to stay in Cluj-Napoca ? [see details]({{ "accommodation" relative_url}} )
+- ###### Where to stay in Cluj-Napoca ? [see details](accommodation)
 
-- ###### What to do in Cluj-Napoca and surroundings ? [see details]({{ "freetime" relative_url}} )
+- ###### What to do in Cluj-Napoca and surroundings ? [see details](freetime)
 
 <div class="double-line"></div>
