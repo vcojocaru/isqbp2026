@@ -19,3 +19,5 @@ Early registration and abstract submission until <span style="color:red">15.03.2
 
 
 ***
+
+<div class="double-line"></div>
