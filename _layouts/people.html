@@ -36,7 +36,7 @@ layout: default
 
   {{ content }}
 
-<div class="grid-2-4-8">
+<div class="grid-people">
   {% for post in site.categories.people %}
     <div class="gridbox">
       <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
@@ -52,6 +52,6 @@ layout: default
       {% endif %}
     </div> <!-- gridbox  -->
   {% endfor %}
-</div> <!-- grid-2-4-8  -->
+</div> <!-- grid-people  -->
 
 </div> <!--- main -->

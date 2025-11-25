@@ -651,7 +651,7 @@ body {
   font-size: 48px;
 }
 
-.grid-1-3-6 {
+.grid-news {
   display: grid;
   width: 100%;
   padding-top: 0;
@@ -666,7 +666,7 @@ body {
     grid-template-columns: repeat(1, 1fr);
     grid-auto-rows: 15em;
     padding: 1em;
-    grid-row-gap: 2em; 
+    grid-row-gap: 1em
   }
   @media only screen and (max-width: 768px) and (orientation: landscape) {
     display: grid;
@@ -690,7 +690,7 @@ body {
   }
 }
 
-.grid-2-6-12 {
+.grid-logos {
   display: grid;
   width: 100%;
   padding-top: 0;
@@ -700,16 +700,16 @@ body {
   grid-template-columns: repeat(6, 1fr);
   grid-auto-rows: 15em;
   grid-gap: 0.5em;
-  @media only screen and (max-width: 768px) {
+  @media only screen and (max-width: 768px) and (orientation: portrait) {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-auto-rows: 15em;
     padding: 1em;
     grid-row-gap: 2em; 
   }
-  @media only screen and (min-width: 1980px) {
+  @media only screen and (max-width: 768px) and (orientation: landscape) {
     display: grid;
-    grid-template-columns: repeat(12, 1fr);
+    grid-template-columns: repeat(6, 1fr);
     grid-auto-rows: 15em;
     padding: 1em;
     grid-row-gap: 2em; 
@@ -718,8 +718,8 @@ body {
     border-radius: 0;
     margin-top: 0;
     margin-bottom: 3em;
-    margin-left: 0;
-    margin-right: 2em;
+    margin-left: 1em;
+    margin-right: 1em;
     img{
       padding: 0.5em;
       width: 100%;
@@ -729,7 +729,7 @@ body {
   }
 }
 
-.grid-2-4-8 {
+.grid-people {
   display: grid;
   width: 100%;
   padding-top: 0;
@@ -739,16 +739,16 @@ body {
   grid-template-columns: repeat(4, 1fr);
   grid-auto-rows: 15em;
   grid-gap: 0.5em;
-  @media only screen and (max-width: 768px) {
+  @media only screen and (max-width: 768px) and (orientation: portrait) {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-auto-rows: 15em;
     padding: 1em;
     grid-row-gap: 2em; 
   }
-  @media only screen and (min-width: 1980px) {
+  @media only screen and (max-width: 768px) and (orientation: landscape) {
     display: grid;
-    grid-template-columns: repeat(8, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     grid-auto-rows: 15em;
     padding: 1em;
     grid-row-gap: 2em; 
@@ -757,8 +757,8 @@ body {
     border-radius: 0;
     margin-top: 0;
     margin-bottom: 3em;
-    margin-left: 0;
-    margin-right: 2em;
+    margin-left: 1em;
+    margin-right: 1em;
     img{
       padding: 0.5em;
       width: 100%;

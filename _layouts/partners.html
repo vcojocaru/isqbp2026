@@ -35,7 +35,7 @@ layout: default
   {% include sidebar.html %}
 
 
-<div class="grid-2-6-12">
+<div class="grid-logos">
  {% for post in site.categories.partners limit:9 %}
   <div class="gridbox">
    <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
@@ -51,7 +51,7 @@ layout: default
     {% endif %}
   </div> <!-- gridbox  -->
  {% endfor %}
-</div> <!-- grid-2-6-12  -->
+</div> <!-- grid-logos  -->
 
 {{ content }}
 

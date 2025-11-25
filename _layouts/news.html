@@ -31,7 +31,7 @@ layout: default
   <div class="double-line"></div>
 {% endif %}
 
-<div class="grid-1-3-6">
+<div class="grid-news">
   {% for post in site.categories.news limit:9 %}
     <div class="gridbox">
       <h5>{{ post.title }}</h5>
@@ -48,7 +48,7 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}">read more ...</a>
     </div> <!-- gridbox  -->
   {% endfor %}
-</div> <!-- grid-1-3-6  -->
+</div> <!-- grid-news-->
 
 <div id="md-content">
   {{ content }}
