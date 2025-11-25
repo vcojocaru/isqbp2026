@@ -4,7 +4,7 @@ title: "ISQBP 2026 Venue"
 tags: [ISQBP, President's Meeting, Biomolecular Simulations, Drug Design, Structural Biology, Computational Biology]
 
 image:
-   banner: /isqbp2026/assets/images/pages/venue_page_banner_image.jpg
+   banner: ../assets/images/pages/venue_page_banner_image.jpg
 ---
 
 
