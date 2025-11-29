@@ -25,9 +25,9 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 14:30 - 15:00 | <span style="color:blue">Plenary presentation</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 15:00 - 15:15 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
+| 15:00 - 15:15 | <span style="color:darkgreen">Spotlight presentation</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 15:15 - 15:30 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
+| 15:15 - 15:30 | <span style="color:darkgreen">Spotlight presentation</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **15:30 - 16:00** | **Coffee break** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -35,7 +35,11 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 16:30 - 17:00 | <span style="color:blue">Plenary presentation</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| **17:00 - 17:45** | <span style="color:darkred">**COMPUTATIONAL BIOLOGY AWARD LECTURE**</span> | | |
+| 17:00 - 17:30 | <span style="color:blue">Plenary presentation</span> | Affiliation | "Title TBA" |
+|:-------------:|:-------------------------:|:-----------:|:-----------:|
+| **17:30 - 17:45** | **Refreshments & Snacks** | | |
+|:-------------:|:-------------------------:|:-----------:|:-----------:|
+| **17:45 - 18:30** | <span style="color:darkred">**COMPUTATIONAL BIOLOGY AWARD LECTURE**</span> | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | | <span style="color:darkred">Awardee lecture</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -56,9 +60,9 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **10:30 - 11:00** | **Coffee break** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 11:00 - 11:15 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
+| 11:00 - 11:15 | <span style="color:darkgreen">Spotlight presentation</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 11:15 - 11:30 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
+| 11:15 - 11:30 | <span style="color:darkgreen">Spotlight presentation</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 11:30 - 12:00 | <span style="color:blue">Plenary presentation</span>      | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -72,9 +76,9 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 14:30 - 15:00 | <span style="color:blue">Plenary presentation</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 15:00 - 15:15 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
+| 15:00 - 15:15 | <span style="color:darkgreen">Spotlight presentation</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 15:15 - 15:30 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
+| 15:15 - 15:30 | <span style="color:darkgreen">Spotlight presentation</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **15:30 - 16:00** | **Coffee break** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -82,7 +86,9 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 16:30 - 17:00 | <span style="color:blue">Plenary presentation</span>      | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| **17:00 - 19:00** | **Poster session I**      | | |
+| 17:00 - 17:15 | <span style="color:darkgreen">Spotlight presentation</span> | Affiliation | "Title TBA" |
+|:-------------:|:-------------------------:|:-----------:|:-----------:|
+| **17:15 - 19:00** | **Poster session I**      | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **19:00 - open** | **Dinner/Networking** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -101,9 +107,9 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **10:30 - 11:00** | **Coffee break** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 11:00 - 11:15 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
+| 11:00 - 11:15 | <span style="color:darkgreen">Spotlight presentation</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 11:15 - 11:30 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
+| 11:15 - 11:30 | <span style="color:darkgreen">Spotlight presentation</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 11:30 - 12:00 | <span style="color:blue">Plenary presentation</span>      | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -117,9 +123,9 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 14:30 - 15:00 | <span style="color:blue">Plenary presentation</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 15:00 - 15:15 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
+| 15:00 - 15:15 | <span style="color:darkgreen">Spotlight presentation</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 15:15 - 15:30 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
+| 15:15 - 15:30 | <span style="color:darkgreen">Spotlight presentation</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **15:30 - 16:00** | **Coffee break** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -127,9 +133,13 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 16:30 - 17:00 | <span style="color:blue">Plenary presentation</span>      | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| **17:00 - 19:00** | **Poster session II**      | | |
+| **17:00 - 17:45** | <span style="color:darkred">**GILDS LOEW LECTURE**</span> | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| **19:00 - open** | **Dinner/Networking** | | |
+| | <span style="color:darkred">Awardee lecture</span> | Affiliation | "Title TBA" |
+|:-------------:|:-------------------------:|:-----------:|:-----------:|
+| **17:45 - 19:00** | **Poster session II**      | | |
+|:-------------:|:-------------------------:|:-----------:|:-----------:|
+| **19:30 - open** | **Conference Banquet/Networking** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 
 <br>
@@ -144,21 +154,22 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 10:00 - 10:30 | <span style="color:blue">Plenary presentation</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 10:30 - 10:45 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
+| 10:30 - 10:45 | <span style="color:darkgreen">Spotlight presentation</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 10:45 - 11:00 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
+| 10:45 - 11:00 | <span style="color:darkgreen">Spotlight presentation</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **11:00 - 11:30** | **Coffee break** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 11:30 - 12:00 | <span style="color:blue">Plenary presentation</span> | Affiliation | "Title TBA" |
+| 11:30 - 11:45 | <span style="color:darkgreen">Spotlight presentation</span> | Affiliation | "Title TBA" |
+|:-------------:|:-------------------------:|:-----------:|:-----------:|
+| 11:45 - 12:00 | <span style="color:darkgreen">Spotlight presentation</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 12:00 - 12:30 | <span style="color:blue">Plenary presentation</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| **12:30 - 13:30** | **Closing ceremony** | | |
+| 12:30 - 13:00 | <span style="color:blue">Plenary presentation</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| **12:30 - 14:00** | **Lunch/Networking** | | |
+| **13:00 - 13:30** | **Closing ceremony / Poster Prizes** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-
 
 <br>
 
