@@ -6,5 +6,7 @@ tags: [ISQBP, President's Meeting, Biomolecular Simulations, Drug Design, Struct
 image:
    banner: ../assets/images/pages/speakers_page_banner_image.jpg
 ---
-# The list of speakers will be announced soon ...
 
+### The list of speakers will be updated constantly. Stay tuned and check the website regularly ...
+
+***

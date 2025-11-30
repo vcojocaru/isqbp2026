@@ -1,34 +1,4 @@
 var store = [{
-        "title": "",
-        "excerpt":"The 2026 ISQBP President’s meeting will take place in the historic city of Cluj-Napoca, Romania. The city lies in the heart of Transylvania and is home to some of the most prestigious universities in Romania. Among them, the Babeș-Bolyai University is often the highest ranked general university in Romania and has a reach history coinciding with the tumultuous history of Transylavania.   A brief history of the Babeș-Bolyai University can be found here   Other prestigious universities relevant for the topics the ISQBP conference located in Cluj-Napoca are the Medical University, the Technical University, and the University of Agricultural Science and Veterinary Medicine   For a brief dive into the history of the city which dates back to the ancient Roman settlement of Napoca please look here   Nowadays the city is a vibrant student city with a total of 11 universities and over 100000 students. Cluj-Napoca combines ancient history with modern atmosphere and has become one of the most livable cities in Romania (if not the most). It has a reach and diverse cultural scene including museums, movie and theater festivals, alternative cinemas, live music and many restaurants, terraces, caffees and bars. It also has a well developed netowrk of public transport. With these developments, the prices have risen quite sharply in recent years and although it is still cheaper than most similar cities in the western Europe, the gap is far smaller than it used to be. Cluj-Napoca is probably now the most expensive city in Romania.  ","categories": ["news"],
-        "tags": [],
-        "url": "/isqbp2026/news/ISQBP-2026-Meeting.html",
-        "teaser": null
-      },{
-        "title": "",
-        "excerpt":"ISQBP Award in Computational Biology   The 2026 awardee will be announced soon …    ","categories": ["news"],
-        "tags": [],
-        "url": "/isqbp2026/news/ISQBP-Award_Computational_Biology.html",
-        "teaser": null
-      },{
-        "title": "",
-        "excerpt":"ISQBP Loew Lectureship   The 2026 awardee will be announced soon …     ","categories": ["news"],
-        "tags": [],
-        "url": "/isqbp2026/news/ISQBP-Gilda-Loew-Lectureship.html",
-        "teaser": null
-      },{
-        "title": "Invited speaker",
-        "excerpt":" ","categories": ["speakers","people"],
-        "tags": [],
-        "url": "/isqbp2026/speakers/people/Default1.html",
-        "teaser": null
-      },{
-        "title": "Invited speaker",
-        "excerpt":" ","categories": ["speakers","people"],
-        "tags": [],
-        "url": "/isqbp2026/speakers/people/Default2.html",
-        "teaser": null
-      },{
         "title": "Invited speaker",
         "excerpt":" ","categories": ["speakers","people"],
         "tags": [],
@@ -39,6 +9,36 @@ var store = [{
         "excerpt":" ","categories": ["speakers","people"],
         "tags": [],
         "url": "/isqbp2026/speakers/people/Default4.html",
+        "teaser": null
+      },{
+        "title": "",
+        "excerpt":"The 2026 ISQBP President’s meeting will take place in the historic city of Cluj-Napoca, Romania. The city lies in the heart of Transylvania and is home to some of the most prestigious universities in Romania. Among them, the Babeș-Bolyai University is often the highest ranked general university in Romania and has a reach history coinciding with the tumultuous history of Transylavania.   A brief history of the Babeș-Bolyai University can be found here   Other prestigious universities relevant for the topics the ISQBP conference located in Cluj-Napoca are the Medical University, the Technical University, and the University of Agricultural Science and Veterinary Medicine   For a brief dive into the history of the city which dates back to the ancient Roman settlement of Napoca please look here   Nowadays the city is a vibrant student city with a total of 11 universities and over 100000 students. Cluj-Napoca combines ancient history with modern atmosphere and has become one of the most livable cities in Romania (if not the most). It has a reach and diverse cultural scene including museums, movie and theater festivals, alternative cinemas, live music and many restaurants, terraces, caffees and bars. It also has a well developed netowrk of public transport. With these developments, the prices have risen quite sharply in recent years and although it is still cheaper than most similar cities in the western Europe, the gap is far smaller than it used to be. Cluj-Napoca is probably now the most expensive city in Romania.  ","categories": ["news"],
+        "tags": [],
+        "url": "/isqbp2026/news/ISQBP-2026-Meeting.html",
+        "teaser": null
+      },{
+        "title": "",
+        "excerpt":"ISQBP Loew Lectureship   The 2026 ISQBP Gilda Loew Lecture is awarded to Dr. Zoe Cournia for her outstanding contributions in various scientific topics which were at the core of Gilda Loew’s interests.        Dr. Cournia is Director of Research at the Biomedical Research Foundation, Academy of Athens. She graduated from the Chemistry Department, University of Athens in 2001 and received her PhD at the University of Heidelberg in Germany in 2006. She then worked as a postdoctoral researcher at the Chemistry Department, Yale University, USA, on computer-aided drug design with Prof. Bill Jorgensen. She has been awarded with the American Association for Cancer Research Angiogenesis Fellowship (2008), the “Woman of Innovation 2009” Award from the Connecticut Technology Council, USA, the Marie Curie Fellowship from the European Union (2010), the “Outstanding Junior Faculty Award” from the American Chemical Society (2014) and the first “Ada Lovelace Award” from the “Partnership for Advanced Computing in Europe” (2016). She was a member of the Infrastructure Advisory Group (INFRAG) of the European High Performance Computing Joint Undertaking in 2018-2021 and in 2022 she was appointed as the Greek representative in the Innovative Health Initiative Joint Undertaking. She is an Executive Editor with the Journal of Chemical information and Modeling, American Chemical Society and the national representative of Greece in the Division of Computational and Theoretical Chemistry in the European Chemical Society.     ","categories": ["news"],
+        "tags": [],
+        "url": "/isqbp2026/news/ISQBP-Gilda-Loew-Lectureship.html",
+        "teaser": null
+      },{
+        "title": "Zoe Cournia",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Zoe_Cournia.html",
+        "teaser": null
+      },{
+        "title": "",
+        "excerpt":"ISQBP Award in Computational Biology   The winner of the 2026 ISQBP Award in Computational Biology is Dr. Modesto Orozco for his outstanding scientific contributions to decoding DNA structure and dynamics at multiple scales and in different genomic contexts.        Graduate (M.Sc.) in Chemistry from the Universitat Autònoma de Barcelona (1985). PhD in Biochemistry from the same university (1990). Pre-Doctoral research fellow of the Spanish MEC. Departament de Bioquímica - Universitat de Barcelona (1987-1989). Assistant Professor of Biochemistry at the same university (1989-1990). Professor of Biochemistry and Molecular Biology. Departament de Bioquímica. Universitat de Barcelona. 1991-2001. Invited Scientist. Department of Chemistry. Yale University 1991-1993. Full Professor of Biochemistry and Molecular Biology. Departament de Bioquímica. Universitat de Barcelona 2002-present. Director Molecular Modelling and Bioinformatics Unit (2002-) IRB Barcelona. Director of the Life Sciences Department. Barcelona Supercomputing Center (2005-2015). Integrative Research Node coordinator IRB Barcelona.   Counsellor and Advisor of different Scientific Societies and Granting Agencies. Associated Editor WIRES Computational Molecular Sciences. Advisory Editor of Theoretical Chemistry Accounts: Theory, Computation and Modelling (2005-2014). Member of the Editorial board of:  Journal of Computational Chemistry, Journal of Chemical Theory and Computation, Phys.Chem.Chem.Phys., J.Mol.Recog., J. Mol.Graphics and Modeling, Nucleic Acids Res., and Chem.   Modesto Orozco’s research activity is focused on the theoretical study of biological systems and is reflected in close to 500 papers published in international peer-reviewed journals of the highest impact His publications have collected more than 35000 citations with an h-index of 93, the highest for a computational chemist in Spain.   Among other awards, in 1997 he got the “Diaz de Santos” National Award for young scientist, the Distinción Investigadora de la Generalitat de Catalunya (Annual award of Science of the Catalan Science Ministry) in 2000, the FEBS Anniversary Prize of the Gesellschaft für Biochemie und Molekularbiologie in 2001, the Fundación Marcelino Botín fellowship (2007), the Brucker award for research in biophysics (2010), as well as the ICREA Academy award for excellence in research and the Advanced Grant of the European Research Council.   Modesto Orozco is founder and president of Nostrum Biodiscovery.    ","categories": ["news"],
+        "tags": [],
+        "url": "/isqbp2026/news/ISQBP-Award_Computational_Biology.html",
+        "teaser": null
+      },{
+        "title": "Modesto Orozco",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Modesto_Orozco.html",
         "teaser": null
       },{
     "title": "ISQBP 2026 Travel",
@@ -54,7 +54,7 @@ var store = [{
     "excerpt":"The ISQBP board:   Current structure     For urgent matters regarding the 2026 President’s meeting, please contact the ISQBP President directly for now.   Dr. Vlad Cojocaru  Computational Biochemistry Group  STAR-UBB Institute  Babeș-Bolyai University  Str. Tiberiu Popoviciu nr. 2-4  400647 Cluj-Napoca  vlad.cojocaru[at]ubbcluj.ro  https://cojocarulab.eu    ","url": "http://localhost:4000/contact/"
   },{
     "title": "ISQBP 2026: Invited speakers",
-    "excerpt":"The list of speakers will be announced soon …   ","url": "http://localhost:4000/speakers/"
+    "excerpt":"The list of speakers will be updated constantly. Stay tuned and check the website regularly …    ","url": "http://localhost:4000/speakers/"
   },{
     "title": "ISQBP 2026 Program",
     "excerpt":"The program of the 2026 ISQBP President’s meeting will begin on Monday, June 15 at 13:30 with an opening ceremony and will end on Thursday, June 18 at 14:00 after a closing ceremony during which the poster prizes will be awarded and a window of free time for lunch. The full program will be available here   Draft program: to be announced ...                     Monday       15.06.2026                                       13:30 - 14:00       Opening ceremony                                       14:00 - 17:00       Session I                                       14:00 - 14:30       Plenary presentation       Affiliation       “Title TBA”                       14:30 - 15:00       Plenary presentation       Affiliation       “Title TBA”                       15:00 - 15:15       Spotlight presentation       Affiliation       “Title TBA”                       15:15 - 15:30       Spotlight presentation       Affiliation       “Title TBA”                       15:30 - 16:00       Coffee break                                       16:00 - 16:30       Plenary presentation       Affiliation       “Title TBA”                       16:30 - 17:00       Plenary presentation       Affiliation       “Title TBA”                       17:00 - 17:30       Plenary presentation       Affiliation       “Title TBA”                       17:30 - 17:45       Refreshments &amp; Snacks                                       17:45 - 18:30       COMPUTATIONAL BIOLOGY AWARD LECTURE                                               Awardee lecture       Affiliation       “Title TBA”                       19:00 - open       Dinner/Networking                                              Tuesday       16.06.2026                                       09:00 - 12:30       Session II                                       09:00 - 09:30       Plenary presentation       Affiliation       “Title TBA”                       09:30 - 10:00       Plenary presentation       Affiliation       “Title TBA”                       10:00 - 10:30       Plenary presentation       Affiliation       “Title TBA”                       10:30 - 11:00       Coffee break                                       11:00 - 11:15       Spotlight presentation       Affiliation       “Title TBA”                       11:15 - 11:30       Spotlight presentation       Affiliation       “Title TBA”                       11:30 - 12:00       Plenary presentation       Affiliation       “Title TBA”                       12:00 - 12:30       Plenary presentation       Affiliation       “Title TBA”                       12:30 - 14:00       Lunch                                       14:00 - 17:00       Session III                                       14:00 - 14:30       Plenary presentation       Affiliation       “Title TBA”                       14:30 - 15:00       Plenary presentation       Affiliation       “Title TBA”                       15:00 - 15:15       Spotlight presentation       Affiliation       “Title TBA”                       15:15 - 15:30       Spotlight presentation       Affiliation       “Title TBA”                       15:30 - 16:00       Coffee break                                       16:00 - 16:30       Plenary presentation       Affiliation       “Title TBA”                       16:30 - 17:00       Plenary presentation       Affiliation       “Title TBA”                       17:00 - 17:15       Spotlight presentation       Affiliation       “Title TBA”                       17:15 - 19:00       Poster session I                                       19:00 - open       Dinner/Networking                                              Wednesday       17.06.2026                                       09:00 - 12:30       Session IV                                       09:00 - 09:30       Plenary presentation       Affiliation       “Title TBA”                       09:30 - 10:00       Plenary presentation       Affiliation       “Title TBA”                       10:00 - 10:30       Plenary presentation       Affiliation       “Title TBA”                       10:30 - 11:00       Coffee break                                       11:00 - 11:15       Spotlight presentation       Affiliation       “Title TBA”                       11:15 - 11:30       Spotlight presentation       Affiliation       “Title TBA”                       11:30 - 12:00       Plenary presentation       Affiliation       “Title TBA”                       12:00 - 12:30       Plenary presentation       Affiliation       “Title TBA”                       12:30 - 14:00       Lunch                                       14:00 - 17:00       Session V                                       14:00 - 14:30       Plenary presentation       Affiliation       “Title TBA”                       14:30 - 15:00       Plenary presentation       Affiliation       “Title TBA”                       15:00 - 15:15       Spotlight presentation       Affiliation       “Title TBA”                       15:15 - 15:30       Spotlight presentation       Affiliation       “Title TBA”                       15:30 - 16:00       Coffee break                                       16:00 - 16:30       Plenary presentation       Affiliation       “Title TBA”                       16:30 - 17:00       Plenary presentation       Affiliation       “Title TBA”                       17:00 - 17:45       GILDS LOEW LECTURE                                               Awardee lecture       Affiliation       “Title TBA”                       17:45 - 19:00       Poster session II                                       19:30 - open       Conference Banquet/Networking                                              Thursday       18.06.2026                                       09:00 - 12:30       Session VI                                       09:00 - 09:30       Plenary presentation       Affiliation       “Title TBA”                       09:30 - 10:00       Plenary presentation       Affiliation       “Title TBA”                       10:00 - 10:30       Plenary presentation       Affiliation       “Title TBA”                       10:30 - 10:45       Spotlight presentation       Affiliation       “Title TBA”                       10:45 - 11:00       Spotlight presentation       Affiliation       “Title TBA”                       11:00 - 11:30       Coffee break                                       11:30 - 11:45       Spotlight presentation       Affiliation       “Title TBA”                       11:45 - 12:00       Spotlight presentation       Affiliation       “Title TBA”                       12:00 - 12:30       Plenary presentation       Affiliation       “Title TBA”                       12:30 - 13:00       Plenary presentation       Affiliation       “Title TBA”                       13:00 - 13:30       Closing ceremony / Poster Prizes                                ","url": "http://localhost:4000/program/"
@@ -95,14 +95,14 @@ var store = [{
     "title": null,
     "excerpt":"@import \"jekyll-theme-minimal\"; ","url": "http://localhost:4000/assets/css/style.css"
   },{
-    "title": "news",
-    "excerpt":"","url": "http://localhost:4000/category/news/"
-  },{
     "title": "speakers",
     "excerpt":"","url": "http://localhost:4000/category/speakers/"
   },{
     "title": "people",
     "excerpt":"","url": "http://localhost:4000/category/people/"
+  },{
+    "title": "news",
+    "excerpt":"","url": "http://localhost:4000/category/news/"
   },{
     "title": null,
     "excerpt":"","url": "http://localhost:4000/page2/"
