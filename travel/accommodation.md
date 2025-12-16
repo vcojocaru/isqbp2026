@@ -21,9 +21,13 @@ Since it is a busy student city quite attractive for young peolple, Cluj also ha
 
 ***
 
-- [Country Yard by Marriott](https://www.marriott.com/search/findHotels.mi?pageType=advanced&searchType=InCity&destinationAddress.latitude=46.76694274124782&destinationAddress.longitude=23.593119214823034&destinationAddress.destination=Courtyard+Cluj+Napoca+Downtown&nst=paid&cid=PAI_GLB00050JC_GLE000BM3M_GLF000OP0B&ppc=ppc&pId=uktbppc&gclsrc=aw.ds&gad_source=1&gad_campaignid=8513071394&gbraid=0AAAAADilnidKVIlj4IN_NxzRtQH0G3-Dm&gclid=Cj0KCQiAxJXJBhD_ARIsAH_JGjijwIraNt0UKeJVd2mweyhaCoVUFnfGq-mReaq23uveifooTkrEauQaAsCFEALw_wcB&deviceType=desktop-web&view=list#/0/)
+- [Country Yard by Marriott](https://www.marriott.com/en-us/hotels/cljcy-courtyard-cluj-napoca-downtown/overview/)
 
-- [Double Tree by Hilton](https://www.hilton.com/en/locations/romania/cluj-napoca/?WT.mc_id=zINDA0EMEA1MB2PSH3Paid_ggl4ACBI_Brand_Destination5dkt6MULTIBR7EN8i81487387_121127567_21565495180&&&&&gclsrc=aw.ds&gad_source=1&gad_campaignid=21565495180&gbraid=0AAAAADnjLGOPKJ8usHbdTgz5C-wZpvwsy&gclid=Cj0KCQiAxJXJBhD_ARIsAH_JGjjBQ1IXx6pKsFN_3vjoqarWl95oL7UAVhs1U5PAW-g-ApSd3AieMGcaArrEEALw_wcB)
+- [Double Tree by Hilton](https://www.hilton.com/ro/hotels/cljcpdi-doubletree-cluj-city-plaza/)
+
+- [Radissonblu Cluj-Napoca](https://www.radissonhotels.com/ro-ro/hoteluri/radisson-blu-cluj)
+
+- [Grand Hotel Napoca](https://hotelnapoca.ro/)
 
 - [Wyndham Cluj](https://www.wyndhamhotels.com/wyndham/cluj-napoca-romania/wyndham-cluj/overview)
 
@@ -31,9 +35,11 @@ Since it is a busy student city quite attractive for young peolple, Cluj also ha
 
 - [Vibre Hotel](https://vibrehotel.ro/)
 
-- [Hotem Meridian](https://hotel-meridian.ro/)
+- [Hotem Meridian]()
 
 - [Fullton Central](https://fulltoncentral.ro/)
+
+- [Grand Hotel Italia](https://grandhotelitaliacluj.ro/) *** a little further from the conference venue but a very beautiful hotel
 
 And many more (ioncluding many appartments) can be found on platform such as [booking.com](https://booking.com), [airbnb](https://airbnb.com), [travemminit.ro](https://travelminit.ro/)
 
