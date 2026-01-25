@@ -25,7 +25,7 @@ Senior: 450 EUR
 
 ***
 
-### Late registration: <span style="color:red">15.06.2026</span>
+### Late registration: <span style="color:red">15.05.2026</span>
 
 Student/PhD student: 320 EUR\
 Postdoc: 380 EUR\
