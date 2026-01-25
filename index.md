@@ -17,10 +17,10 @@ author_profile:
 ***
 
 {: .text-center}
-##### Soon, the registraton for the 2026 President's meeting will be open [here]({{ site.baseurl }}/registration/)   
+##### The registraton for the 2026 President's meeting will be open [here]({{ site.baseurl }}/registration/) on <span style="color:red">30.01.2026</span>
 
 {: .text-center}
-Early registration and abstract submission until <span style="color:red">15.03.2026</span>; Late registration until <span style="color:red">15.05.2026</span>
+Early registration and abstract submission until <span style="color:red">01.04.2026</span>; Late registration until <span style="color:red">15.06.2026</span>
  
 ***
 

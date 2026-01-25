@@ -7,6 +7,8 @@ image:
    banner: ../assets/images/pages/speakers_page_banner_image.jpg
 ---
 
-### The list of speakers will be updated constantly. Stay tuned and check the website regularly ...
+### Here is the list of confirmed speakers in alleatory order.
+
+The ISQBP President is grateful to everyone who accepted the invitation to contribute
 
 ***

@@ -1,16 +1,4 @@
 var store = [{
-        "title": "Invited speaker",
-        "excerpt":" ","categories": ["speakers","people"],
-        "tags": [],
-        "url": "/isqbp2026/speakers/people/Default3.html",
-        "teaser": null
-      },{
-        "title": "Invited speaker",
-        "excerpt":" ","categories": ["speakers","people"],
-        "tags": [],
-        "url": "/isqbp2026/speakers/people/Default4.html",
-        "teaser": null
-      },{
         "title": "",
         "excerpt":"The 2026 ISQBP President’s meeting will take place in the historic city of Cluj-Napoca, Romania. The city lies in the heart of Transylvania and is home to some of the most prestigious universities in Romania. Among them, the Babeș-Bolyai University is often the highest ranked general university in Romania and has a reach history coinciding with the tumultuous history of Transylavania.   A brief history of the Babeș-Bolyai University can be found here   Other prestigious universities relevant for the topics the ISQBP conference located in Cluj-Napoca are the Medical University, the Technical University, and the University of Agricultural Science and Veterinary Medicine   For a brief dive into the history of the city which dates back to the ancient Roman settlement of Napoca please look here   Nowadays the city is a vibrant student city with a total of 11 universities and over 100000 students. Cluj-Napoca combines ancient history with modern atmosphere and has become one of the most livable cities in Romania (if not the most). It has a reach and diverse cultural scene including museums, movie and theater festivals, alternative cinemas, live music and many restaurants, terraces, caffees and bars. It also has a well developed netowrk of public transport. With these developments, the prices have risen quite sharply in recent years and although it is still cheaper than most similar cities in the western Europe, the gap is far smaller than it used to be. Cluj-Napoca is probably now the most expensive city in Romania.  ","categories": ["news"],
         "tags": [],
@@ -23,16 +11,136 @@ var store = [{
         "url": "/isqbp2026/news/ISQBP-Gilda-Loew-Lectureship.html",
         "teaser": null
       },{
-        "title": "Zoe Cournia",
-        "excerpt":" ","categories": ["speakers","people"],
-        "tags": [],
-        "url": "/isqbp2026/speakers/people/Zoe_Cournia.html",
-        "teaser": null
-      },{
         "title": "",
         "excerpt":"ISQBP Award in Computational Biology   The winner of the 2026 ISQBP Award in Computational Biology is Dr. Modesto Orozco for his outstanding scientific contributions to decoding DNA structure and dynamics at multiple scales and in different genomic contexts.        Graduate (M.Sc.) in Chemistry from the Universitat Autònoma de Barcelona (1985). PhD in Biochemistry from the same university (1990). Pre-Doctoral research fellow of the Spanish MEC. Departament de Bioquímica - Universitat de Barcelona (1987-1989). Assistant Professor of Biochemistry at the same university (1989-1990). Professor of Biochemistry and Molecular Biology. Departament de Bioquímica. Universitat de Barcelona. 1991-2001. Invited Scientist. Department of Chemistry. Yale University 1991-1993. Full Professor of Biochemistry and Molecular Biology. Departament de Bioquímica. Universitat de Barcelona 2002-present. Director Molecular Modelling and Bioinformatics Unit (2002-) IRB Barcelona. Director of the Life Sciences Department. Barcelona Supercomputing Center (2005-2015). Integrative Research Node coordinator IRB Barcelona.   Counsellor and Advisor of different Scientific Societies and Granting Agencies. Associated Editor WIRES Computational Molecular Sciences. Advisory Editor of Theoretical Chemistry Accounts: Theory, Computation and Modelling (2005-2014). Member of the Editorial board of:  Journal of Computational Chemistry, Journal of Chemical Theory and Computation, Phys.Chem.Chem.Phys., J.Mol.Recog., J. Mol.Graphics and Modeling, Nucleic Acids Res., and Chem.   Modesto Orozco’s research activity is focused on the theoretical study of biological systems and is reflected in close to 500 papers published in international peer-reviewed journals of the highest impact His publications have collected more than 35000 citations with an h-index of 93, the highest for a computational chemist in Spain.   Among other awards, in 1997 he got the “Diaz de Santos” National Award for young scientist, the Distinción Investigadora de la Generalitat de Catalunya (Annual award of Science of the Catalan Science Ministry) in 2000, the FEBS Anniversary Prize of the Gesellschaft für Biochemie und Molekularbiologie in 2001, the Fundación Marcelino Botín fellowship (2007), the Brucker award for research in biophysics (2010), as well as the ICREA Academy award for excellence in research and the Advanced Grant of the European Research Council.   Modesto Orozco is founder and president of Nostrum Biodiscovery.    ","categories": ["news"],
         "tags": [],
         "url": "/isqbp2026/news/ISQBP-Award_Computational_Biology.html",
+        "teaser": null
+      },{
+        "title": "Adrian Roitberg",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Adrian_Roitberg.html",
+        "teaser": null
+      },{
+        "title": "Alessandra Magistrato",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Alessandra_Magistrato.html",
+        "teaser": null
+      },{
+        "title": "Alex MacKerell",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Alex_MacKerell.html",
+        "teaser": null
+      },{
+        "title": "Alexey Aleksandrov",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Alexey_Aleksandrov.html",
+        "teaser": null
+      },{
+        "title": "Anna Panchenko",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Anna_Panchenko.html",
+        "teaser": null
+      },{
+        "title": "Bert de Groot",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Bert_de_Groot.html",
+        "teaser": null
+      },{
+        "title": "Charles Brooks",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Charles_Brooks.html",
+        "teaser": null
+      },{
+        "title": "Chris Chipot",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Chris_Chipot.html",
+        "teaser": null
+      },{
+        "title": "Dragos Horvath",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Dragos_Horvath.html",
+        "teaser": null
+      },{
+        "title": "Elinor Haglund",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Elinor_Haglund.html",
+        "teaser": null
+      },{
+        "title": "Fahmi Himo",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Fahmi_Himo.html",
+        "teaser": null
+      },{
+        "title": "Giulia Palermo",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Giulia_Palermo.html",
+        "teaser": null
+      },{
+        "title": "Ioana Ilie",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Ioana_Ilie.html",
+        "teaser": null
+      },{
+        "title": "Jan Brezovski",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Jan_Brezovski.html",
+        "teaser": null
+      },{
+        "title": "Jan Huertas",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Jan_Huertas.html",
+        "teaser": null
+      },{
+        "title": "Jean Philippe Piquemal",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Jean_Philippe_Piquemal.html",
+        "teaser": null
+      },{
+        "title": "Jiri Sponer",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Jiri_Sponer.html",
+        "teaser": null
+      },{
+        "title": "Klaus Liedl",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Klaus_Liedl.html",
+        "teaser": null
+      },{
+        "title": "Maciej Szaleniec",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Maciej_Szaleniec.html",
+        "teaser": null
+      },{
+        "title": "Marco de Vivo",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Marco_de_Vivo.html",
+        "teaser": null
+      },{
+        "title": "Martin Zacharias",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Martin_Zacharias.html",
         "teaser": null
       },{
         "title": "Modesto Orozco",
@@ -41,8 +149,74 @@ var store = [{
         "url": "/isqbp2026/speakers/people/Modesto_Orozco.html",
         "teaser": null
       },{
+        "title": "Nathalie Reuter",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Nathalie_Reuter.html",
+        "teaser": null
+      },{
+        "title": "Nicoleta Bondar",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Nicoleta_Bondar.html",
+        "teaser": null
+      },{
+        "title": "Nigel Richards",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Nigel_Richards.html",
+        "teaser": null
+      },{
+        "title": "Paolo Carloni",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Paolo_Carloni.html",
+        "teaser": null
+      },{
+        "title": "Petr Jurecka",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Petr_Jurecka.html",
+        "teaser": null
+      },{
+        "title": "Roland Stote",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Roland_Stote.html",
+        "teaser": null
+      },{
+        "title": "Ruibin Liang",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Ruibin_Liang.html",
+        "teaser": null
+      },{
+        "title": "Tom Cheatham",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Tom_Cheatham.html",
+        "teaser": null
+      },{
+        "title": "Viorel Buchete",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Viorel_Buchete.html",
+        "teaser": null
+      },{
+        "title": "William Jorgensen",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/William_Jorgensen.html",
+        "teaser": null
+      },{
+        "title": "Zoe Cournia",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Zoe_Cournia.html",
+        "teaser": null
+      },{
     "title": "ISQBP 2026 Travel",
-    "excerpt":"Accommodation possibilities     There are many hotels in Cluj, from simple to luxury ones. We will compile a list of hotels within a close range to the conference venue and will post it here.   In addition to hotels, on platforms such as booking.com or airbnd.com, you can also book apartments which are usually a cheap (depending on the comfort you wish for of course) and cosy alternative to hotels but do not offer breakfast (except coffee and tee which are usually available in all) or other services. Note that there are many options to have breakfast at nearby locations experiencing the city (and June is usually a month with fantastic weather)   Since it is a busy student city quite attractive for young peolple, Cluj also has a number of hostels located in the heart of the historic center that can be interesting for students with lower budgets.   Short list of hotels close to the conference venue             Country Yard by Marriott            Double Tree by Hilton            Wyndham Cluj            Red Hotel            Vibre Hotel            Hotem Meridian            Fullton Central       And many more (ioncluding many appartments) can be found on platform such as booking.com, airbnb, travemminit.ro    ","url": "http://localhost:4000/travel/accommodation"
+    "excerpt":"Accommodation possibilities     There are many hotels in Cluj, from simple to luxury ones. We will compile a list of hotels within a close range to the conference venue and will post it here.   In addition to hotels, on platforms such as booking.com or airbnd.com, you can also book apartments which are usually a cheap (depending on the comfort you wish for of course) and cosy alternative to hotels but do not offer breakfast (except coffee and tee which are usually available in all) or other services. Note that there are many options to have breakfast at nearby locations experiencing the city (and June is usually a month with fantastic weather)   Since it is a busy student city quite attractive for young peolple, Cluj also has a number of hostels located in the heart of the historic center that can be interesting for students with lower budgets.   Short list of hotels close to the conference venue             Country Yard by Marriott            Double Tree by Hilton            Radissonblu Cluj-Napoca            Grand Hotel Napoca            Wyndham Cluj            Red Hotel            Vibre Hotel            Hotem Meridian            Fullton Central            Grand Hotel Italia *** a little further from the conference venue but a very beautiful hotel       And many more (ioncluding many appartments) can be found on platform such as booking.com, airbnb, travemminit.ro    ","url": "http://localhost:4000/travel/accommodation"
   },{
     "title": "ISQBP 2026 Travel",
     "excerpt":"Useful tips on spending some extra free time before or after the conference     Info will be available soon    ","url": "http://localhost:4000/travel/freetime"
@@ -53,26 +227,26 @@ var store = [{
     "title": "ISQBP 2026 Contact",
     "excerpt":"The ISQBP board:   Current structure     For urgent matters regarding the 2026 President’s meeting, please contact the ISQBP President directly for now.   Dr. Vlad Cojocaru  Computational Biochemistry Group  STAR-UBB Institute  Babeș-Bolyai University  Str. Tiberiu Popoviciu nr. 2-4  400647 Cluj-Napoca  vlad.cojocaru[at]ubbcluj.ro  https://cojocarulab.eu    ","url": "http://localhost:4000/contact/"
   },{
-    "title": "ISQBP 2026: Invited speakers",
-    "excerpt":"The list of speakers will be updated constantly. Stay tuned and check the website regularly …    ","url": "http://localhost:4000/speakers/"
+    "title": "ISQBP 2026 News",
+    "excerpt":" ","url": "http://localhost:4000/news/"
   },{
     "title": "ISQBP 2026 Program",
     "excerpt":"The program of the 2026 ISQBP President’s meeting will begin on Monday, June 15 at 13:30 with an opening ceremony and will end on Thursday, June 18 at 14:00 after a closing ceremony during which the poster prizes will be awarded and a window of free time for lunch. The full program will be available here   Draft program: to be announced ...                     Monday       15.06.2026                                       13:30 - 14:00       Opening ceremony                                       14:00 - 17:00       Session I                                       14:00 - 14:30       Plenary presentation       Affiliation       “Title TBA”                       14:30 - 15:00       Plenary presentation       Affiliation       “Title TBA”                       15:00 - 15:15       Spotlight presentation       Affiliation       “Title TBA”                       15:15 - 15:30       Spotlight presentation       Affiliation       “Title TBA”                       15:30 - 16:00       Coffee break                                       16:00 - 16:30       Plenary presentation       Affiliation       “Title TBA”                       16:30 - 17:00       Plenary presentation       Affiliation       “Title TBA”                       17:00 - 17:30       Plenary presentation       Affiliation       “Title TBA”                       17:30 - 17:45       Refreshments &amp; Snacks                                       17:45 - 18:30       COMPUTATIONAL BIOLOGY AWARD LECTURE                                               Awardee lecture       Affiliation       “Title TBA”                       19:00 - open       Dinner/Networking                                              Tuesday       16.06.2026                                       09:00 - 12:30       Session II                                       09:00 - 09:30       Plenary presentation       Affiliation       “Title TBA”                       09:30 - 10:00       Plenary presentation       Affiliation       “Title TBA”                       10:00 - 10:30       Plenary presentation       Affiliation       “Title TBA”                       10:30 - 11:00       Coffee break                                       11:00 - 11:15       Spotlight presentation       Affiliation       “Title TBA”                       11:15 - 11:30       Spotlight presentation       Affiliation       “Title TBA”                       11:30 - 12:00       Plenary presentation       Affiliation       “Title TBA”                       12:00 - 12:30       Plenary presentation       Affiliation       “Title TBA”                       12:30 - 14:00       Lunch                                       14:00 - 17:00       Session III                                       14:00 - 14:30       Plenary presentation       Affiliation       “Title TBA”                       14:30 - 15:00       Plenary presentation       Affiliation       “Title TBA”                       15:00 - 15:15       Spotlight presentation       Affiliation       “Title TBA”                       15:15 - 15:30       Spotlight presentation       Affiliation       “Title TBA”                       15:30 - 16:00       Coffee break                                       16:00 - 16:30       Plenary presentation       Affiliation       “Title TBA”                       16:30 - 17:00       Plenary presentation       Affiliation       “Title TBA”                       17:00 - 17:15       Spotlight presentation       Affiliation       “Title TBA”                       17:15 - 19:00       Poster session I                                       19:00 - open       Dinner/Networking                                              Wednesday       17.06.2026                                       09:00 - 12:30       Session IV                                       09:00 - 09:30       Plenary presentation       Affiliation       “Title TBA”                       09:30 - 10:00       Plenary presentation       Affiliation       “Title TBA”                       10:00 - 10:30       Plenary presentation       Affiliation       “Title TBA”                       10:30 - 11:00       Coffee break                                       11:00 - 11:15       Spotlight presentation       Affiliation       “Title TBA”                       11:15 - 11:30       Spotlight presentation       Affiliation       “Title TBA”                       11:30 - 12:00       Plenary presentation       Affiliation       “Title TBA”                       12:00 - 12:30       Plenary presentation       Affiliation       “Title TBA”                       12:30 - 14:00       Lunch                                       14:00 - 17:00       Session V                                       14:00 - 14:30       Plenary presentation       Affiliation       “Title TBA”                       14:30 - 15:00       Plenary presentation       Affiliation       “Title TBA”                       15:00 - 15:15       Spotlight presentation       Affiliation       “Title TBA”                       15:15 - 15:30       Spotlight presentation       Affiliation       “Title TBA”                       15:30 - 16:00       Coffee break                                       16:00 - 16:30       Plenary presentation       Affiliation       “Title TBA”                       16:30 - 17:00       Plenary presentation       Affiliation       “Title TBA”                       17:00 - 17:45       GILDS LOEW LECTURE                                               Awardee lecture       Affiliation       “Title TBA”                       17:45 - 19:00       Poster session II                                       19:30 - open       Conference Banquet/Networking                                              Thursday       18.06.2026                                       09:00 - 12:30       Session VI                                       09:00 - 09:30       Plenary presentation       Affiliation       “Title TBA”                       09:30 - 10:00       Plenary presentation       Affiliation       “Title TBA”                       10:00 - 10:30       Plenary presentation       Affiliation       “Title TBA”                       10:30 - 10:45       Spotlight presentation       Affiliation       “Title TBA”                       10:45 - 11:00       Spotlight presentation       Affiliation       “Title TBA”                       11:00 - 11:30       Coffee break                                       11:30 - 11:45       Spotlight presentation       Affiliation       “Title TBA”                       11:45 - 12:00       Spotlight presentation       Affiliation       “Title TBA”                       12:00 - 12:30       Plenary presentation       Affiliation       “Title TBA”                       12:30 - 13:00       Plenary presentation       Affiliation       “Title TBA”                       13:00 - 13:30       Closing ceremony / Poster Prizes                                ","url": "http://localhost:4000/program/"
   },{
     "title": "ISQBP 2026 Registration",
-    "excerpt":"Registration and abstract submission will open on 15.01.2026   The registration fees include the access to all lectures and the banquet for which a separate registration is necessary.   The registration fees and the form with payment options will be available here soon     Abstract submission deadline: 15.03.2026     Early registration deadline: 15.03.2026   Student: ??? EUR  Postdoc: ??? EUR  Senior: ??? EUR     Late registration: 15.05.2026   Student: ??? EUR  Postdoc: ??? EUR  Senior: ??? EUR     On the spot registration: 15.06.2026   Student: ??? EUR  Postdoc: ??? EUR  Senior: ??? EUR    ","url": "http://localhost:4000/registration/"
+    "excerpt":"Registration and abstract submission will open on 30.01.2026. The registration fees include the access to all lectures and the banquet   The registration fees and the form with payment options will be available here soon     Abstract submission deadline: 15.03.2026     Early registration deadline: 01.04.2026   Student: 280 EUR  Postdoc: 320 EUR  Senior: 450 EUR     Late registration: 15.06.2026   Student: 320 EUR  Postdoc: 380 EUR  Senior: 500 EUR     On the spot registration will be accepted   Student: 320 EUR  Postdoc: 380 EUR  Senior: 500 EUR    ","url": "http://localhost:4000/registration/"
+  },{
+    "title": "ISQBP 2026: Invited speakers",
+    "excerpt":"Here is the list of confirmed speakers in alleatory order.   The ISQBP President is grateful to everyone who accepted the invitation to contribute    ","url": "http://localhost:4000/speakers/"
   },{
     "title": "ISQBP 2026 Travel and Accommodation",
-    "excerpt":"        How to get to Cluj-Napoca ? see details            Where to stay in Cluj-Napoca ? see details            What to do in Cluj-Napoca and surroundings ? see details        ","url": "http://localhost:4000/travel/"
+    "excerpt":"Romania is a member of the Schengen area. All rules of this free travel zone apply. The information about the Romanian visa can be obtained here. The list of countries for which Romania require a visa for entry can be consulted here           How to get to Cluj-Napoca ? see details            Where to stay in Cluj-Napoca ? see details            What to do in Cluj-Napoca and surroundings ? see details        ","url": "http://localhost:4000/travel/"
   },{
     "title": "ISQBP 2026 Venue",
     "excerpt":"The venue of the meeting is the historic Auditorium Maximum of the Babes-Bolyai University. The venue is used both for scientific and artistic events. Often it is hosting music concerts and the local phylarmonic.   It is located in the building of the Academic College, next to the main building of the university in the heart of the Cluj’s old city center. The precise address of the Academic College can be viewed here   The main building of the university is a historic landmark in the old city center. The precise address can be viewed here        ","url": "http://localhost:4000/venue/"
   },{
-    "title": "ISQBP 2026 News",
-    "excerpt":" ","url": "http://localhost:4000/news/"
-  },{
     "title": "ISQBP 2026 President's Meeting 2026",
-    "excerpt":"The 2026 ISQBP awards have been announced, check out the latest news     Soon, the registraton for the 2026 President’s meeting will be open here   Early registration and abstract submission until 15.03.2026; Late registration until 15.05.2026     ","url": "http://localhost:4000/"
+    "excerpt":"The 2026 ISQBP awards have been announced, check out the latest news     The registraton for the 2026 President’s meeting will be open here on 30.01.2026   Early registration and abstract submission until 01.04.2026; Late registration until 15.06.2026     ","url": "http://localhost:4000/"
   },{
     "title": null,
     "excerpt":"var idx = lunr(function () {   this.field('title')   this.field('excerpt')   this.field('categories')   this.field('tags')   this.ref('id')    this.pipeline.remove(lunr.trimmer)    for (var item in store) {     this.add({       title: store[item].title,       excerpt: store[item].excerpt,       categories: store[item].categories,       tags: store[item].tags,       id: item     })   } });  $(document).ready(function() {   $('input#search').on('keyup', function () {     var resultdiv = $('#results');     var query = $(this).val().toLowerCase();     var result =       idx.query(function (q) {         query.split(lunr.tokenizer.separator).forEach(function (term) {           q.term(term, { boost: 100 })           if(query.lastIndexOf(\" \") != query.length-1){             q.term(term, {  usePipeline: false, wildcard: lunr.Query.wildcard.TRAILING, boost: 10 })           }           if (term != \"\"){             q.term(term, {  usePipeline: false, editDistance: 1, boost: 1 })           }         })       });     resultdiv.empty();     resultdiv.prepend(''+result.length+' Result(s) found ');     for (var item in result) {       var ref = result[item].ref;       if(store[ref].teaser){         var searchitem =           ''+             ''+               ''+                 ''+store[ref].title+''+               ' '+               ''+                 ''+               ''+               ''+store[ref].excerpt.split(\" \").splice(0,20).join(\" \")+'... '+             ''+           '';       }       else{     \t  var searchitem =           ''+             ''+               ''+                 ''+store[ref].title+''+               ' '+               ''+store[ref].excerpt.split(\" \").splice(0,20).join(\" \")+'... '+             ''+           '';       }       resultdiv.append(searchitem);     }   }); }); ","url": "http://localhost:4000/assets/js/lunr/lunr-en.js"
@@ -95,17 +269,35 @@ var store = [{
     "title": null,
     "excerpt":"@import \"jekyll-theme-minimal\"; ","url": "http://localhost:4000/assets/css/style.css"
   },{
+    "title": "news",
+    "excerpt":"","url": "http://localhost:4000/category/news/"
+  },{
     "title": "speakers",
     "excerpt":"","url": "http://localhost:4000/category/speakers/"
   },{
     "title": "people",
     "excerpt":"","url": "http://localhost:4000/category/people/"
   },{
-    "title": "news",
-    "excerpt":"","url": "http://localhost:4000/category/news/"
-  },{
     "title": null,
     "excerpt":"","url": "http://localhost:4000/page2/"
+  },{
+    "title": null,
+    "excerpt":"","url": "http://localhost:4000/page3/"
+  },{
+    "title": null,
+    "excerpt":"","url": "http://localhost:4000/page4/"
+  },{
+    "title": null,
+    "excerpt":"","url": "http://localhost:4000/page5/"
+  },{
+    "title": null,
+    "excerpt":"","url": "http://localhost:4000/page6/"
+  },{
+    "title": null,
+    "excerpt":"","url": "http://localhost:4000/page7/"
+  },{
+    "title": null,
+    "excerpt":"","url": "http://localhost:4000/page8/"
   },{
     "title": null,
     "excerpt":" {% if page.xsl %} {% endif %} {% assign collections = site.collections | where_exp:'collection','collection.output != false' %}{% for collection in collections %}{% assign docs = collection.docs | where_exp:'doc','doc.sitemap != false' %}{% for doc in docs %} {{ doc.url | replace:'/index.html','/' | absolute_url | xml_escape }} {% if doc.last_modified_at or doc.date %}{{ doc.last_modified_at | default: doc.date | date_to_xmlschema }} {% endif %} {% endfor %}{% endfor %}{% assign pages = site.html_pages | where_exp:'doc','doc.sitemap != false' | where_exp:'doc','doc.url != \"/404.html\"' %}{% for page in pages %} {{ page.url | replace:'/index.html','/' | absolute_url | xml_escape }} {% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }} {% endif %} {% endfor %}{% assign static_files = page.static_files | where_exp:'page','page.sitemap != false' | where_exp:'page','page.name != \"404.html\"' %}{% for file in static_files %} {{ file.path | replace:'/index.html','/' | absolute_url | xml_escape }} {{ file.modified_time | date_to_xmlschema }}  {% endfor %} ","url": "http://localhost:4000/sitemap.xml"
