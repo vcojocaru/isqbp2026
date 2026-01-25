@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "ISQBP 2026 President's Meeting 2026"
+title: "2026 ISQBP President's Meeting"
 excerpt: "breaking barriers with the computational microscope"
 tags: [ISQBP, President's Meeting, Biomolecular Simulations, Drug Design, Structural Biology, Computational Biology]
 image:

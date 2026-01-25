@@ -245,7 +245,7 @@ var store = [{
     "title": "ISQBP 2026 Venue",
     "excerpt":"The venue of the meeting is the historic Auditorium Maximum of the Babes-Bolyai University. The venue is used both for scientific and artistic events. Often it is hosting music concerts and the local phylarmonic.   It is located in the building of the Academic College, next to the main building of the university in the heart of the Cluj’s old city center. The precise address of the Academic College can be viewed here   The main building of the university is a historic landmark in the old city center. The precise address can be viewed here        ","url": "http://localhost:4000/venue/"
   },{
-    "title": "ISQBP 2026 President's Meeting 2026",
+    "title": "2026 ISQBP President's Meeting",
     "excerpt":"The 2026 ISQBP awards have been announced, check out the latest news.   The provisional list of confirmed speakers is now available here     The registraton for the 2026 President’s meeting will be open here on 30.01.2026   Early registration and abstract submission until 01.04.2026; Late registration until 15.05.2026     ","url": "http://localhost:4000/"
   },{
     "title": null,
