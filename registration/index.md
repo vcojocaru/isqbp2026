@@ -19,7 +19,7 @@ Registration and abstract submission will open on <span style="color:red">**30.0
 
 ### Early registration deadline: <span style="color:red">01.04.2026</span>
 
-Student: 280 EUR\
+Student/PhD student: 280 EUR\
 Postdoc: 320 EUR\
 Senior: 450 EUR
 
@@ -27,7 +27,7 @@ Senior: 450 EUR
 
 ### Late registration: <span style="color:red">15.06.2026</span>
 
-Student: 320 EUR\
+Student/PhD student: 320 EUR\
 Postdoc: 380 EUR\
 Senior: 500 EUR
 
@@ -35,7 +35,7 @@ Senior: 500 EUR
 
 ### On the spot registration will be accepted 
 
-Student: 320 EUR\
+Student/PhD student: 320 EUR\
 Postdoc: 380 EUR\
 Senior: 500 EUR
 
