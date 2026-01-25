@@ -12,7 +12,10 @@ author_profile:
 ---
 
 {: .text-center}
-##### The 2026 ISQBP awards have been announced, check out the latest [news]({{ site.baseurl }}/news/)   
+##### The 2026 ISQBP awards have been announced, check out the latest [news]({{ site.baseurl }}/news/).
+
+{: .text-center}
+##### The provisional list of confirmed speakers is now available [here]({{ site.baseurl }}/speakers/) 
 
 ***
 
