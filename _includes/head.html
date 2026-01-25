@@ -9,6 +9,8 @@
 <!-- https://t.co/dKP3o1e -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+<meta propery="og:image" content="{{ page.og_image | default: site.og_image | absolute_url }}">
+
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
