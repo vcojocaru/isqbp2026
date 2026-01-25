@@ -95,10 +95,10 @@ var store = [{
         "url": "/isqbp2026/speakers/people/Ioana_Ilie.html",
         "teaser": null
       },{
-        "title": "Jan Brezovski",
+        "title": "Jan Brezovsky",
         "excerpt":" ","categories": ["speakers","people"],
         "tags": [],
-        "url": "/isqbp2026/speakers/people/Jan_Brezovski.html",
+        "url": "/isqbp2026/speakers/people/Jan_Brezovsky.html",
         "teaser": null
       },{
         "title": "Jan Huertas",
@@ -171,6 +171,12 @@ var store = [{
         "excerpt":" ","categories": ["speakers","people"],
         "tags": [],
         "url": "/isqbp2026/speakers/people/Paolo_Carloni.html",
+        "teaser": null
+      },{
+        "title": "Paolo Cesar Telles de Souza",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Paolo_Telles_de_Souza.html",
         "teaser": null
       },{
         "title": "Petr Jurecka",
