@@ -185,6 +185,12 @@ var store = [{
         "url": "/isqbp2026/speakers/people/Petr_Jurecka.html",
         "teaser": null
       },{
+        "title": "Remo Rohs",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Remo_Rohs.html",
+        "teaser": null
+      },{
         "title": "Roland Stote",
         "excerpt":" ","categories": ["speakers","people"],
         "tags": [],
