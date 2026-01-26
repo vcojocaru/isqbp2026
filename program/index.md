@@ -133,7 +133,7 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 16:30 - 17:00 | <span style="color:blue">Plenary presentation</span>      | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| **17:00 - 17:45** | <span style="color:darkred">**GILDS LOEW LECTURE**</span> | | |
+| **17:00 - 17:45** | <span style="color:darkred">**GILDA LOEW LECTURE**</span> | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | | <span style="color:darkred">Awardee lecture</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
