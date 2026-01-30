@@ -7,17 +7,17 @@ image:
    banner: ../assets/images/pages/registration_page_banner_image.jpg
 ---
 
-Registration and abstract submission will open on <span style="color:red">**30.01.2026**</span>. The registration fees include the access to all lectures and the banquet
+Registration and abstract submission is now open. The registration fees include the access to all lectures and the banquet
 
-<span style="color:red">The registration fees and the form with payment options will be available here soon</span>
-
-***
-
-### Abstract submission deadline: <span style="color:red">15.03.2026</span>
+### <span style="color:red">Please register [here](registration-form)</span>
 
 ***
 
-### Early registration deadline: <span style="color:red">01.04.2026</span>
+#### Abstract submission until: <span style="color:red">01.04.2026</span>
+
+***
+
+#### Early registration until: <span style="color:red">01.04.2026</span>
 
 Student/PhD student: 280 EUR\
 Postdoc: 320 EUR\
@@ -25,7 +25,7 @@ Senior: 450 EUR
 
 ***
 
-### Late registration: <span style="color:red">15.05.2026</span>
+#### Late registration until: <span style="color:red">15.05.2026</span>
 
 Student/PhD student: 320 EUR\
 Postdoc: 380 EUR\
@@ -33,7 +33,8 @@ Senior: 500 EUR
 
 ***
 
-### On the spot registration will be accepted 
+#### On the spot registration: 
+\*accepted with limitations
 
 Student/PhD student: 320 EUR\
 Postdoc: 380 EUR\

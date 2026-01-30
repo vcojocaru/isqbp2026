@@ -1,0 +1,501 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Registration Form - ISQBP 2026</title>
+<meta name="description" content="Website of the 2026 ISQBP President’s meeting">
+
+
+  <meta name="author" content="Vlad Cojocaru">
+  
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="ISQBP 2026">
+<meta property="og:title" content="Registration Form">
+<meta property="og:url" content="http://localhost:4000/registration/registration-form/">
+
+
+  <meta property="og:description" content="Website of the 2026 ISQBP President’s meeting">
+
+
+
+  <meta property="og:image" content="http://localhost:4000/assets/images/preview.jpg">
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="http://localhost:4000/registration/registration-form/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Vlad Cojocaru",
+      "url": "http://localhost:4000/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="ISQBP 2026 Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta propery="og:image" content="http://localhost:4000/assets/images/preview.jpg">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--page">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          ISQBP 2026
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/news/">News</a>
+            </li><li class="masthead__menu-item">
+              <a href="/speakers/">Speakers</a>
+            </li><li class="masthead__menu-item">
+              <a href="/program/">Program</a>
+            </li><li class="masthead__menu-item">
+              <a href="/registration/">Registration</a>
+            </li><li class="masthead__menu-item">
+              <a href="/venue/">Venue</a>
+            </li><li class="masthead__menu-item">
+              <a href="/travel/">Travel</a>
+            </li><li class="masthead__menu-item">
+              <a href="/contact/">Contact</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      <body class="page">
+
+
+
+<div id="md-content">
+  <form id="registrationForm" action="https://api.staticforms.dev/submit" method="POST">
+	<h3>Please choose the type of registration</h3>
+	<p>If you plan to submit an abstract please select "Registration + Abstract Submission"</p>
+	<hr>
+	<input type="hidden" name="apiKey" value="sf_kge6kj0gk759fcjj1062d75f">
+	<input type="hidden" name="registration_type" id="registrType">
+	<input type="hidden" name="email" value="vlad.cojocaru@cojocarulab.eu, vlad.cojocaru@ubbcluj.ro, amelia.soos@ubbcluj.ro">
+	<input type="hidden" name="subject" value="ISQBP2026 Registration Submission">
+	<div class="registration-choice">
+  		<button type="button" id="btnRegistr" class="choice-btn active">Registration only</button>
+		<button type="button" id="btnAbstrSub" class="choice-btn">Registration + Abstract Submission</button>
+	</div>
+	<hr>
+	<p>Note: registrations will be manually verified perioddically. If you do not receive an email confirming you as participant with or without abstract in approximately two weeks from your registration please contact ISQBP</p>
+
+	<div id="registrOnly" style="display:none;">
+		
+		<!-- Career stage, hidden initially -->
+		<div id="careerStageRegistr">
+			<p>Career stage *</p>
+			<label>
+				<input type="radio" name="career_stage" value="student" required> Student / PhD student
+			</label>
+    		<label>
+      			<input type="radio" name="career_stage" value="postdoc" required> Postdoctoral researcher
+    		</label>
+    		<label>
+      			<input type="radio" name="career_stage" value="senior" required> Senior researcher / Principal investigator
+    		</label>
+  		</div>
+
+		<h3>Registration for participation without a presentation</h3>
+		<hr>
+		<label>Email address * <input name="participant_email" placeholder="Enter participant email" required></label>
+		<label>Name * <input name="participant_name" placeholder="Enter participant name" required></label>
+		<label>Affiliation * <input name="participant_affiliation" placeholder="Enter participant adffiliation" required></label>
+		<label>Institution street address * <input name="participant_institution_address" placeholder="Enter participant institution street address" required></label>
+		<hr>
+		<p>
+			<a href="https://plati.ubbcluj.ro/Event/Details/339" target="_blank" class="payment-btn">Pay Registration Fee</a>
+		</p>
+		<label>
+			Please introduce here the payment reference number (RRN) *
+			<input
+				type="text"
+				name="payment_code"
+				pattern="\d{12}"
+				placeholder="RRN"
+				title="Wrong RRN; please check your bank receipt and introduce the correct RRN"
+				required
+  			>
+		</label>
+
+		<div id="formErrorRegistr" style="color:red; display:none; margin-top:1rem;"></div>
+
+		<hr><hr>
+		<button type="submit">Submit Registration</button>
+ 
+	</div>
+
+
+	<div id="abstrSub" style="display:none;">
+		
+		<!-- Career stage, hidden initially -->
+		<div id="careerStageAbstr">
+			<p>Career stage *</p>
+			<label>
+				<input type="radio" name="career_stage" value="student" required> Student / PhD student
+			</label>
+    		<label>
+      			<input type="radio" name="career_stage" value="postdoc" required> Postdoctoral researcher
+    		</label>
+    		<label>
+      			<input type="radio" name="career_stage" value="senior" required> Senior researcher / Principal investigator
+    		</label>
+  		</div>
+
+		<h3>Registration for participation with abstract for oral/poster presentation</h3>
+		<hr>
+
+		<div id="presentationType">
+			<h4>Presentation Type *</h4>
+			<p>Please select the type of your presentation:</p>
+			<label class="inline-radio">
+				<input type="radio" name="presentation_type" value="poster_only" required>Only poster presentation
+			</label>
+			<label class="inline-radio">
+				<input type="radio" name="presentation_type" value="poster_or_oral" required>Poster or Oral presentation
+			</label>
+			<p>Note: If you select "Poster or Oral presentation" your abstract will be considered for oral presentaion</p>
+		</div>
+		<hr>
+
+		<label>Email address * <input name="participant_email" placeholder="Enter participant email" required></label>
+		<label>Name * <input name="participant_name" placeholder="Enter participant name" required></label>
+		<label>Affiliation * <input name="participant_affiliation" placeholder="Enter participant adffiliation" required></label>
+		<label>Institution street address * <input name="participant_institution_address" placeholder="Enter participant institution street address" required></label>
+		<hr>
+		<p>
+			<a href="https://plati.ubbcluj.ro/Event/Details/339" target="_blank" class="payment-btn">Pay Registration Fee</a>
+		</p>
+		<label>
+			Please introduce here the payment reference number (RRN) *
+			<input
+				type="text"
+				name="payment_code"
+				pattern="\d{12}"
+				placeholder="RRN"
+				title="Wrong RRN; please check your bank receipt and introduce the correct RRN"
+				required
+  			>
+		</label>
+
+		<hr>
+		<h3>Abstract submission</h3>
+		
+		<h4>Presenting Author *</h4>
+		<label>Email address * <input name="presenting_author_email" placeholder="Enter presenting author email" required></label>
+		<label>Name *<input type="text" name="presenting_author_name" placeholder="Enter presenting author name" required></label>
+		<label>Affiliation *<input type="text" name="presenting_author_affiliation" placeholder="Enter presenting author affiliation" required></label>
+		<label>Institution street address * <input name="presenting_author_institution_address" placeholder="Enter institution street address" required></label>
+
+		<h4>Co-authors:</h4>
+  		<div id="coAuthors">
+    		<!-- Initial empty author block; remove button hidden -->
+    		<div class="author">
+      			<label>Author Name <input name="coauthor_name[]" placeholder="Enter co-author name"></label>
+      			<label>Affiliation <input name="coauthor_affiliation[]" placeholder="Enter co-author affiliation"></label>
+      			<button type="button" class="btnRemoveAuthor" style="display:none;">Remove</button>
+    		</div>
+  		</div>
+		<button type="button" id="btnAddAuthor">Add author</button>
+		
+		<h4>Abstract Text *</h4>
+		<label>
+			<textarea name="abstract_text" rows="8" placeholder="Type your abstract here..." required></textarea>
+		</label>
+		<p><small>Note: Please restrict to about 1/2 - 2/3 of an A4 page and include no more than 3 references and only if strictly required. For the abstract book, we will trim everything to 1 A4 page/abstract</small></p>		
+
+		<div id="formErrorAbstr" style="color:red; display:none; margin-top:1rem;"></div>
+		
+		<hr><hr>
+		<button type="submit">Submit Registration</button>
+  		<input type="hidden" name="redirectTo" value="thank-you.html">
+
+	</div>
+
+</form>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    // Buttons
+    const btnRegistr = document.getElementById("btnRegistr");
+    const btnAbstr = document.getElementById("btnAbstrSub");
+
+    // Sections
+    const registrOnly = document.getElementById("registrOnly");
+    const abstrSub = document.getElementById("abstrSub");
+
+    // Active section tracker
+    let activeSection = null;
+
+    // Show registration section
+    function showRegistration() {
+        registrOnly.style.display = "block";
+        abstrSub.style.display = "none";
+        activeSection = registrOnly;
+        // Enable fields in this section, disable hidden section fields
+        registrOnly.querySelectorAll("input, textarea").forEach(i => i.disabled = false);
+        abstrSub.querySelectorAll("input, textarea").forEach(i => i.disabled = true);
+	}
+
+    // Show abstract submission section
+    function showAbstractSubmission() {
+        registrOnly.style.display = "none";
+        abstrSub.style.display = "block";
+        activeSection = abstrSub;
+		abstrSub.querySelectorAll("input, textarea").forEach(i => i.disabled = false);
+		registrOnly.querySelectorAll("input, textarea").forEach(i => i.disabled = true);
+	}
+
+    // Event listeners for the top buttons
+    btnRegistr.addEventListener("click", showRegistration);
+    btnAbstr.addEventListener("click", showAbstractSubmission);
+
+    // Co-author functionality
+    const btnAuthor = document.getElementById("btnAddAuthor");
+    const coAuthorsDiv = document.getElementById("coAuthors");
+
+    coAuthorsDiv.addEventListener("click", function(e) {
+        if (e.target && e.target.classList.contains("btnRemoveAuthor")) {
+            e.target.parentElement.remove();
+        }
+    });
+
+    btnAuthor.addEventListener("click", function () {
+        const authorDiv = document.createElement("div");
+        authorDiv.className = "author";
+        authorDiv.innerHTML = `
+            <label>Author Name <input name="coauthor_name[]" placeholder="Co-author name"></label>
+            <label>Affiliation <input name="coauthor_affiliation[]" placeholder="Co-author affiliation"></label>
+            <button type="button" class="btnRemoveAuthor">Remove</button>
+        `;
+        coAuthorsDiv.appendChild(authorDiv);
+    });
+
+    // Form validation
+    const form = document.getElementById("registrationForm");
+
+    form.addEventListener("submit", function(e) {
+
+        if (!activeSection) {
+            // No section selected
+            e.preventDefault();
+            alert("Please select a registration type first.");
+            return;
+        }
+
+        const errors = [];
+        let errorDiv = activeSection.querySelector("div[id^='formError']");
+        
+        // Common fields: career stage
+        const career = activeSection.querySelectorAll('input[name="career_stage"]:not([disabled])');
+        if (![...career].some(r => r.checked)) errors.push("Career stage is required.");
+
+        // Payment code
+        const payment = activeSection.querySelector('input[name="payment_code"]:not([disabled])');
+        if (!/^\d{12}$/.test(payment.value)) errors.push("Payment reference (RRN) must be 12 digits.");
+
+        // Participant info
+        const part_email = activeSection.querySelector('input[name="participant_email"]');
+        if (!part_email.value.trim()) errors.push("Participant email is required.");
+        const part_name = activeSection.querySelector('input[name="participant_name"]');
+        if (!part_name.value.trim()) errors.push("Participant name is required.");
+        const part_aff = activeSection.querySelector('input[name="participant_affiliation"]');
+        if (!part_aff.value.trim()) errors.push("Participant affiliation is required.");
+        const part_add = activeSection.querySelector('input[name="participant_institution_address"]');
+        if (!part_add.value.trim()) errors.push("Participant institution address is required.");
+
+        // Abstract section validations
+        if (activeSection === abstrSub) {
+            const presentation = abstrSub.querySelectorAll('input[name="presentation_type"]:not([disabled])');
+            if (![...presentation].some(r => r.checked)) errors.push("Selection of a presentation type is required.");
+
+            const auth_email = abstrSub.querySelector('input[name="presenting_author_email"]');
+            if (!auth_email.value.trim()) errors.push("Presenting author email is required.");
+            const auth_name = abstrSub.querySelector('input[name="presenting_author_name"]');
+            if (!auth_name.value.trim()) errors.push("Presenting author name is required.");
+            const auth_aff = abstrSub.querySelector('input[name="presenting_author_affiliation"]');
+            if (!auth_aff.value.trim()) errors.push("Presenting author affiliation is required.");
+            const auth_add = abstrSub.querySelector('input[name="presenting_author_institution_address"]');
+            if (!auth_add.value.trim()) errors.push("Presenting author institution address is required.");
+
+            const abstractText = abstrSub.querySelector('textarea[name="abstract_text"]');
+            if (!abstractText.value.trim()) errors.push("Abstract text is required.");
+		}
+
+        if (errors.length > 0) {
+            e.preventDefault();
+            errorDiv.style.display = "block";
+            errorDiv.innerHTML = "<strong>Please correct the following errors:</strong><ul><li>" + errors.join("</li><li>") + "</li></ul>";
+            errorDiv.scrollIntoView({ behavior: "smooth", block: "start" });
+        } else {
+            errorDiv.style.display = "none";
+			// Let StaticForms submit first, then redirect
+			setTimeout(function() {
+				window.location.href = "/registration/thank-you.html";
+			}, 1200);
+        }
+    });
+});   
+</script>
+</div><!-- /.md-content -->
+
+</body>
+</html>
+
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';" role="search">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="https://isqbp.org" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> ISQBP</a></li>
+        
+      
+        
+          <li><a href="https://x.com/isqbp" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> X</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2026 Vlad Cojocaru. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+
+
+
+  </body>
+</html>

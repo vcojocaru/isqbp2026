@@ -8,22 +8,24 @@ image:
 
 author_profile: 
    false
-
 ---
 
-{: .text-center}
-##### The 2026 ISQBP awards have been announced, check out the latest [news]({{ site.baseurl }}/news/).
-
-{: .text-center}
-##### The provisional list of confirmed speakers is now available [here]({{ site.baseurl }}/speakers/) 
-
-***
-
-{: .text-center}
-##### The registraton for the 2026 President's meeting will be open [here]({{ site.baseurl }}/registration/) on <span style="color:red">30.01.2026</span>
-
-{: .text-center}
-Early registration and abstract submission until <span style="color:red">01.04.2026</span>; Late registration until <span style="color:red">15.05.2026</span>
- 
-***
+<div class="row" style="display:flex; flex-wrap: wrap; margin: 0 10px;">
+   <div class="column" style="flex: 1; min-width: 250px; margin: 0 10px; margin-bottom: 0px;">
+      <h4 style="margin-top: 0;"><a href="{{ site.baseurl }}/registration/">Registration</a></h4>
+      <p>The registraton for the 2026 President's meeting is open</p>.
+   </div>
+    <div class="column" style="flex: 1; min-width: 250px; margin: 0 10px; margin-bottom: 0px;">
+      <h4 style="margin-top: 0;"><a href="{{ site.baseurl }}/registration/">Deadlines</a></h4>
+      <p>Abstract submission/Early registration: <span style="color:red">April 1st, 2026</span></p>.
+   </div>
+  <div class="column" style="flex: 1; min-width: 250px; margin: 0 10px; margin-bottom: 0px;">
+      <h4 style="margin-top: 0;"><a href="{{ site.baseurl }}/speakers/">Speakers</a></h4>
+      <p>The list of confirmed speakers is now available</p>.
+   </div>
+   <div class="column" style="flex: 1; min-width: 250px; margin: 0 10px; margin-bottom: 0px;">
+      <h4 style="margin-top: 0;"><a href="{{ site.baseurl }}/news/">Awards</a></h4>
+      <p>The ISQBP 2026 awards have been announced</p>.
+  </div>
+</div>
 

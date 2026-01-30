@@ -1,0 +1,26 @@
+#careerStageRegistr label,
+#careerStageAbstr label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.4rem;
+}
+
+#presentationType label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.4rem;
+}
+
+.payment-btn {
+  display: inline-block;         /* acts like a button */
+  padding: 0.6em 1.2em;          /* size of the button */
+  margin-bottom: 1rem;           /* adds space below button */
+  background-color: #d1d5db;     /* light gray */
+  color: red !important;
+  font-weight: bold;
+  border-radius: 6px;            /* slightly rounded corners */
+  text-decoration: none;         /* remove underline */
+  transition: background 0.3s;
+}
