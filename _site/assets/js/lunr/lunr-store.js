@@ -107,6 +107,12 @@ var store = [{
         "url": "/isqbp2026/speakers/people/Jiri_Sponer.html",
         "teaser": null
       },{
+        "title": "Joanna Trylska",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Joanna_Trylska.html",
+        "teaser": null
+      },{
         "title": "Johan Aqvist",
         "excerpt":" ","categories": ["speakers","people"],
         "tags": [],
@@ -117,6 +123,12 @@ var store = [{
         "excerpt":" ","categories": ["speakers","people"],
         "tags": [],
         "url": "/isqbp2026/speakers/people/Klaus_Liedl.html",
+        "teaser": null
+      },{
+        "title": "Laurentiu Spiridon",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Laurentiu_Spiridon.html",
         "teaser": null
       },{
         "title": "Maciej Szaleniec",
