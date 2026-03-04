@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/isqbp2026/news/ISQBP-Gilda-Loew-Lectureship.html</loc>
-<lastmod>2025-11-29T00:00:00+02:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/isqbp2026/news/ISQBP-Award_Computational_Biology.html</loc>
-<lastmod>2025-11-30T00:00:00+02:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/isqbp2026/speakers/people/Adrian_Roitberg.html</loc>
 <lastmod>2026-01-25T00:00:00+02:00</lastmod>
 </url>
@@ -30,6 +22,10 @@
 </url>
 <url>
 <loc>http://localhost:4000/isqbp2026/speakers/people/Bert_de_Groot.html</loc>
+<lastmod>2026-01-25T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/isqbp2026/speakers/people/Carol_Post.html</loc>
 <lastmod>2026-01-25T00:00:00+02:00</lastmod>
 </url>
 <url>
@@ -77,6 +73,10 @@
 <lastmod>2026-01-25T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/isqbp2026/speakers/people/Johan_Aqvist.html</loc>
+<lastmod>2026-01-25T00:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/isqbp2026/speakers/people/Klaus_Liedl.html</loc>
 <lastmod>2026-01-25T00:00:00+02:00</lastmod>
 </url>
@@ -113,7 +113,7 @@
 <lastmod>2026-01-25T00:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/isqbp2026/speakers/people/Paolo_Telles_de_Souza.html</loc>
+<loc>http://localhost:4000/isqbp2026/speakers/people/Paulo_Telles_de_Souza.html</loc>
 <lastmod>2026-01-25T00:00:00+02:00</lastmod>
 </url>
 <url>
@@ -137,6 +137,10 @@
 <lastmod>2026-01-25T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/isqbp2026/speakers/people/Ulf_Ryde.html</loc>
+<lastmod>2026-01-25T00:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/isqbp2026/speakers/people/Viorel_Buchete.html</loc>
 <lastmod>2026-01-25T00:00:00+02:00</lastmod>
 </url>
@@ -151,6 +155,18 @@
 <url>
 <loc>http://localhost:4000/isqbp2026/news/ISQBP-2026-Meeting.html</loc>
 <lastmod>2026-01-30T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/isqbp2026/news/MOLMOD-Satellite-Meeting.html</loc>
+<lastmod>2026-02-27T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/isqbp2026/news/ISQBP-Gilda-Loew-Lectureship.html</loc>
+<lastmod>2026-02-28T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/isqbp2026/news/ISQBP-Award_Computational_Biology.html</loc>
+<lastmod>2026-03-01T00:00:00+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/travel/accommodation</loc>
@@ -198,13 +214,13 @@
 <loc>http://localhost:4000/travel/travel</loc>
 </url>
 <url>
-<loc>http://localhost:4000/category/news/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/category/speakers/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/category/people/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/news/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page2/</loc>
@@ -226,6 +242,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/page8/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page9/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/assets/Terms_Conditions_SONNMRLSF.pdf</loc>

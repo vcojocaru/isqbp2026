@@ -17,7 +17,35 @@ In addition to hotels, on platforms such as booking.com or airbnd.com, you can a
 
 Since it is a busy student city quite attractive for young peolple, Cluj also has a number of hostels located in the heart of the historic center that can be interesting for students with lower budgets.
 
-### Short list of hotels close to the conference venue
+
+### List of hotels offering reduced fees for the conference
+
+***
+
+- [Fullton Central](https://fulltoncentral.ro/)
+
+14 rooms; reservation through direct [link](https://fullton-central-inn.pynbooking.direct/?checkin=2026-06-15&checkout=2026-06-18)
+No deadline but rooms should be reserved as soon as possible
+
+- [Vibre Hotel](https://vibrehotel.ro/)
+
+20 rooms available until May 1st, reservation through email indicating the code "UBB2026": [fom[at]vibrehotel.ro](mailto: fom@vibrehotel.ro)
+
+- [Hotel Meridian](https://hotel-meridian.ro/)
+
+15 rooms available until March 15th, reservation via direct contact of the hotel indicating the name of the conference (and/or the organizer Babes-Bolyai University)
+
+- [Double Tree by Hilton](https://www.hilton.com/ro/hotels/cljcpdi-doubletree-cluj-city-plaza/)
+
+10 rooms available until May 4th, reservation through direct [link](https://eventsathilton.com/show/695fa8d8da043f3163bf009c)
+
+- [Radissonblu Cluj-Napoca](https://www.radissonhotels.com/ro-ro/hoteluri/radisson-blu-cluj)
+
+20 roomns available until April 1st, reservation through email: [reservations.cluj[at]radissonblu.com](mailto:reservations.cluj@radissonblu.com)
+
+***
+
+### Some hotels near the conference venue
 
 ***
 
@@ -35,7 +63,7 @@ Since it is a busy student city quite attractive for young peolple, Cluj also ha
 
 - [Vibre Hotel](https://vibrehotel.ro/)
 
-- [Hotem Meridian]()
+- [Hotel Meridian](https://hotel-meridian.ro/)
 
 - [Fullton Central](https://fulltoncentral.ro/)
 

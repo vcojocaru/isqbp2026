@@ -1,16 +1,4 @@
 var store = [{
-        "title": "",
-        "excerpt":"ISQBP Loew Lectureship   The 2026 ISQBP Gilda Loew Lecture is awarded to Dr. Zoe Cournia for her outstanding contributions in various scientific topics which were at the core of Gilda Loew’s interests.        Dr. Cournia is Director of Research at the Biomedical Research Foundation, Academy of Athens. She graduated from the Chemistry Department, University of Athens in 2001 and received her PhD at the University of Heidelberg in Germany in 2006. She then worked as a postdoctoral researcher at the Chemistry Department, Yale University, USA, on computer-aided drug design with Prof. Bill Jorgensen. She has been awarded with the American Association for Cancer Research Angiogenesis Fellowship (2008), the “Woman of Innovation 2009” Award from the Connecticut Technology Council, USA, the Marie Curie Fellowship from the European Union (2010), the “Outstanding Junior Faculty Award” from the American Chemical Society (2014) and the first “Ada Lovelace Award” from the “Partnership for Advanced Computing in Europe” (2016). She was a member of the Infrastructure Advisory Group (INFRAG) of the European High Performance Computing Joint Undertaking in 2018-2021 and in 2022 she was appointed as the Greek representative in the Innovative Health Initiative Joint Undertaking. She is an Executive Editor with the Journal of Chemical information and Modeling, American Chemical Society and the national representative of Greece in the Division of Computational and Theoretical Chemistry in the European Chemical Society.     ","categories": ["news"],
-        "tags": [],
-        "url": "/isqbp2026/news/ISQBP-Gilda-Loew-Lectureship.html",
-        "teaser": null
-      },{
-        "title": "",
-        "excerpt":"ISQBP Award in Computational Biology   The winner of the 2026 ISQBP Award in Computational Biology is Dr. Modesto Orozco for his outstanding scientific contributions to decoding DNA structure and dynamics at multiple scales and in different genomic contexts.        Graduate (M.Sc.) in Chemistry from the Universitat Autònoma de Barcelona (1985). PhD in Biochemistry from the same university (1990). Pre-Doctoral research fellow of the Spanish MEC. Departament de Bioquímica - Universitat de Barcelona (1987-1989). Assistant Professor of Biochemistry at the same university (1989-1990). Professor of Biochemistry and Molecular Biology. Departament de Bioquímica. Universitat de Barcelona. 1991-2001. Invited Scientist. Department of Chemistry. Yale University 1991-1993. Full Professor of Biochemistry and Molecular Biology. Departament de Bioquímica. Universitat de Barcelona 2002-present. Director Molecular Modelling and Bioinformatics Unit (2002-) IRB Barcelona. Director of the Life Sciences Department. Barcelona Supercomputing Center (2005-2015). Integrative Research Node coordinator IRB Barcelona.   Counsellor and Advisor of different Scientific Societies and Granting Agencies. Associated Editor WIRES Computational Molecular Sciences. Advisory Editor of Theoretical Chemistry Accounts: Theory, Computation and Modelling (2005-2014). Member of the Editorial board of:  Journal of Computational Chemistry, Journal of Chemical Theory and Computation, Phys.Chem.Chem.Phys., J.Mol.Recog., J. Mol.Graphics and Modeling, Nucleic Acids Res., and Chem.   Modesto Orozco’s research activity is focused on the theoretical study of biological systems and is reflected in close to 500 papers published in international peer-reviewed journals of the highest impact His publications have collected more than 35000 citations with an h-index of 93, the highest for a computational chemist in Spain.   Among other awards, in 1997 he got the “Diaz de Santos” National Award for young scientist, the Distinción Investigadora de la Generalitat de Catalunya (Annual award of Science of the Catalan Science Ministry) in 2000, the FEBS Anniversary Prize of the Gesellschaft für Biochemie und Molekularbiologie in 2001, the Fundación Marcelino Botín fellowship (2007), the Brucker award for research in biophysics (2010), as well as the ICREA Academy award for excellence in research and the Advanced Grant of the European Research Council.   Modesto Orozco is founder and president of Nostrum Biodiscovery.    ","categories": ["news"],
-        "tags": [],
-        "url": "/isqbp2026/news/ISQBP-Award_Computational_Biology.html",
-        "teaser": null
-      },{
         "title": "Adrian Roitberg",
         "excerpt":" ","categories": ["speakers","people"],
         "tags": [],
@@ -45,6 +33,12 @@ var store = [{
         "excerpt":" ","categories": ["speakers","people"],
         "tags": [],
         "url": "/isqbp2026/speakers/people/Bert_de_Groot.html",
+        "teaser": null
+      },{
+        "title": "Carol Post",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Carol_Post.html",
         "teaser": null
       },{
         "title": "Charles Brooks",
@@ -113,6 +107,12 @@ var store = [{
         "url": "/isqbp2026/speakers/people/Jiri_Sponer.html",
         "teaser": null
       },{
+        "title": "Johan Aqvist",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Johan_Aqvist.html",
+        "teaser": null
+      },{
         "title": "Klaus Liedl",
         "excerpt":" ","categories": ["speakers","people"],
         "tags": [],
@@ -167,10 +167,10 @@ var store = [{
         "url": "/isqbp2026/speakers/people/Paolo_Carloni.html",
         "teaser": null
       },{
-        "title": "Paolo Cesar Telles de Souza",
+        "title": "Paulo Cesar Telles de Souza",
         "excerpt":" ","categories": ["speakers","people"],
         "tags": [],
-        "url": "/isqbp2026/speakers/people/Paolo_Telles_de_Souza.html",
+        "url": "/isqbp2026/speakers/people/Paulo_Telles_de_Souza.html",
         "teaser": null
       },{
         "title": "Petr Jurecka",
@@ -203,6 +203,12 @@ var store = [{
         "url": "/isqbp2026/speakers/people/Tom_Cheatham.html",
         "teaser": null
       },{
+        "title": "Ulf Ryde",
+        "excerpt":" ","categories": ["speakers","people"],
+        "tags": [],
+        "url": "/isqbp2026/speakers/people/Ulf_Ryde.html",
+        "teaser": null
+      },{
         "title": "Viorel Buchete",
         "excerpt":" ","categories": ["speakers","people"],
         "tags": [],
@@ -227,8 +233,26 @@ var store = [{
         "url": "/isqbp2026/news/ISQBP-2026-Meeting.html",
         "teaser": null
       },{
+        "title": "",
+        "excerpt":"The Romanian molecular modeling community is holding a workshop as a satellite meeting to ISQBP   The Molecular Modeling in Chemistry and Biochemistry Conference MOLMOD will take place right after the ISQBP President’s meeting from Thursday 18.06 to Saturday 20.06.   For details please consult the link   Everyone attending the ISQBP President’s meeting who is interested in this Romanian sattelite meeting is welcome to register for it and participate.   ","categories": ["news"],
+        "tags": [],
+        "url": "/isqbp2026/news/MOLMOD-Satellite-Meeting.html",
+        "teaser": null
+      },{
+        "title": "",
+        "excerpt":"ISQBP Loew Lectureship   The 2026 ISQBP Gilda Loew Lecture is awarded to Dr. Zoe Cournia for her outstanding contributions in various scientific topics which were at the core of Gilda Loew’s interests.        Dr. Cournia is Director of Research at the Biomedical Research Foundation, Academy of Athens. She graduated from the Chemistry Department, University of Athens in 2001 and received her PhD at the University of Heidelberg in Germany in 2006. She then worked as a postdoctoral researcher at the Chemistry Department, Yale University, USA, on computer-aided drug design with Prof. Bill Jorgensen. She has been awarded with the American Association for Cancer Research Angiogenesis Fellowship (2008), the “Woman of Innovation 2009” Award from the Connecticut Technology Council, USA, the Marie Curie Fellowship from the European Union (2010), the “Outstanding Junior Faculty Award” from the American Chemical Society (2014) and the first “Ada Lovelace Award” from the “Partnership for Advanced Computing in Europe” (2016). She was a member of the Infrastructure Advisory Group (INFRAG) of the European High Performance Computing Joint Undertaking in 2018-2021 and in 2022 she was appointed as the Greek representative in the Innovative Health Initiative Joint Undertaking. She is an Executive Editor with the Journal of Chemical information and Modeling, American Chemical Society and the national representative of Greece in the Division of Computational and Theoretical Chemistry in the European Chemical Society.     ","categories": ["news"],
+        "tags": [],
+        "url": "/isqbp2026/news/ISQBP-Gilda-Loew-Lectureship.html",
+        "teaser": null
+      },{
+        "title": "",
+        "excerpt":"ISQBP Award in Computational Biology   The winner of the 2026 ISQBP Award in Computational Biology is Dr. Modesto Orozco for his outstanding scientific contributions to decoding DNA structure and dynamics at multiple scales and in different genomic contexts.        Graduate (M.Sc.) in Chemistry from the Universitat Autònoma de Barcelona (1985). PhD in Biochemistry from the same university (1990). Pre-Doctoral research fellow of the Spanish MEC. Departament de Bioquímica - Universitat de Barcelona (1987-1989). Assistant Professor of Biochemistry at the same university (1989-1990). Professor of Biochemistry and Molecular Biology. Departament de Bioquímica. Universitat de Barcelona. 1991-2001. Invited Scientist. Department of Chemistry. Yale University 1991-1993. Full Professor of Biochemistry and Molecular Biology. Departament de Bioquímica. Universitat de Barcelona 2002-present. Director Molecular Modelling and Bioinformatics Unit (2002-) IRB Barcelona. Director of the Life Sciences Department. Barcelona Supercomputing Center (2005-2015). Integrative Research Node coordinator IRB Barcelona.   Counsellor and Advisor of different Scientific Societies and Granting Agencies. Associated Editor WIRES Computational Molecular Sciences. Advisory Editor of Theoretical Chemistry Accounts: Theory, Computation and Modelling (2005-2014). Member of the Editorial board of:  Journal of Computational Chemistry, Journal of Chemical Theory and Computation, Phys.Chem.Chem.Phys., J.Mol.Recog., J. Mol.Graphics and Modeling, Nucleic Acids Res., and Chem.   Modesto Orozco’s research activity is focused on the theoretical study of biological systems and is reflected in close to 500 papers published in international peer-reviewed journals of the highest impact His publications have collected more than 35000 citations with an h-index of 93, the highest for a computational chemist in Spain.   Among other awards, in 1997 he got the “Diaz de Santos” National Award for young scientist, the Distinción Investigadora de la Generalitat de Catalunya (Annual award of Science of the Catalan Science Ministry) in 2000, the FEBS Anniversary Prize of the Gesellschaft für Biochemie und Molekularbiologie in 2001, the Fundación Marcelino Botín fellowship (2007), the Brucker award for research in biophysics (2010), as well as the ICREA Academy award for excellence in research and the Advanced Grant of the European Research Council.   Modesto Orozco is founder and president of Nostrum Biodiscovery.    ","categories": ["news"],
+        "tags": [],
+        "url": "/isqbp2026/news/ISQBP-Award_Computational_Biology.html",
+        "teaser": null
+      },{
     "title": "ISQBP 2026 Travel",
-    "excerpt":"Accommodation possibilities     There are many hotels in Cluj, from simple to luxury ones. We will compile a list of hotels within a close range to the conference venue and will post it here.   In addition to hotels, on platforms such as booking.com or airbnd.com, you can also book apartments which are usually a cheap (depending on the comfort you wish for of course) and cosy alternative to hotels but do not offer breakfast (except coffee and tee which are usually available in all) or other services. Note that there are many options to have breakfast at nearby locations experiencing the city (and June is usually a month with fantastic weather)   Since it is a busy student city quite attractive for young peolple, Cluj also has a number of hostels located in the heart of the historic center that can be interesting for students with lower budgets.   Short list of hotels close to the conference venue             Country Yard by Marriott            Double Tree by Hilton            Radissonblu Cluj-Napoca            Grand Hotel Napoca            Wyndham Cluj            Red Hotel            Vibre Hotel            Hotem Meridian            Fullton Central            Grand Hotel Italia *** a little further from the conference venue but a very beautiful hotel       And many more (ioncluding many appartments) can be found on platform such as booking.com, airbnb, travemminit.ro    ","url": "http://localhost:4000/travel/accommodation"
+    "excerpt":"Accommodation possibilities     There are many hotels in Cluj, from simple to luxury ones. We will compile a list of hotels within a close range to the conference venue and will post it here.   In addition to hotels, on platforms such as booking.com or airbnd.com, you can also book apartments which are usually a cheap (depending on the comfort you wish for of course) and cosy alternative to hotels but do not offer breakfast (except coffee and tee which are usually available in all) or other services. Note that there are many options to have breakfast at nearby locations experiencing the city (and June is usually a month with fantastic weather)   Since it is a busy student city quite attractive for young peolple, Cluj also has a number of hostels located in the heart of the historic center that can be interesting for students with lower budgets.   List of hotels offering reduced fees for the conference        Fullton Central   14 rooms; reservation through direct link No deadline but rooms should be reserved as soon as possible      Vibre Hotel   20 rooms available until May 1st, reservation through email indicating the code “UBB2026”: fom[at]vibrehotel.ro      Hotel Meridian   15 rooms available until March 15th, reservation via direct contact of the hotel indicating the name of the conference (and/or the organizer Babes-Bolyai University)      Double Tree by Hilton   10 rooms available until May 4th, reservation through direct link      Radissonblu Cluj-Napoca   20 roomns available until April 1st, reservation through email: reservations.cluj[at]radissonblu.com     Some hotels near the conference venue             Country Yard by Marriott            Double Tree by Hilton            Radissonblu Cluj-Napoca            Grand Hotel Napoca            Wyndham Cluj            Red Hotel            Vibre Hotel            Hotel Meridian            Fullton Central            Grand Hotel Italia *** a little further from the conference venue but a very beautiful hotel       And many more (ioncluding many appartments) can be found on platform such as booking.com, airbnb, travemminit.ro    ","url": "http://localhost:4000/travel/accommodation"
   },{
     "title": "ISQBP 2026 Travel",
     "excerpt":"Useful tips on spending some extra free time before or after the conference     Info will be available soon    ","url": "http://localhost:4000/travel/freetime"
@@ -252,7 +276,7 @@ var store = [{
     "excerpt":"Here is the list of confirmed speakers in alleatory order.   The ISQBP President is grateful to everyone who accepted the invitation to contribute    ","url": "http://localhost:4000/speakers/"
   },{
     "title": "ISQBP 2026 Travel and Accommodation",
-    "excerpt":"Romania is a member of the Schengen area. All rules of this free travel zone apply. The information about the Romanian visa can be obtained here. The list of countries for which Romania require a visa for entry can be consulted here           How to get to Cluj-Napoca ? see details            Where to stay in Cluj-Napoca ? see details            What to do in Cluj-Napoca and surroundings ? see details        ","url": "http://localhost:4000/travel/"
+    "excerpt":"Romania is a member of the Schengen area. All rules of this free travel zone apply. The information about the Romanian visa can be obtained here. The list of countries for which Romania require a visa for entry can be consulted here   VERY IMPORTANT: After the dates of our conference have been announced, it was announced that the Transilvania international Film Festival will take place between June 12 and 21. The festival is one of the important film festivals in Europe. While this is a very nice overlap for cultural activities as it comes with projections of beautiful alternative movies (some open air in the central square), it may also put some strain on the accommodation places available in the city (especially hotels). So, please arrange your accommodation as soon as possible.           How to get to Cluj-Napoca ? see details            Where to stay in Cluj-Napoca ? see details            What to do in Cluj-Napoca and surroundings ? see details        ","url": "http://localhost:4000/travel/"
   },{
     "title": "ISQBP 2026 Venue",
     "excerpt":"The venue of the meeting is the historic Auditorium Maximum of the Babes-Bolyai University. The venue is used both for scientific and artistic events. Often it is hosting music concerts and the local phylarmonic.   It is located in the building of the Academic College, next to the main building of the university in the heart of the Cluj’s old city center. The precise address of the Academic College can be viewed here   The main building of the university is a historic landmark in the old city center. The precise address can be viewed here        ","url": "http://localhost:4000/venue/"
@@ -284,14 +308,14 @@ var store = [{
     "title": null,
     "excerpt":"@import \"jekyll-theme-minimal\"; ","url": "http://localhost:4000/assets/css/style.css"
   },{
-    "title": "news",
-    "excerpt":"","url": "http://localhost:4000/category/news/"
-  },{
     "title": "speakers",
     "excerpt":"","url": "http://localhost:4000/category/speakers/"
   },{
     "title": "people",
     "excerpt":"","url": "http://localhost:4000/category/people/"
+  },{
+    "title": "news",
+    "excerpt":"","url": "http://localhost:4000/category/news/"
   },{
     "title": null,
     "excerpt":"","url": "http://localhost:4000/page2/"
@@ -313,6 +337,9 @@ var store = [{
   },{
     "title": null,
     "excerpt":"","url": "http://localhost:4000/page8/"
+  },{
+    "title": null,
+    "excerpt":"","url": "http://localhost:4000/page9/"
   },{
     "title": null,
     "excerpt":" {% if page.xsl %} {% endif %} {% assign collections = site.collections | where_exp:'collection','collection.output != false' %}{% for collection in collections %}{% assign docs = collection.docs | where_exp:'doc','doc.sitemap != false' %}{% for doc in docs %} {{ doc.url | replace:'/index.html','/' | absolute_url | xml_escape }} {% if doc.last_modified_at or doc.date %}{{ doc.last_modified_at | default: doc.date | date_to_xmlschema }} {% endif %} {% endfor %}{% endfor %}{% assign pages = site.html_pages | where_exp:'doc','doc.sitemap != false' | where_exp:'doc','doc.url != \"/404.html\"' %}{% for page in pages %} {{ page.url | replace:'/index.html','/' | absolute_url | xml_escape }} {% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }} {% endif %} {% endfor %}{% assign static_files = page.static_files | where_exp:'page','page.sitemap != false' | where_exp:'page','page.name != \"404.html\"' %}{% for file in static_files %} {{ file.path | replace:'/index.html','/' | absolute_url | xml_escape }} {{ file.modified_time | date_to_xmlschema }}  {% endfor %} ","url": "http://localhost:4000/sitemap.xml"
