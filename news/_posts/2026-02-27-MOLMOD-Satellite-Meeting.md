@@ -3,6 +3,7 @@ layout: single-news
 classes: wide
 title: ""
 category: news
+permalink: /news/MOLMOD-Satellite-Meeting
 image:
    cover: ../../assets/images/posts/news/molmod_logo.jpg
 author: Vlad Cojocaru

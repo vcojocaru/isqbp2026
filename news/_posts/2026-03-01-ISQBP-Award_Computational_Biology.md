@@ -3,6 +3,7 @@ layout: single-news
 classes: wide
 title: ""
 category: news
+permalink: /news/ISQBP-Award_Computational_Biology/
 image:
    cover: ../../assets/images/posts/news/isqbp_award_comput_biol_cover.jpg
 author: Vlad Cojocaru
