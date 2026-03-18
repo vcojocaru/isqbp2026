@@ -7,7 +7,7 @@ image:
    cover: ../../../assets/images/people/jurecka_petr.jpg
 ---
 
-#### Palacký University Olomouc, Department of Physical Chemistry, [Research](https://www.kfc.upol.cz/katedra/zamestnanci/jurecka/)
+#### Palacký University Olomouc, Department of Physical Chemistry, Czech Republic [Research](https://www.kfc.upol.cz/katedra/zamestnanci/jurecka/)
 
 <br>
 

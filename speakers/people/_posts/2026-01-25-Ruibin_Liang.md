@@ -2,7 +2,7 @@
 layout: single
 title: "Ruibin Liang"
 category: people
-permalink: /speakers/Ruibin_Liang
+permalink: /speakers/Ruibin_Liang/
 image:
    cover: ../../../assets/images/people/liang_ruibin.jpg
 ---

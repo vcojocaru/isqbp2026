@@ -52,7 +52,7 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 09:00 - 09:25 | <span style="color:blue">[Alex MacKerell](/speakers/Alex_MacKerell/)</span> | University of Maryland, USA | "Ongoing developments in the Classical Drude Oscillator Polarizable Force Field" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 09:25 - 09:50 |<span style="color:blue">[Jiří Šponer](/speakers/Jiri_Sponer/)</span> | Institute of Biophysics, Brno, Czeck Republic | "Atomistic Molecular Dynamics Simulations of Nucleic Acids: Force Field Advances and Issues" |
+| 09:25 - 09:50 |<span style="color:blue">[Jiří Šponer](/speakers/Jiri_Sponer/)</span> | Institute of Biophysics, Brno, Czech Republic | "Atomistic Molecular Dynamics Simulations of Nucleic Acids: Force Field Advances and Issues" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 09:50 - 10:15 | <span style="color:blue">[Thomas Cheatham III](/speakers/Tom_Cheatham/)</span> | University of Utah, USA | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -60,7 +60,7 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **10:30 - 11:00** | **COFFEE BREAK** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 11:00 - 11:25 | <span style="color:blue">[Petr Jurečka](/speakers/Petr_Jurecka/)</span> | Palacký University Olomouc, Czeck Republic | "New AMBER Force Fields for More Reliable DNA and Protein–DNA Simulations" |
+| 11:00 - 11:25 | <span style="color:blue">[Petr Jurečka](/speakers/Petr_Jurecka/)</span> | Palacký University Olomouc, Czech Republic | "New AMBER Force Fields for More Reliable DNA and Protein–DNA Simulations" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 11:25 - 11:50 |<span style="color:blue">[Paulo Cesar Telles de Souza](/speakers/Paulo_Cesar_Telles_de_Souza/)</span> | Laboratoire de Biologie et Modélisation de la Cellule, CNRS, Lyon, France | "From Mechanism to Design: Coarse-Grained and Machine-Learning Approaches to Lipid Nanoparticle Delivery" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -141,7 +141,7 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **17:05 - 17:50** | <span style="color:darkred">**GILDA LOEW LECTURE**</span> | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| | <span style="color:darkred">[Zoe Cournia](/speakers/Zoe_Cournia/)</span> | Biomedical Research Foundation, Academy of Athena, Greece | "Title TBA" |
+| | <span style="color:darkred">[Zoe Cournia](/speakers/Zoe_Cournia/)</span> | Biomedical Research Foundation, Academy of Athena, Greece | "Allostery in Drug Discovery: From MD to ML" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **17:50 - 19:30** | **POSTER SESSION II**      | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|

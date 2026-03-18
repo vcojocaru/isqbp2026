@@ -2,7 +2,7 @@
 layout: single
 title: "Maciej Szaleniec"
 category: people
-permalink: /speakers/Maciej_Szaleniec
+permalink: /speakers/Maciej_Szaleniec/
 image:
    cover: ../../../assets/images/people/szaleniec_maciej.jpg
 ---

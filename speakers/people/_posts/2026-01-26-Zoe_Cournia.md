@@ -12,3 +12,9 @@ image:
 #### Biomedical Research Foundation, Academy of Athena, Greece - [Research](https://www.bioacademy.gr/lab/cournia)
 
 <br>
+
+### Allostery in Drug Discovery: From MD to ML
+
+<br>
+
+***Abstract***
