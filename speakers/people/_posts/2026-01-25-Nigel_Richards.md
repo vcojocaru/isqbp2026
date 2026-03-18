@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: single-people
+classes: wide
 title: "Nigel Richards"
 category: people
 permalink: /speakers/Nigel_Richards/
@@ -7,9 +8,13 @@ image:
    cover: ../../../assets/images/people/richards_nigel.jpg
 ---
 
-#### Foundation for Applied Molecular Evolution, Alachua, Fl 32615, USA
+***
 
-<br> 
+***Affiliation***
+
+Foundation for Applied Molecular Evolution, Alachua, Fl 32615, USA
+
+***
 
 ### Quantum Chemical Insights into Arginine Sidechain Modification 
 

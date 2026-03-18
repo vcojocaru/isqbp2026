@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: single-people
+classes: wide
 title: "Anna Panchenko"
 category: people
 permalink: /speakers/Anna_Panchenko/
@@ -7,9 +8,13 @@ image:
    cover: ../../../assets/images/people/panchenko_anna.jpg
 ---
 
-#### [Queen's University](https://dbms.queensu.ca/faculty/anna-panchenko), Kingston, Ontario, Canada
+***
 
-<br>
+***Affiliation***
+
+[Queen's University](https://dbms.queensu.ca/faculty/anna-panchenko), Kingston, Ontario, Canada
+
+***
 
 ### Key Challenges in Modeling Protein–DNA Interactions in Chromatin
 

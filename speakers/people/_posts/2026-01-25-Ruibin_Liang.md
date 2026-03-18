@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: single-people
+classes: wide
 title: "Ruibin Liang"
 category: people
 permalink: /speakers/Ruibin_Liang/
@@ -7,9 +8,13 @@ image:
    cover: ../../../assets/images/people/liang_ruibin.jpg
 ---
 
-#### Department of Chemistry and Biochemistry, Texas Tech University, USA - [Research](https://www.depts.ttu.edu/chemistry/Faculty/liang/)
+***
 
-<br>
+***Affiliation***
+
+Department of Chemistry and Biochemistry, Texas Tech University, USA - [Research](https://www.depts.ttu.edu/chemistry/Faculty/liang/)
+
+***
 
 ### Understanding the quantum dynamics of photoactive proteins through multiscale simulations 
 

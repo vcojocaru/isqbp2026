@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: single-people
+classes: wide
 title: "Jean Philippe Piquemal"
 category: people
 permalink: /speakers/Jean_Philippe_Piquemal/
@@ -7,10 +8,13 @@ image:
    cover: ../../../assets/images/people/piquemal_jean_philippe.jpg
 ---
 
+***
 
-#### Laboratoire de Chimie Théorique, Sorbonne Université, 75005 Paris, France - [Piquemal Group](https://piquemalresearch.com/)
+***Affiliation***
 
-<br>
+Laboratoire de Chimie Théorique, Sorbonne Université, 75005 Paris, France - [Piquemal Group](https://piquemalresearch.com/)
+
+***
 
 ### A Quantum Foundation Model for Accurate Atomistic Simulations in Drug Design.
 

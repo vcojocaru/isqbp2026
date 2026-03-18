@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: single-people
+classes: wide
 title: "Nathalie Reuter"
 category: people
 permalink: /speakers/Nathalie_Reuter/
@@ -7,9 +8,13 @@ image:
    cover: ../../../assets/images/people/reuter_nathalie.jpg
 ---
 
-#### [Department of Chemistry and Computational Biology Unit](https://www4.uib.no/en/find-employees/nathalie.reuter), University of Bergen, Norway
+***
 
-<br>
+***Affiliation***
+
+[Department of Chemistry and Computational Biology Unit](https://www4.uib.no/en/find-employees/nathalie.reuter), University of Bergen, Norway
+
+***
 
 ### Allosteric control of lipid transfer proteins by membrane lipids
 

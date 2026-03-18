@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: single-people
+classes: wide
 title: "Jan Huertas"
 category: people
 permalink: /speakers/Jan_Huertas/
@@ -7,7 +8,13 @@ image:
    cover: ../../../assets/images/people/huertas_jan.jpg
 ---
 
-#### [Yusuf Hamied Department of Chemistry](https://www.ch.cam.ac.uk/person/rc597), University of Cambridge, United Kingdom
+***
+
+***Affiliation***
+
+[Yusuf Hamied Department of Chemistry](https://www.ch.cam.ac.uk/person/rc597), University of Cambridge, United Kingdom
+
+***
 
 ### Multiscale simulations reveal molecular mechanisms of chromatin organisation
 

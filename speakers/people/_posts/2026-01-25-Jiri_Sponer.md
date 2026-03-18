@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: single-people
+classes: wide
 title: "Jiří Šponer"
 category: people
 permalink: /speakers/Jiri_Sponer/
@@ -7,9 +8,13 @@ image:
    cover: ../../../assets/images/people/sponer_jiri.jpg
 ---
 
-#### [Institute of Biophysics of the Czech Academy of Sciences](https://www.ibp.cz/en/), Královopolská 135, 612 00, Brno, Czech Republic
+***
 
-<br>
+***Affiliation***
+
+[Institute of Biophysics of the Czech Academy of Sciences](https://www.ibp.cz/en/), Královopolská 135, 612 00, Brno, Czech Republic
+
+***
 
 ### Atomistic Molecular Dynamics Simulations of Nucleic Acids: Force Field Advances and Issues
 

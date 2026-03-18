@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: single-people
+classes: wide
 title: "Fahmi Himo"
 category: people
 permalink: /speakers/Fahmi_Himo/
@@ -7,10 +8,13 @@ image:
    cover: ../../../assets/images/people/himo_fahmi.jpg
 ---
 
+***
 
-#### Department of Chemistry, Arrhenius Laboratory, Stockholm University, Sweden - [Himo Group](https://www.organ.su.se/himo/)
+***Affiliation***
 
-<br>
+Department of Chemistry, Arrhenius Laboratory, Stockholm University, Sweden - [Himo Group](https://www.organ.su.se/himo/)
+
+***
 
 ### Quantum Chemical Modeling of Enzyme Enantioselectivity
 

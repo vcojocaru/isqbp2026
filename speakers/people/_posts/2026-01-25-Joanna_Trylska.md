@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: single-people
+classes: wide
 title: "Joanna Trylska"
 category: people
 permalink: /speakers/Joanna_Trylska/
@@ -7,9 +8,13 @@ image:
    cover: ../../../assets/images/people/trylska_joanna.jpg
 ---
 
-#### University of Warsaw, Centre of New Technologies, Warsaw, Poland - [Research](http://bionano.cent.uw.edu.pl/)
+***
 
-<br>
+***Affiliation***
+
+University of Warsaw, Centre of New Technologies, Warsaw, Poland - [Research](http://bionano.cent.uw.edu.pl/)
+
+***
 
 ### Molecular dynamics in multi-dimensional space reveals how mutations reshape neomycin binding to the riboswitch
 

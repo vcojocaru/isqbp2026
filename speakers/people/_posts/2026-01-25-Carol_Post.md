@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: single-people
+classes: wide
 title: "Carol Post"
 category: people
 permalink: /speakers/Carol_Post/
@@ -7,9 +8,13 @@ image:
    cover: ../../../assets/images/people/post_carol.jpg
 ---
 
-#### Borch Department of Medicinal Chemistry and Molecular Pharmacology and Department of Biological Sciences, Purdue University, West Lafayette, IN, USA - [Research](https://www.purdue.edu/postlab/)
+***
 
-<br>
+***Affiliation***
+
+Borch Department of Medicinal Chemistry and Molecular Pharmacology and Department of Biological Sciences, Purdue University, West Lafayette, IN, USA - [Research](https://www.purdue.edu/postlab/)
+
+***
 
 ### Phosphorylation influence on protein conformational equilibrium with connections to functional outcomes
 

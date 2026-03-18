@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: single-people
+classes: wide
 title: "Maciej Szaleniec"
 category: people
 permalink: /speakers/Maciej_Szaleniec/
@@ -7,9 +8,13 @@ image:
    cover: ../../../assets/images/people/szaleniec_maciej.jpg
 ---
 
-#### Jerzy Haber Institute of Catalysis and Surface Chemistry, Polish Academy of Sciences, Krakow, Poland - [Research](https://ikifp.edu.pl/user/maciej+szaleniec/)
+***
 
-<br>
+***Affiliation***
+
+Jerzy Haber Institute of Catalysis and Surface Chemistry, Polish Academy of Sciences, Krakow, Poland - [Research](https://ikifp.edu.pl/user/maciej+szaleniec/)
+
+***
 
 ### Tungsten-containing enzymes – new tools in the biotech toolbox. Modelling and challenges. 
 

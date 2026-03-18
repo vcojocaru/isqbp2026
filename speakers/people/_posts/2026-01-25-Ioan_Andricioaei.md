@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: single-people
+classes: wide
 title: "Ioan Andricioaei"
 category: people
 permalink: /speakers/Ioan_Andricioaei/
@@ -7,10 +8,13 @@ image:
    cover: ../../../assets/images/people/andricioaei_ioan.jpg
 ---
 
+***
 
-#### [University of California](https://www.chem.uci.edu/people/ioan-andricioaei), Irvine, USA - [Andricioaei Lab](https://andricioaeigroup.github.io/)
+***Affiliation***
 
-<br>
+[University of California](https://www.chem.uci.edu/people/ioan-andricioaei), Irvine, USA - [Andricioaei Lab](https://andricioaeigroup.github.io/)
+
+***
 
 ### Computing large-and-slow DNA motions from fast sampling of rare conformational transitions
 

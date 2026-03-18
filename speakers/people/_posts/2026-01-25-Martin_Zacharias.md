@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: single-people
+classes: wide
 title: "Martin Zacharias"
 category: people
 permalink: /speakers/Martin_Zacharias/
@@ -7,9 +8,13 @@ image:
    cover: ../../../assets/images/people/zacharias_martin.jpg
 ---
 
-#### [Center of Functional Protein Assemblies and Physics Department](https://www.professoren.tum.de/en/zacharias-martin), Technical University of Munich , Ernst-Otto-Fischer-Str. 8, D-85747 Garching, Germany
+***
 
-<br>
+***Affiliation***
+
+[Center of Functional Protein Assemblies and Physics Department](https://www.professoren.tum.de/en/zacharias-martin), Technical University of Munich , Ernst-Otto-Fischer-Str. 8, D-85747 Garching, Germany
+
+***
 
 #### Protein interaction modulation studied by ligand design and molecular simulations
 

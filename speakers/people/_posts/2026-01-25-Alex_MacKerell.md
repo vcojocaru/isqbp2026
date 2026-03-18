@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: single-people
+classes: wide
 title: "Alex MacKerell"
 category: people
 permalink: /speakers/Alex_MacKerell/
@@ -7,9 +8,13 @@ image:
    cover: ../../../assets/images/people/mackerell_alex.jpg
 ---
 
-#### Computer-Aided Drug Design Center, Department of Pharmaceutical Sciences, [School of Pharmacy](https://faculty.rx.umaryland.edu/amackerell/), University of Maryland, Baltimore, MD, 21230, USA
+***
 
-<br>
+***Affiliation***
+
+Computer-Aided Drug Design Center, Department of Pharmaceutical Sciences, [School of Pharmacy](https://faculty.rx.umaryland.edu/amackerell/), University of Maryland, Baltimore, MD, 21230, USA
+
+***
 
 ### Ongoing developments in the Classical Drude Oscillator Polarizable Force Field.
 

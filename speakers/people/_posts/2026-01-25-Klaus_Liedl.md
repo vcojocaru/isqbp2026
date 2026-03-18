@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: single-people
+classes: wide
 title: "Klaus Liedl"
 category: people
 permalink: /speakers/Klaus_Liedl/
@@ -7,10 +8,13 @@ image:
    cover: ../../../assets/images/people/liedl_klaus.jpg
 ---
 
+***
 
-#### University of Innsbruck, Austria - [Research](https://liedllab.org/)
+***Affiliation***
 
-<br>
+University of Innsbruck, Austria - [Research](https://liedllab.org/)
+
+***
 
 ### From Canonical Structures to Conformational Ensembles: Physics-Based Modeling of Antibody Structure, Dynamics, and Developability in Solution
 

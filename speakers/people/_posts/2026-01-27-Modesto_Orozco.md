@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: single-people
+classes: wide
 title: "Modesto Orozco"
 category: people
 permalink: /speakers/Modesto_Orozco/
@@ -7,11 +8,15 @@ image:
    cover: ../../../assets/images/people/modesto_orozco_black.jpg
 ---
 
-#### Distinguished by ISQBP with the [Award in Computational Biology Award](/news/ISQBP-Award_Computational_Biology)
+*** 
 
-#### [IRB Barcelona](https://www.irbbarcelona.org/en/research/modesto-orozco), Spain
+***Distinguished by ISQBP with the [Award in Computational Biology](/news/ISQBP-Award_Computational_Biology)***
 
-<br>
+***Affiliation***
+
+[IRB Barcelona](https://www.irbbarcelona.org/en/research/modesto-orozco), Spain
+
+***
 
 ### A Journey Through DNA
 

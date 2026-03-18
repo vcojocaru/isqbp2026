@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: single-people
+classes: wide
 title: "Bert de Groot"
 category: people
 permalink: /speakers/Bert_de_Groot/
@@ -7,9 +8,13 @@ image:
    cover: ../../../assets/images/people/groot_de_bert.jpg
 ---
 
-#### [Max Planck Institute for Multidisciplinary Sciences](https://www3.mpibpc.mpg.de/groups/de_groot/bgroot.html), Goettingen, Germany
+***
 
-<br>
+***Affiliation***
+
+[Max Planck Institute for Multidisciplinary Sciences](https://www3.mpibpc.mpg.de/groups/de_groot/bgroot.html), Goettingen, Germany
+
+***
 
 ### Alchemical binding free energy calculations for ligand binding, protein allostery, post-translational modifications, and more
 

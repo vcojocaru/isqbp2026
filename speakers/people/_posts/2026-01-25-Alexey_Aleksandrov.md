@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: single-people
+classes: wide
 title: "Alexey Aleksandrov"
 category: people
 permalink: /speakers/Alexey_Aleksandrov/
@@ -7,9 +8,13 @@ image:
    cover: ../../../assets/images/people/aleksandrov_alexey.jpg
 ---
 
-#### CNRS, Laboratoire d’Optique et Biosciences, Ecole Polytechnique, Institut polytechnique de Paris, F-91128 Palaiseau, France
+***
 
-<br>
+***Affiliation***
+
+CNRS, Laboratoire d’Optique et Biosciences, Ecole Polytechnique, Institut polytechnique de Paris, F-91128 Palaiseau, France
+
+***
 
 ### Molecular Simulation and Experimental Insights into the Catalytic Mechanism of Fatty Acid Photodecarboxylase
 

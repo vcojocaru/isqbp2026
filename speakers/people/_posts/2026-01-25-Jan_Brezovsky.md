@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: single-people
+classes: wide
 title: "Jan Brezovsky"
 category: people
 permalink: /speakers/Jan_Brezovsky/
@@ -7,9 +8,13 @@ image:
    cover: ../../../assets/images/people/brezovsky_jan.jpg
 ---
 
-#### Laboratory of Biomolecular Interactions and Transport, Adam Mickiewicz University, Poznań, Poland - [Research](https://ibmib.web.amu.edu.pl/groups/laboratory-of-biomolecular-interactions-and-transport/jan-brezovsky/)
+***
 
-<br>
+***Affiliation***
+
+Laboratory of Biomolecular Interactions and Transport, Adam Mickiewicz University, Poznań, Poland - [Research](https://ibmib.web.amu.edu.pl/groups/laboratory-of-biomolecular-interactions-and-transport/jan-brezovsky/)
+
+***
 
 ### Cracking the code of enzyme tunnels: understanding, predicting, and engineering hidden pathways
 

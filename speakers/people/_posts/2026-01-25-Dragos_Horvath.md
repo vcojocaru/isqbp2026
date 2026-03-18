@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: single-people
+classes: wide
 title: "Dragoș Horvath"
 category: people
 permalink: /speakers/Dragos_Horvath/
@@ -7,10 +8,13 @@ image:
    cover: ../../../assets/images/people/horvath_dragos.jpg
 ---
 
+***
 
-#### Universite de Strasbourg, France - [Research](https://complex-matter.unistra.fr/en/research-teams/laboratory-of-chemoinformatics/)
+***Affiliation***
 
-<br>
+Universite de Strasbourg, France - [Research](https://complex-matter.unistra.fr/en/research-teams/laboratory-of-chemoinformatics/)
+
+***
 
 #### The Chemical Library Space: From Compound Chemography to Management of Portofolio of DNA-Encoded Libraries
 

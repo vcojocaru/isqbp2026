@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: single-people
+classes: wide
 title: "Marco de Vivo"
 category: people
 permalink: /speakers/Marco_de_Vivo/
@@ -7,9 +8,13 @@ image:
    cover: ../../../assets/images/people/vivo_de_marco.jpg
 ---
 
-#### [Laboratory of Molecular Modelling & Drug Discovery](https://www.iit.it/people-details/-/people/marco-devivo), Istituto Italiano di Tecnologia, Via Morego 30, 16163, Genoa, Italy
+***
 
-<br>
+***Affiliation***
+
+[Laboratory of Molecular Modelling & Drug Discovery](https://www.iit.it/people-details/-/people/marco-devivo), Istituto Italiano di Tecnologia, Via Morego 30, 16163, Genoa, Italy
+
+***
    
 ### Decoding Biochemical Complexity with Simulations and AI-Enhanced Sampling
 

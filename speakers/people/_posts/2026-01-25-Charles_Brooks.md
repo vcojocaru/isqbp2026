@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: single-people
+classes: wide
 title: "Charles L. Brooks III"
 category: people
 permalink: /speakers/Charles_Brooks/
@@ -7,11 +8,13 @@ image:
    cover: ../../../assets/images/people/brooks_charles.jpg
 ---
 
-#### Warner-Lambert/Parke-Davis Chair in Chemistry, Cyrus Levinthal Distinguished University
-#### Professor of Chemistry and Biophysics, Departments of Chemistry and Biophysics, University of Michigan
-#### [Research](https://brooks.chem.lsa.umich.edu/)
+***
 
-<br>
+***Affiliation***
+
+Warner-Lambert/Parke-Davis Chair in Chemistry, Cyrus Levinthal Distinguished University; Professor of Chemistry and Biophysics, Departments of Chemistry and Biophysics, University of Michigan - [Research](https://brooks.chem.lsa.umich.edu/)
+
+***
 
 ### Novel high-throughput methods for free energy calculations
 

@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: single-people
+classes: wide
 title: "Petr Jurečka"
 category: people
 permalink: /speakers/Petr_Jurecka/
@@ -7,9 +8,13 @@ image:
    cover: ../../../assets/images/people/jurecka_petr.jpg
 ---
 
-#### Palacký University Olomouc, Department of Physical Chemistry, Czech Republic [Research](https://www.kfc.upol.cz/katedra/zamestnanci/jurecka/)
+***
 
-<br>
+***Affiliation***
+
+Palacký University Olomouc, Department of Physical Chemistry, Czech Republic [Research](https://www.kfc.upol.cz/katedra/zamestnanci/jurecka/)
+
+***
 
 ### New AMBER Force Fields for More Reliable DNA and Protein–DNA Simulations
 

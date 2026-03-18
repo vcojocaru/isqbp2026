@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: single-people
+classes: wide
 title: "Johan Åqvist"
 category: people
 permalink: /speakers/Johan_Aqvist/
@@ -7,9 +8,13 @@ image:
    cover: ../../../assets/images/people/aqvist_johan.jpg
 ---
 
-#### Uppsala University, Sweden - [Research](https://www.uu.se/en/contact-and-organisation/staff?query=XX3347)
+***
 
-<br>
+***Affiliation***
+
+Uppsala University, Sweden - [Research](https://www.uu.se/en/contact-and-organisation/staff?query=XX3347)
+
+***
 
 ### Computational Design of the Temperature Dependence of Enzyme Reactions
 

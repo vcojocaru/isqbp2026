@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: single-people
+classes: wide
 title: "Ellinor Haglund"
 category: people
 permalink: /speakers/Ellinor_Haglund/
@@ -7,9 +8,13 @@ image:
    cover: ../../../assets/images/people/haglund_ellinor.jpg
 ---
 
-#### University of Hawaii, Manoa, USA - [Research](https://manoa.hawaii.edu/chem/people/ellinor-haglund/)
+***
 
-<br>
+***Affiliation***
+
+University of Hawaii, Manoa, USA - [Research](https://manoa.hawaii.edu/chem/people/ellinor-haglund/)
+
+***
 
 ### Structural Plasticity in Chemokines Driven by Native and Non-Native Disulfide Bonds
 

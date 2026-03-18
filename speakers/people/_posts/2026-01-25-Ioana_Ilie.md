@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: single-people
+classes: wide
 title: "Ioana Ilie"
 category: people
 permalink: /speakers/Ioana_Ilie/
@@ -7,12 +8,18 @@ image:
    cover: ../../../assets/images/people/ilie_ioana.jpg
 ---
 
-#### Authors: J. Kunz<sup>1</sup>, T. Vlaar<sup>1</sup>, B. M. Meyer<sup>1</sup>, L. van der Heide<sup>2</sup>, and I. M. ILIE<sup>2</sup>
+***
 
-#### <sup>(1)</sup> van ‘t Hoff Institute for Molecular Sciences, University of Amsterdam, Science Park 904, Amsterdam, the Netherlands
-#### <sup>(2)</sup> Swammerdam Institute for Life Sciences, University of Amsterdam, Science Park 904, Amsterdam, the Netherlands
+***Authors***
 
-<br>
+J. Kunz<sup>1</sup>, T. Vlaar<sup>1</sup>, B. M. Meyer<sup>1</sup>, L. van der Heide<sup>2</sup>, and I. M. ILIE<sup>2</sup>
+
+***Affiliation***
+
+<sup>(1)</sup> van ‘t Hoff Institute for Molecular Sciences, University of Amsterdam, Science Park 904, Amsterdam, the Netherlands
+<sup>(2)</sup> Swammerdam Institute for Life Sciences, University of Amsterdam, Science Park 904, Amsterdam, the Netherlands
+
+***
 
 ### AI-enhanced molecular design of peptides regulating Bax activation
 
