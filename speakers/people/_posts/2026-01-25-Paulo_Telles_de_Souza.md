@@ -2,6 +2,7 @@
 layout: single
 title: "Paulo Cesar Telles de Souza"
 category: people
+permalink: /speakers/Paulo_Cesar_Telles_de_Souza/
 image:
    cover: ../../../assets/images/people/souza_de_telles_paulo.jpg
 ---

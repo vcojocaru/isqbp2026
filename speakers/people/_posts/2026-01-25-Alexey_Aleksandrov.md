@@ -2,7 +2,7 @@
 layout: single
 title: "Alexey Aleksandrov"
 category: people
-permalink: /speakers/Alexey_Aleksandrov
+permalink: /speakers/Alexey_Aleksandrov/
 image:
    cover: ../../../assets/images/people/aleksandrov_alexey.jpg
 ---

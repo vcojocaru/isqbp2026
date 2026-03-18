@@ -8,7 +8,7 @@ var store = [{
         "title": "Alessandra Magistrato",
         "excerpt":"Scuola Internazionale Superiore di Studi Avanzati, Trieste, Italy - Magistrato Group      ","categories": ["speakers","people"],
         "tags": [],
-        "url": "/speakers/Alessandra_Magistrato",
+        "url": "/speakers/Alessandra_Magistrato/",
         "teaser": null
       },{
         "title": "Alex MacKerell",
@@ -20,13 +20,13 @@ var store = [{
         "title": "Alexey Aleksandrov",
         "excerpt":"CNRS, Laboratoire d’Optique et Biosciences, Ecole Polytechnique, Institut polytechnique de Paris, F-91128 Palaiseau, France       Molecular Simulation and Experimental Insights into the Catalytic Mechanism of Fatty Acid Photodecarboxylase       Abstract   Fatty acid photodecarboxylase (FAP) is a recently discovered photoenzyme that converts fatty acids into hydrocarbons through a light-driven radical mechanism. In this talk, I will show how we combine molecular dynamics (MD) and quantum mechanics/molecular mechanics simulations with time-resolved spectroscopic observations to elucidate key mechanistic aspects of FAP function. MD simulations reveal a strong dependence of active-site organization on substrate chain length, with short-chain substrates inducing tighter pocket packing aided by the alkane product acting as a co-catalyst, thereby explaining the unexpectedly high activity toward medium-chain fatty acids. In contrast, substrate-free simulations show expansion of the flavin-binding pocket and increased water penetration, rationalizing ultrafast spectroscopic evidence for hydrated electron formation following photoexcitation of the flavin anion radical. Combined experimental and simulation results further reveal details of the FAP photocycle, including transformation of the CO₂ coproduct into bicarbonate at cryogenic temperatures, while this pathway is suppressed under physiological conditions, explaining the strong temperature dependence observed experimentally. Overall, by integrating simulations with spectroscopy, we demonstrate how protein dynamics and active-site electrostatics govern light-driven radical chemistry in FAP.   References   Bonvalet et al, Dynamics and Catalytic Conversion of the CO2 Coproduct in Fatty Acid Photodecarboxylase. ACS Catalysis 2025.   Samire et al, Autocatalytic effect boosts the production of medium-chain hydrocarbons by fatty acid photodecarboxylase. Science Advances 2023, 9 (13), eadg3881.   Vos et al, Ultrafast photooxidation of semireduced flavin in fatty acid photodecarboxylase. Science Advances 2025, 11 (38), eadz1904.  ","categories": ["speakers","people"],
         "tags": [],
-        "url": "/speakers/Alexey_Aleksandrov",
+        "url": "/speakers/Alexey_Aleksandrov/",
         "teaser": null
       },{
         "title": "Anna Panchenko",
         "excerpt":"Queen’s University, Kingston, Ontario, Canada       Key Challenges in Modeling Protein–DNA Interactions in Chromatin       Abstract The key challenges in modeling of protein–DNA interactions in chromatin arise from its multiscale, dynamic, and heterogeneous nature, the coupling between DNA sequence-dependent mechanics and nucleosome organization, and the cooperativity among many DNA binding factors. Such a complex nature of protein–DNA interactions in chromatin makes them difficult to study using experimental approaches alone. Therefore, we develop integrative approaches that combine atomistic molecular dynamics simulations and molecular modeling with various experimental methods, such as Cryo-ET, NMR spectroscopy, MNase-seq, and binding assays. Our findings show how DNA modifications and protein missense mutations can impact protein-DNA binding and chromatin dynamics.  ","categories": ["speakers","people"],
         "tags": [],
-        "url": "/speakers/Anna_Panchenko",
+        "url": "/speakers/Anna_Panchenko/",
         "teaser": null
       },{
         "title": "Bert de Groot",
@@ -38,7 +38,7 @@ var store = [{
         "title": "Carol Post",
         "excerpt":"Borch Department of Medicinal Chemistry and Molecular Pharmacology and Department of Biological Sciences, Purdue University, West Lafayette, IN, USA - Research       Phosphorylation influence on protein conformational equilibrium with connections to functional outcomes   Abstract   The function of multidomain proteins such as those in cellular signaling is often regulated by post‑translational phosphorylation.  The localization of proteins within cells as well as the levels of enzymatic activity are both tightly controlled to output the proper functionality.  One component of regulation is the control of inter‑domain structure through phosphorylation. To best understand these fundamental processes, we scrutinized conformational behavior of µs‑timescale molecular dynamics simulations in concert with NMR relaxation to gain insight into the physical basis of responses to phosphorylation.  Analyses elucidated regulation mechanisms of protein-protein interactions relevant to localization. This talk will explain an entropy-driven phospho-sensor so far unique to Syk tyrosine kinase.  We discovered a network of interactions that includes a central triad of charged residues that switches salt‑bridge partners in response to phosphorylation. We envision the design of biosensors derived from principles of the Syk network.  In addition, how linker phosphorylation of FAK-FERM kinase alters linker dynamics to enable protein‑protein interactions critical for coordinating cellular events underlying cell adhesion and migration will be presented.  Given the disease relevance of both Syk and FAK kinases, knowledge on functional regulation by phosphorylation is projected to inform future drug development efforts.   ","categories": ["speakers","people"],
         "tags": [],
-        "url": "/speakers/Carol_Post",
+        "url": "/speakers/Carol_Post/",
         "teaser": null
       },{
         "title": "Charles L. Brooks III",
@@ -80,7 +80,7 @@ var store = [{
         "title": "Ioana Ilie",
         "excerpt":"Authors: J. Kunz1, T. Vlaar1, B. M. Meyer1, L. van der Heide2, and I. M. ILIE2   (1) van ‘t Hoff Institute for Molecular Sciences, University of Amsterdam, Science Park 904, Amsterdam, the Netherlands  (2) Swammerdam Institute for Life Sciences, University of Amsterdam, Science Park 904, Amsterdam, the Netherlands       AI-enhanced molecular design of peptides regulating Bax activation       Abstract   Protein–protein interactions govern most cellular decisions but remain challenging to modulate because their interfaces are large, dynamic and often considered “undruggable.” Peptides offer a powerful way to rewire PPIs by mimicking or competing with natural interaction motifs, providing high affinity and specificity at otherwise inaccessible surfaces. Here, we introduce a computational framework for de novo design of peptide binders that integrates a generative protein design model with physics-based molecular simulations1,2. We focus on the pro- apoptotic Bcl-2 family member Bax, a key executor of apoptosis whose dysregulation is implicated in cancer and neurodegenerative diseases and target it with helical and cyclic peptides as potential therapeutic agents. Our approach couples a generative model, used to traverse the binder design landscape and propose candidate Bax-binding peptides, with atomistic molecular dynamics (MD) simulations that provide explicit physical evaluation of binding affinity and complex stability. Our results show that short MD simulations of designed binders enable a more informative in silico screening step than standard sequence- or structure-based heuristics, which become insufficient in the regime of highly capable generative models; this is validated by follow-up extensive MD and enhanced sampling (umbrella sampling) calculations of binding free energies. On this basis, we construct a surrogate model that maps peptide sequence features to physically motivated metrics, including MD- derived binding free energies, enabling fast prediction of binding affinity for new designs without additional simulations. Finally, we integrate the surrogate into an active learning loop, replacing explicit MD scoring with learned physical proxies, and perform iterative peptide design. As a proof of concept, we show that the resulting peptides bind Bax with high predicted affinity, populate the canonical hydrophobic groove (BH1 domain) and an alternative site near the BH3 domain (α2 helix), and restrict the flexibility of the α1–α2 loop associated with activation. Together, these results establish a digital, simulation-informed paradigm for peptide design against Bax and provide a generalizable route to embed physical realism into generative binder design.   References   Kunz et al, in prep.   Vlaar et al, Mater Adv. 2025, 6, 2160-2169  ","categories": ["speakers","people"],
         "tags": [],
-        "url": "/speakers/Ioana_Ilie",
+        "url": "/speakers/Ioana_Ilie/",
         "teaser": null
       },{
         "title": "Jan Brezovsky",
@@ -128,7 +128,7 @@ var store = [{
         "title": "Laurentiu Spiridon",
         "excerpt":"Institute of Biochemistry, Romanian Academy, Bucharest, Romania - Research      ","categories": ["speakers","people"],
         "tags": [],
-        "url": "/speakers/Laurentiu_Spiridon",
+        "url": "/speakers/Laurentiu_Spiridon/",
         "teaser": null
       },{
         "title": "Maciej Szaleniec",
@@ -140,7 +140,7 @@ var store = [{
         "title": "Marco de Vivo",
         "excerpt":"Laboratory of Molecular Modelling &amp; Drug Discovery, Istituto Italiano di Tecnologia, Via Morego 30, 16163, Genoa, Italy       Decoding Biochemical Complexity with Simulations and AI-Enhanced Sampling       Abstract   In my contribution, I will illustrate our recent efforts to understand complex chemical processes in biochemistry through molecular simulations. I will present and discuss our work on dissecting the molecular mechanisms by which enzymes perform their complex functions. Examples will include the mechanism of DNA translocation by polymerase (Pol) enzymes, a critical step in Pol-mediated nucleic acid polymerization. The goal is to understand how complex chemical processes often involve critical conformational changes that are difficult to capture with equilibrium molecular dynamics or simple collective variables for enhanced-sampling simulations. I will explain how these problems were tackled through advanced simulations and AI-guided enhanced sampling, decoding molecular mechanisms that align well with the experimental evidence. Our efforts demonstrate how such approaches can address (bio)chemical questions of increasing complexity, where identifying the proper collective variable is inherently challenging.   References   [1] A. Visigalli, E. Trizio, Enrico, L. Bonati, P. Vidossich, M. Parrinello, M. De Vivo. “Coordinated residue motions at the enzyme-substrate interface promote DNA translocation in polymerases” J. Am. Chem. Soc., 2025   ","categories": ["speakers","people"],
         "tags": [],
-        "url": "/speakers/Marco_de_Vivo",
+        "url": "/speakers/Marco_de_Vivo/",
         "teaser": null
       },{
         "title": "Martin Zacharias",
@@ -152,7 +152,7 @@ var store = [{
         "title": "Nathalie Reuter",
         "excerpt":"Department of Chemistry and Computational Biology Unit, University of Bergen, Norway       Allosteric control of lipid transfer proteins by membrane lipids       Abstract   Lipid transfer proteins (LTPs) transfer lipids between intracellular membranes through non-vesicular mechanisms and regulate lipid homeostasis. Despite a wealth of structural data, little is known about the mechanisms by which LTPs desorb lipids from well-organized membranes. We investigated 3 LTPs from the family of StAR-related lipid transfer domains (STARD): STARD2 (phosphatidylcholine transfer domain), STARD4 (sterol transfer domain), and STARD11 (ceramide transfer domain in CERT multidomain protein). We used a combination of multiscale molecular simulations and free energy calculations to investigate the mechanisms for extraction (or release) of their cargo lipids from (or into) their donor (or acceptor) membranes. We used multicomponent lipid bilayers modeling the plasma membrane and relevant organelle membranes. The simulations revealed similarities in binding orientation of the three proteins to lipid bilayers, but also striking differences in their sensitivity to lipid composition. We propose detailed models for the mechanism of lipid uptake/release in START domains, and highlight mechanistic differences between structurally similar proteins [1-4]. Our models are supported by experimental data.   References   [1] Talandasthi, J Mol Biol, 2024; [2] Talandasthi, J Phys Chem Lett, 2024; [3] Moqadam, J Phys Chem B, 2024, [4] Titeca, Nature, 2026  ","categories": ["speakers","people"],
         "tags": [],
-        "url": "/Nathalie%20Reuter",
+        "url": "/speakers/Nathalie_Reuter/",
         "teaser": null
       },{
         "title": "Nicoleta Bondar",
@@ -176,13 +176,13 @@ var store = [{
         "title": "Paulo Cesar Telles de Souza",
         "excerpt":"Laboratoire de Biologie et Modélisation de la Cellule, CNRS, UMR 5239, Inserm, U1293, Université Claude Bernard Lyon 1, Ecole Normale Supérieure de Lyon, 46 Allée d’Italie, 69364, Lyon, France.   Centre Blaise Pascal de Simulation et de Modélisation Numérique, Ecole Normale Supérieure de Lyon, 46 Allée d’Italie, 69364, Lyon, France.       From Mechanism to Design: Coarse-Grained and Machine-Learning Approaches to Lipid Nanoparticle Delivery       Abstract Lipid nanoparticles (LNPs) are central to the delivery of RNA-based therapeutics, yet their rational design remains challenging due to the complex coupling between composition, structure, and pH-dependent molecular interactions. Experimental approaches, while essential, are often costly and provide limited structural resolution, whereas atomistic simulations remain computationally demanding1,2.   In this talk, I will present recent advances in coarse-grained (CG) molecular dynamics simulations that provide mechanistic insight into RNA encapsulation, pH-driven structural transitions, and endosomal escape in LNPs. Using validated Martini 3 models³ together with refined lipid parameters and an expanded library of ionizable lipids, sterols, and PEGylated components4,5, these simulations reveal how different protonation states regulate lipid–RNA interactions, internal LNP organization, and membrane fusion pathways during endosomal trafficking.   Building on this mechanistic framework, I will further show how molecular descriptors extracted from CG simulations can be integrated with machine-learning approaches to predict delivery efficiency and accelerate formulation screening. Together, these multiscale and data-driven strategies enable a transition from molecular understanding to predictive design of next-generation lipid nanoparticle delivery systems.   References   1) Paloncýová, M. et al. Computational Methods for Modeling Lipid-Mediated Active Pharmaceutical Ingredient Delivery. Molecular Pharmaceutics 22, 1110–1141 (2025). 2) Kjølbye, L. R. et al. Towards design of drugs and delivery systems with the Martini coarse-grained model. QRB Discovery 3, e19 (2022). 3) Souza, P. C. T. et al. Martini 3: A general purpose force field for coarse-grained molecular dynamics. Nature Methods 18, 382–388 (2021). 4) Pedersen, K. B. et al. The Martini 3 lipidome: Expanded and refined parameters improve lipid phase behavior. ACS Central Science 11 (9) (2025). 5) Kjølbye, L. R. et al. Martini 3 Building Blocks for Lipid Nanoparticle Design. Journal of Chemical Theory and Computation 22 (2), 1069–1091 (2026).  ","categories": ["speakers","people"],
         "tags": [],
-        "url": "/isqbp2026/speakers/people/Paulo_Telles_de_Souza.html",
+        "url": "/speakers/Paulo_Cesar_Telles_de_Souza/",
         "teaser": null
       },{
         "title": "Petr Jurečka",
         "excerpt":"Palacký University Olomouc, Department of Physical Chemistry, Czech Republic Research       New AMBER Force Fields for More Reliable DNA and Protein–DNA Simulations       Abstract The latest addition of the OL family of force fields, OL24, improves the description of the A/B-DNA equilibrium. Existing AMBER force field variants underpopulate the north (C3′-endo) sugar pucker, compromising simulations of protein–DNA systems requiring B-to-A transitions. The OL24 refinement of deoxyribose puckering brings the A/B equilibrium into better agreement with experimental data. The description of canonical B-DNA, DNA–RNA hybrids, and protein-induced conformational adaptation is also improved. Combined with the previous α/γ correction of OL21, OL24 provides a coherent framework for general DNA and protein–DNA simulations. We also assess the compatibility of OL force fields with Electronic Continuum Correction (ECC) charge scaling and the usefulness of Lorentz-Berthelot combining rules.  ","categories": ["speakers","people"],
         "tags": [],
-        "url": "/speakers/Petr_Jurecka",
+        "url": "/speakers/Petr_Jurecka/",
         "teaser": null
       },{
         "title": "Remo Rohs",
@@ -236,7 +236,7 @@ var store = [{
         "title": "Modesto Orozco",
         "excerpt":"Distinguished by ISQBP with the Award in Computational Biology Award   IRB Barcelona, Spain       A Journey Through DNA       Abstract   DNA is the carrier of genetic information and perhaps the molecule that best defines life as we know it. Yet, for me, it is something more: a fascinating physical problem in which multiple time and length scales coexist. In DNA, biology emerges from a myriad of sub-ångström details that ultimately map onto a meter-long molecular fiber. Approaching DNA from the perspective of physics requires integrating multiple levels of resolution within a coherent framework. This is a formidable challenge: it demands navigating across different physical models while incorporating experimental measurements at the core of theoretical and computational approaches. In this talk, I will summarize our experience over several decades developing tools to simulate nucleic acids, with special emphasis on DNA. I will also share my enthusiasm for how the next generation of methods may allow us to decipher, with increasing clarity, the fundamental molecular principles underlying life.  ","categories": ["speakers","people"],
         "tags": [],
-        "url": "/speakers/Modesto_Orozco",
+        "url": "/speakers/Modesto_Orozco/",
         "teaser": null
       },{
         "title": "",

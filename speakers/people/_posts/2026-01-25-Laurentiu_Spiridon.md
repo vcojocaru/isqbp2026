@@ -2,7 +2,7 @@
 layout: single
 title: "Laurentiu Spiridon"
 category: people
-permalink: /speakers/Laurentiu_Spiridon
+permalink: /speakers/Laurentiu_Spiridon/
 image:
    cover: ../../../assets/images/people/spiridon_laurentiu.jpg
 ---

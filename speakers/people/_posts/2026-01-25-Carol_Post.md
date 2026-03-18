@@ -2,7 +2,7 @@
 layout: single
 title: "Carol Post"
 category: people
-permalink: /speakers/Carol_Post
+permalink: /speakers/Carol_Post/
 image:
    cover: ../../../assets/images/people/post_carol.jpg
 ---

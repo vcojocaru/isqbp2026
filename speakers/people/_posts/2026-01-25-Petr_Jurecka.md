@@ -2,7 +2,7 @@
 layout: single
 title: "Petr Jurečka"
 category: people
-permalink: /speakers/Petr_Jurecka
+permalink: /speakers/Petr_Jurecka/
 image:
    cover: ../../../assets/images/people/jurecka_petr.jpg
 ---

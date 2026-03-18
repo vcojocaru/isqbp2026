@@ -2,7 +2,7 @@
 layout: single
 title: "Marco de Vivo"
 category: people
-permalink: /speakers/Marco_de_Vivo
+permalink: /speakers/Marco_de_Vivo/
 image:
    cover: ../../../assets/images/people/vivo_de_marco.jpg
 ---

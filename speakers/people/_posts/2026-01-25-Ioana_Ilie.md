@@ -2,7 +2,7 @@
 layout: single
 title: "Ioana Ilie"
 category: people
-permalink: /speakers/Ioana_Ilie
+permalink: /speakers/Ioana_Ilie/
 image:
    cover: ../../../assets/images/people/ilie_ioana.jpg
 ---

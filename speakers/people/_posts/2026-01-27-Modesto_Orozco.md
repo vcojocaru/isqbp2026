@@ -2,7 +2,7 @@
 layout: single
 title: "Modesto Orozco"
 category: people
-permalink: /speakers/Modesto_Orozco
+permalink: /speakers/Modesto_Orozco/
 image:
    cover: ../../../assets/images/people/modesto_orozco_black.jpg
 ---

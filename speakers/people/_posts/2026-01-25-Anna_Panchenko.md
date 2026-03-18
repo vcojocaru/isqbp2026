@@ -2,7 +2,7 @@
 layout: single
 title: "Anna Panchenko"
 category: people
-permalink: /speakers/Anna_Panchenko
+permalink: /speakers/Anna_Panchenko/
 image:
    cover: ../../../assets/images/people/panchenko_anna.jpg
 ---

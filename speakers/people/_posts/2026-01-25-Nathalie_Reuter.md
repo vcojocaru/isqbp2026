@@ -2,7 +2,7 @@
 layout: single
 title: "Nathalie Reuter"
 category: people
-permalink: Nathalie Reuter
+permalink: /speakers/Nathalie_Reuter/
 image:
    cover: ../../../assets/images/people/reuter_nathalie.jpg
 ---
