@@ -133,7 +133,7 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **16:00 - 18:00** | **SESSION V: FRONTIERS IN DRUG DESIGN** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 16:00 - 16:25 | <span style="color:blue">[William Jorgensen](/speakers/William_Jorgensen/)</span> | Yale University, USA | "Title TBA" |
+| 16:00 - 16:25 | <span style="color:blue">[William Jorgensen](/speakers/William_Jorgensen/)</span> | Yale University, USA | "What's New with Force Fields and Free Energy" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 16:25 - 16:50 | <span style="color:blue">[Dragos Horvarth](/speakers/Dragos_Horvarth/)</span> | Universite de Strasbourg, France | "The Chemical Library Space: From Compound Chemography to Management of Portofolio of DNA-Encoded Libraries" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|

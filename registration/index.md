@@ -16,11 +16,11 @@ Registration and abstract submission is now open. The registration fees include 
 
 ***
 
-#### Abstract submission until: <span style="color:red">01.04.2026</span>
+#### Abstract submission until: <span style="color:red">26.04.2026</span>
 
 ***
 
-#### Early registration until: <span style="color:red">01.04.2026</span>
+#### Early registration until: <span style="color:red">26.04.2026</span>
 
 Student/PhD student: 280 EUR\
 Postdoc: 320 EUR\
@@ -28,7 +28,7 @@ Senior: 450 EUR
 
 ***
 
-#### Late registration until: <span style="color:red">15.05.2026</span>
+#### Late registration until: <span style="color:red">31.05.2026</span>
 
 Student/PhD student: 320 EUR\
 Postdoc: 380 EUR\

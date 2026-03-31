@@ -17,7 +17,7 @@ author_profile:
    </div>
     <div class="column" style="flex: 1; min-width: 250px; margin: 0 10px; margin-bottom: 0px;">
       <h4 style="margin-top: 0;"><a href="{{ site.baseurl }}/registration/">Deadlines</a></h4>
-      <p>Abstract submission/Early registration: <span style="color:red">April 1st, 2026</span></p>.
+      <p>Abstract submission/Early registration: <span style="color:red">April 26th, 2026</span></p>.
    </div>
   <div class="column" style="flex: 1; min-width: 250px; margin: 0 10px; margin-bottom: 0px;">
       <h4 style="margin-top: 0;"><a href="{{ site.baseurl }}/speakers/">Speakers</a></h4>
