@@ -160,7 +160,7 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 09:50 - 10:15 | <span style="color:blue">[Charles L. Brooks III](/speakers/Charles_Brooks/)</span> | University of Michigan, USA | "Novel high-throughput methods for free energy calculations" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 10:15 - 10:30 | <span style="color:blue">[Nicolae Viorel Buchete](/speakers/Viorel_Buchete/)</span> | University College Dublin, Ireland | "Title TBA" |
+| 10:15 - 10:30 | <span style="color:blue">[Nicolae Viorel Buchete](/speakers/Viorel_Buchete/)</span> | University College Dublin, Ireland | "Bridging Single‑Protein Biophysics and Nanoparticle Protein Corona Signatures" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 10:30 - 10:45 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -168,7 +168,7 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 11:00 - 11:15 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 11:15 - 11:30 | <span style="color:blue">[Laurentiu Spiridon](/speakers/Laurentiu_Spiridon/)</span> | Institute of Biochemistry, Romanian Academy, Bucharest, Romania | "Title TBA" |
+| 11:15 - 11:30 | <span style="color:blue">[Laurentiu Spiridon](/speakers/Laurentiu_Spiridon/)</span> | Institute of Biochemistry, Romanian Academy, Bucharest, Romania | "Advanced Sampling Methods for Protein–Ligand Interactions" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 11:30 - 11:55 | <span style="color:blue">[Klaus Liedl](/speakers/Klaus_Liedl/)</span> | University of Innsbruck, Austria | "From Canonical Structures to Conformational Ensembles: Physics-Based Modeling of Antibody Structure, Dynamics, and Developability in Solution" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
