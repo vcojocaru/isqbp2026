@@ -292,6 +292,10 @@
   		</div>
 		<button type="button" id="btnAddAuthor">Add author</button>
 		
+		<h4>Abstract Title *</h4>
+		<label>
+			<textarea name="abstract_title" rows="8" placeholder="Type your abstract title here..." required></textarea>
+		</label>
 		<h4>Abstract Text *</h4>
 		<label>
 			<textarea name="abstract_text" rows="8" placeholder="Type your abstract here..." required></textarea>
@@ -413,6 +417,8 @@ document.addEventListener("DOMContentLoaded", function () {
             const auth_add = abstrSub.querySelector('input[name="presenting_author_institution_address"]');
             if (!auth_add.value.trim()) errors.push("Presenting author institution address is required.");
 
+            const abstractTitle = abstrSub.querySelector('textarea[name="abstract_title"]');
+            if (!abstractTitle.value.trim()) errors.push("Abstract title is required.");
             const abstractText = abstrSub.querySelector('textarea[name="abstract_text"]');
             if (!abstractText.value.trim()) errors.push("Abstract text is required.");
 		}
