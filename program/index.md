@@ -117,7 +117,7 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 11:50 - 12:15 | <span style="color:blue">[Jan Brezovsky](/speakers/Jan_Brezovsky/)</span> | Adam Mickiewicz University, Poznań, Poland | "Cracking the code of enzyme tunnels: understanding, predicting, and engineering hidden pathways" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 12:15 - 12:30 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
+| 12:15 - 12:30 | <span style="color:blue">[Radu Silaghi Dumitrescu](/speakers/Radu_Silaghi_Dumitrescu/)</span> | Babeș-Bolyai University, Cluj-Napoca, Romania | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **12:30 - 14:00** | **LUNCH** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|

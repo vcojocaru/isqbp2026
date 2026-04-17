@@ -125,6 +125,10 @@
 <lastmod>2026-01-25T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/speakers/Radu_Silaghi_Dumitrescu/</loc>
+<lastmod>2026-01-25T00:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/speakers/Remo_Rohs/</loc>
 <lastmod>2026-01-25T00:00:00+02:00</lastmod>
 </url>
@@ -257,6 +261,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/page9/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page10/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/assets/Terms_Conditions_SONNMRLSF.pdf</loc>
