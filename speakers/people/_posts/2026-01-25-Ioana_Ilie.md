@@ -54,6 +54,5 @@ to embed physical realism into generative binder design.
 
 ***References***
 
-Kunz et al, in prep.
-
-Vlaar et al, Mater Adv. 2025, 6, 2160-2169
+1. Kunz et al, in prep.
+2. Vlaar et al, Mater Adv. 2025, 6, 2160-2169

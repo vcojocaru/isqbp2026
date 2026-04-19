@@ -41,13 +41,13 @@ by re-designing molecular gates controlling access to their binding site [9, 10]
 
 ***References***
 
-[1] Methods Mol. Biol. 2018, 1685:25-42.
-[2] Med. Res. Rev. 2017, 37: 1095-1139
-[3] Chem. Rev. 2013, 113: 5871–5923
-[4] J. Chem. Theory Comput 2026, 22: 135-150.
-[5] J. Chem. Theory Comput 2024, 20: 5807-5819.
-[6] Bioinformatics 2022, 38: 1752-1753.
-[7] MethodsX 2023, 10C: 10196.
-[8] Cell. Mol. Life Sci 2023, 80: 105.
-[9] ACS Catal. 2022, 12: 6359-6374.
-[10] BioRxiv 2023, DOI:10.1101/2023.05.09.538545
+1. Methods Mol. Biol. 2018, 1685:25-42.
+2. Med. Res. Rev. 2017, 37: 1095-1139
+3. Chem. Rev. 2013, 113: 5871–5923
+4. J. Chem. Theory Comput 2026, 22: 135-150.
+5. J. Chem. Theory Comput 2024, 20: 5807-5819.
+6. Bioinformatics 2022, 38: 1752-1753.
+7. MethodsX 2023, 10C: 10196.
+8. Cell. Mol. Life Sci 2023, 80: 105.
+9. ACS Catal. 2022, 12: 6359-6374.
+10. BioRxiv 2023, DOI:10.1101/2023.05.09.538545

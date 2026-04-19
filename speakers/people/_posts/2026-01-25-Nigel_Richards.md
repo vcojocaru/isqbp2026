@@ -37,6 +37,5 @@ A variety of important biological processes are underpinned by the enzyme-cataly
 
 ***References***
 
-[1]   Falcioni, F. et al. ACS Catal. 2024, 14, 6650-6658. DOI: 10.1021/acscatal.4c00380
-
-[2]   Piniello, B. et al. ACS Catal. 2026, 16. Accepted. DOI: 10.1021/acscatal.5c07775
+1.   Falcioni, F. et al. ACS Catal. 2024, 14, 6650-6658. DOI: 10.1021/acscatal.4c00380
+2.   Piniello, B. et al. ACS Catal. 2026, 16. Accepted. DOI: 10.1021/acscatal.5c07775

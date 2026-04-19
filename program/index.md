@@ -105,19 +105,19 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 09:25 - 09:50 | <span style="color:blue">[Jean-Philip Piquemal](/speakers/Jean_Philippe_Piquemal/)</span> | Sorbonne Université, 75005 Paris, France | "A Quantum Foundation Model for Accurate Atomistic Simulations in Drug Design" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 09:50 - 10:15 | <span style="color:blue">[Alexey Aleksandrov](/speakers/Nigel_Richards/)</span> | Institut polytechnique de Paris, France | "Molecular Simulation and Experimental Insights into the Catalytic Mechanism of Fatty Acid Photodecarboxylase" |
+| 09:50 - 10:15 | <span style="color:blue">[Alexey Aleksandrov](/speakers/Alexey_Aleksandrov/)</span> | Institut polytechnique de Paris, France | "Molecular Simulation and Experimental Insights into the Catalytic Mechanism of Fatty Acid Photodecarboxylase" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 10:15 - 10:30 | <span style="color:blue">[Nigel Richards](/speakers/Nigel_Richards/)</span> | Foundation for Applied Molecular Evolution, Alachua, Florida, USA | "Quantum Chemical Insights into Arginine Sidechain Modification" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **10:30 - 11:00** | **COFFEE BREAK** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 11:00 - 11:25 | <span style="color:blue">[Alessandra Magistrato](/speakers/Alessandra_Magistrato/)</span> | Scuola Internazionale Superiore di Studi Avanzati, Trieste, Italy | "Title TBA" |
+| 11:00 - 11:25 | <span style="color:blue">[Ruibin Liang](/speakers/Ruibin_Liang/)</span> | Texas Tech University, USA | "Understanding the quantum dynamics of photoactive proteins through multiscale simulations" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 11:25 - 11:50 | <span style="color:blue">[Ruibin Liang](/speakers/Ruibin_Liang/)</span> | Texas Tech University, USA | "Understanding the quantum dynamics of photoactive proteins through multiscale simulations" |
+| 11:25 - 11:50 | <span style="color:blue">[Radu Silaghi Dumitrescu](/speakers/Radu_Silaghi_Dumitrescu/)</span> | Babeș-Bolyai University, Cluj-Napoca, Romania | "Do you even own a proton? Awkward spectroscopic quirks with reactivity implications for hemoprotein ferryls" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 11:50 - 12:15 | <span style="color:blue">[Jan Brezovsky](/speakers/Jan_Brezovsky/)</span> | Adam Mickiewicz University, Poznań, Poland | "Cracking the code of enzyme tunnels: understanding, predicting, and engineering hidden pathways" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 12:15 - 12:30 | <span style="color:blue">[Radu Silaghi Dumitrescu](/speakers/Radu_Silaghi_Dumitrescu/)</span> | Babeș-Bolyai University, Cluj-Napoca, Romania | "Title TBA" |
+| 12:15 - 12:30 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **12:30 - 14:00** | **LUNCH** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -135,7 +135,7 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 16:00 - 16:25 | <span style="color:blue">[William Jorgensen](/speakers/William_Jorgensen/)</span> | Yale University, USA | "What's New with Force Fields and Free Energy" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 16:25 - 16:50 | <span style="color:blue">[Dragos Horvarth](/speakers/Dragos_Horvarth/)</span> | Universite de Strasbourg, France | "The Chemical Library Space: From Compound Chemography to Management of Portofolio of DNA-Encoded Libraries" |
+| 16:25 - 16:50 | <span style="color:blue">[Dragos Horvath](/speakers/Dragos_Horvath/)</span> | Universite de Strasbourg, France | "The Chemical Library Space: From Compound Chemography to Management of Portofolio of DNA-Encoded Libraries" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 16:50 - 17:05 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|

@@ -26,4 +26,7 @@ Lipid transfer proteins (LTPs) transfer lipids between intracellular membranes t
 
 ***References***
 
-[1] Talandasthi, J Mol Biol, 2024; [2] Talandasthi, J Phys Chem Lett, 2024; [3] Moqadam, J Phys Chem B, 2024, [4] Titeca, Nature, 2026
+1. Talandasthi, J Mol Biol, 2024; 
+2. Talandasthi, J Phys Chem Lett, 2024; 
+3. Moqadam, J Phys Chem B, 2024;
+4. Titeca, Nature, 2026

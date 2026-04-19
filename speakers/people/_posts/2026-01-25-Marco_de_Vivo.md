@@ -26,5 +26,5 @@ In my contribution, I will illustrate our recent efforts to understand complex c
 
 ***References***
 
-[1] A. Visigalli, E. Trizio, Enrico, L. Bonati, P. Vidossich, M. Parrinello, M. De Vivo. “Coordinated residue motions at the enzyme-substrate interface promote DNA translocation in polymerases” J. Am. Chem. Soc., 2025
+1. A. Visigalli, E. Trizio, Enrico, L. Bonati, P. Vidossich, M. Parrinello, M. De Vivo. “Coordinated residue motions at the enzyme-substrate interface promote DNA translocation in polymerases” J. Am. Chem. Soc., 2025
 

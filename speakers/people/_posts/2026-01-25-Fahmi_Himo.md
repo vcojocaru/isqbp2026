@@ -29,15 +29,13 @@ We have in recent years employed this methodology to study enzymes of biocatalyt
 
 ***References***
 
-[1] Xiang Sheng, Fahmi Himo
+1. Xiang Sheng, Fahmi Himo
 The Quantum Chemical Cluster Approach in Biocatalysis
 Acc. Chem. Res. 2023, 56, 938–947.
-
-[2] Xiang Sheng, Fahmi Himo
+2. Xiang Sheng, Fahmi Himo
 Mechanisms of Metal-Dependent Non-Redox Decarboxylases from Quantum Chemical Calculations
 Comput. Struct. Biotech. J. 2021, 19, 3176-3186.
-
-[3] Xiang Sheng, Masoud Kazemi, Ferran Planas, Fahmi Himo
+3. Xiang Sheng, Masoud Kazemi, Ferran Planas, Fahmi Himo
 Modeling Enzymatic Enantioselectivity using Quantum Chemical Methodology
 ACS Catal. 2020, 10, 6430-6449.
 

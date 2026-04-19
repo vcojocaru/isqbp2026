@@ -50,11 +50,8 @@ GCHMC as a practical and scalable framework for unbiased molecular simulation of
 
 ***References***
 
-[1] Spiridon L, Minh DDL. “Hamiltonian Monte Carlo with Constrained Molecular Dynamics as Gibbs Sampling.” J Chem Theory Comput. 2017
+1. Spiridon L, Minh DDL. “Hamiltonian Monte Carlo with Constrained Molecular Dynamics as Gibbs Sampling.” J Chem Theory Comput. 2017
 Oct 10;13(10):4649-4659.
-
-[2] Spiridon L, Şulea TA, Minh DDL, Petrescu AJ. “Robosample: A rigid-body molecular simulation program based on robot
+2. Spiridon L, Şulea TA, Minh DDL, Petrescu AJ. “Robosample: A rigid-body molecular simulation program based on robot
 mechanics.” Biochim Biophys Acta Gen Subj. 2020 Aug;1864(8):129616.
-
-[3] Su M, Yang Q, Du Y, Feng G, Liu Z, Li Y, Wang R. “Comparative Assessment of Scoring Functions: The CASF-2016 Update.” J Chem Inf Model.
-2019 Feb 25;59(2):895-913
+3. Su M, Yang Q, Du Y, Feng G, Liu Z, Li Y, Wang R. “Comparative Assessment of Scoring Functions: The CASF-2016 Update.” J Chem Inf Model. 2019 Feb 25;59(2):895-913

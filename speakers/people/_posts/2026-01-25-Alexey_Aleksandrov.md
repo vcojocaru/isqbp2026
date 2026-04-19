@@ -26,8 +26,6 @@ Fatty acid photodecarboxylase (FAP) is a recently discovered photoenzyme that co
 
 ***References***
 
-Bonvalet et al, Dynamics and Catalytic Conversion of the CO2 Coproduct in Fatty Acid Photodecarboxylase. ACS Catalysis 2025.
-
-Samire et al, Autocatalytic effect boosts the production of medium-chain hydrocarbons by fatty acid photodecarboxylase. Science Advances 2023, 9 (13), eadg3881.
-
-Vos et al, Ultrafast photooxidation of semireduced flavin in fatty acid photodecarboxylase. Science Advances 2025, 11 (38), eadz1904.
+1. Bonvalet et al, Dynamics and Catalytic Conversion of the CO2 Coproduct in Fatty Acid Photodecarboxylase. ACS Catalysis 2025.
+2. Samire et al, Autocatalytic effect boosts the production of medium-chain hydrocarbons by fatty acid photodecarboxylase. Science Advances 2023, 9 (13), eadg3881.
+3. Vos et al, Ultrafast photooxidation of semireduced flavin in fatty acid photodecarboxylase. Science Advances 2025, 11 (38), eadz1904.

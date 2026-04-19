@@ -32,8 +32,8 @@ Building on this mechanistic framework, I will further show how molecular descri
 
 ***References***
 
-1) Paloncýová, M. et al. Computational Methods for Modeling Lipid-Mediated Active Pharmaceutical Ingredient Delivery. Molecular Pharmaceutics 22, 1110–1141 (2025).
-2) Kjølbye, L. R. et al. Towards design of drugs and delivery systems with the Martini coarse-grained model. QRB Discovery 3, e19 (2022).
-3) Souza, P. C. T. et al. Martini 3: A general purpose force field for coarse-grained molecular dynamics. Nature Methods 18, 382–388 (2021).
-4) Pedersen, K. B. et al. The Martini 3 lipidome: Expanded and refined parameters improve lipid phase behavior. ACS Central Science 11 (9) (2025).
-5) Kjølbye, L. R. et al. Martini 3 Building Blocks for Lipid Nanoparticle Design. Journal of Chemical Theory and Computation 22 (2), 1069–1091 (2026).
+1. Paloncýová, M. et al. Computational Methods for Modeling Lipid-Mediated Active Pharmaceutical Ingredient Delivery. Molecular Pharmaceutics 22, 1110–1141 (2025).
+2. Kjølbye, L. R. et al. Towards design of drugs and delivery systems with the Martini coarse-grained model. QRB Discovery 3, e19 (2022).
+3. Souza, P. C. T. et al. Martini 3: A general purpose force field for coarse-grained molecular dynamics. Nature Methods 18, 382–388 (2021).
+4. Pedersen, K. B. et al. The Martini 3 lipidome: Expanded and refined parameters improve lipid phase behavior. ACS Central Science 11 (9) (2025).
+5. Kjølbye, L. R. et al. Martini 3 Building Blocks for Lipid Nanoparticle Design. Journal of Chemical Theory and Computation 22 (2), 1069–1091 (2026).

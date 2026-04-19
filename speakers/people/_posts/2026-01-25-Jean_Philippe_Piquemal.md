@@ -38,6 +38,7 @@ parametrization, FeNNix-Bio1 bridges the gap between static structure prediction
 biological reality.
 
 ***References***
-[1] A Foundation Model for Accurate Atomistic Simulations in Drug Design.T. Plé, O. Adjoua, A.
+
+1. A Foundation Model for Accurate Atomistic Simulations in Drug Design.T. Plé, O. Adjoua, A.
 Benali, E. Posenitskiy, C. Villot, L. Lagardère, J.-P.Piquemal, 2025, submitted,
 DOI: 10.26434/chemrxiv-2025-f1hgn-v4
