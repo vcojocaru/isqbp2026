@@ -15,9 +15,9 @@ image:
 
 The easiest way to get to Cluj Napoca is by air. The Cluj [airport](https://www.airportcluj.ro/) is very conveniently located just a few kilometers from the city center. Public buses (regular and express) and taxis or Bolt/Uber cars serve the airport well and it takes at most about 30 minutes to ge to the center (maybe a little longer with the regular bus that stops at each bus station).
 
-There are two Romanian airlines worth checking for connections: [HiSky](https://www.esky.ro/companii-aeriene/al/h4/hisky-europe) and [AnimaWings](https://www.animawings.com/en) worth checking for connections.
+There are two Romanian airlines worth checking for connections: [HiSky](https://www.esky.ro/companii-aeriene/al/h4/hisky-europe) and [AnimaWings](https://www.animawings.com/en).
 
-The Cluj airport is also well connected by the low cost airline [Wizzair](https://www.wizzair.com/) with many airports in Europe. If you decide to travel low cost, the recommendation is not to take the cheapest price option. For example, with Wizzair book "Wizz Priority" also. It would ge you some nice extras.
+The Cluj airport is also well connected by the low cost airline [Wizzair](https://www.wizzair.com/) with many airports in Europe. If you decide to travel low cost, the recommendation is not to take the cheapest price option. For example, with Wizzair book "Wizz Priority" also. It would give you some nice extras. Also, please be sure to check in online a few days before the departure (online check in closes a few hours before departure and its a hassle if you miss that)
 
 Using a regular airline, you can fly with a stop over in Muenchen, Zuerich, Bucharest, Warsaw or other European cities (depending on the constant addition of new routes). 
 
