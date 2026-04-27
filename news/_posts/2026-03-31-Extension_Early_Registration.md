@@ -11,7 +11,7 @@ author: Vlad Cojocaru
 
 # Extended periods for early registration and abstract submission
 
-Considering the Catholic and Orthodox Easter Holidays the period for early registration and abstract submission has been extended until **April 26 2026**
+Considering the Catholic and Orthodox Easter Holidays the period for early registration and abstract submission has been extended until **April 30 2026**
 
 
 <div class="double-line"></div>
