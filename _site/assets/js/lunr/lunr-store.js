@@ -5,12 +5,6 @@ var store = [{
         "url": "/speakers/Adrian_Roitberg/",
         "teaser": null
       },{
-        "title": "Alessandra Magistrato",
-        "excerpt":"  Affiliation   Scuola Internazionale Superiore di Studi Avanzati, Trieste, Italy - Magistrato Group     ","categories": ["speakers","people"],
-        "tags": [],
-        "url": "/speakers/Alessandra_Magistrato/",
-        "teaser": null
-      },{
         "title": "Alex MacKerell",
         "excerpt":"  Affiliation   Computer-Aided Drug Design Center, Department of Pharmaceutical Sciences, School of Pharmacy, University of Maryland, Baltimore, MD, 21230, USA     Ongoing developments in the Classical Drude Oscillator Polarizable Force Field.       Abstract   The Drude polarizable force field (FF) uses a simple auxiliary particle, the Drude oscillator, linked via a harmonic spring to the nuclei of non-hydrogen atoms to model the electrons in the system.  The induced polarization response is modelled by the Drude particles relaxing in the surrounding electric field for each configuration of the real atoms, thereby solving the Born-Oppenheimer approximation.  While conceptually simple, this model allows for accurate treatment of electronic polarization in a computationally efficient manner, with a 2.6 to 4-fold increase in computational costs over additive force fields.  Drude FF parameters have now been developed for proteins, nucleic acids, selected lipids and carbohydrates as well as a range of cofactors and drug-like molecules.  Ongoing efforts involve improving the treatment of the protein and nucleic acids, including the equilibrium between folded and unfolded states and their interactions with their environments. In addition, efforts are focused on the development of the Drude General Force Field (DGenFF) for small molecules.  ","categories": ["speakers","people"],
         "tags": [],
@@ -364,9 +358,6 @@ var store = [{
   },{
     "title": null,
     "excerpt":"","url": "http://localhost:4000/page9/"
-  },{
-    "title": null,
-    "excerpt":"","url": "http://localhost:4000/page10/"
   },{
     "title": null,
     "excerpt":" {% if page.xsl %} {% endif %} {% assign collections = site.collections | where_exp:'collection','collection.output != false' %}{% for collection in collections %}{% assign docs = collection.docs | where_exp:'doc','doc.sitemap != false' %}{% for doc in docs %} {{ doc.url | replace:'/index.html','/' | absolute_url | xml_escape }} {% if doc.last_modified_at or doc.date %}{{ doc.last_modified_at | default: doc.date | date_to_xmlschema }} {% endif %} {% endfor %}{% endfor %}{% assign pages = site.html_pages | where_exp:'doc','doc.sitemap != false' | where_exp:'doc','doc.url != \"/404.html\"' %}{% for page in pages %} {{ page.url | replace:'/index.html','/' | absolute_url | xml_escape }} {% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }} {% endif %} {% endfor %}{% assign static_files = page.static_files | where_exp:'page','page.sitemap != false' | where_exp:'page','page.name != \"404.html\"' %}{% for file in static_files %} {{ file.path | replace:'/index.html','/' | absolute_url | xml_escape }} {{ file.modified_time | date_to_xmlschema }}  {% endfor %} ","url": "http://localhost:4000/sitemap.xml"
