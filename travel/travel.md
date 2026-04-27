@@ -15,11 +15,15 @@ image:
 
 The easiest way to get to Cluj Napoca is by air. The Cluj [airport](https://www.airportcluj.ro/) is very conveniently located just a few kilometers from the city center. Public buses (regular and express) and taxis or Bolt/Uber cars serve the airport well and it takes at most about 30 minutes to ge to the center (maybe a little longer with the regular bus that stops at each bus station).
 
-The Cluj airport is connected by the low cost airline [Wizzair](https://www.wizzair.com/) with many airports in Europe. Using a regular airline, a stop over in Muenchen, Bucharest, Warsaw or other European cities (depending on the constant addition of new routes). 
+There are two Romanian airlines worth checking for connections: [HiSky](https://www.esky.ro/companii-aeriene/al/h4/hisky-europe) and [AnimaWings](https://www.animawings.com/en) worth checking for connections.
 
-For flying from the U.S, Canada or other worldwide destinations the best option is flying with a stop over in Muenchen, Bucharest, Warsaw or other European cities (depending on the constant addition of new routes) is needed. It is worth checking very carefully the routes available. Please get in touch with us if in doubt.
+The Cluj airport is also well connected by the low cost airline [Wizzair](https://www.wizzair.com/) with many airports in Europe. If you decide to travel low cost, the recommendation is not to take the cheapest price option. For example, with Wizzair book "Wizz Priority" also. It would ge you some nice extras.
 
-VERY IMPORTANT: Flying into Budapest is only possible if booking a minibus drive or renting a car from the Budapest airport to Cluj-Napoca (see below)
+Using a regular airline, you can fly with a stop over in Muenchen, Zuerich, Bucharest, Warsaw or other European cities (depending on the constant addition of new routes). 
+
+For flying from the U.S, Canada or other worldwide destinations the best option is flying with a stop over in Muenchen, Bucharest, Zuerich, Warsaw or other European cities (depending on the constant addition of new routes) is needed. It is worth checking very carefully the routes available. Please get in touch with us if in doubt.
+
+VERY IMPORTANT: Flying into Budapest is also possible but you need to also rent a minibus drive or renting a car from the Budapest airport to Cluj-Napoca (see below). Trains from Budapest will take unreasonably long time (due to the ongoing renewal of the Romanian railways)
 
 ***
 
