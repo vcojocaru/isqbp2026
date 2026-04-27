@@ -32,7 +32,7 @@ var store = [{
         "title": "Bojan Žagrović",
         "excerpt":"  Affiliation   Laboratory of Molecular Biophysics, Max Perutz Labs &amp; University of Vienna, Austria     RNA-protein interactions and the structure of the genetic code       Abstract   Recently, we have characterized a robust, statistically significant matching between the nucleotide-density profiles of mRNA coding sequences and the nucleotide-affinity profiles of the protein sequences they encode. These results support the long-standing proposal that the genetic code evolved from direct interaction preferences between amino acids and the appropriate nucleotides. Moreover, these findings suggest a possibility of direct, complementary, co-aligned interactions between mRNAs and their autogenous proteins even in present-day cells, especially if both are unstructured, with implications extending to different facets of nucleic-acid/protein biology. In this talk, I will discuss the computational and experimental tests as well as functional implications of this proposal. Finally, I will provide evidence that proteins may in general interact with RNAs that are compositionally related to their own autogenous mRNA, as a simple, yet powerful organizational principle behind the structure of RNA-protein interaction networks in the cell.  ","categories": ["speakers","people"],
         "tags": [],
-        "url": "/speakers/Bojan%20%C5%BDagrovi%C4%87/",
+        "url": "/speakers/Bojan_Zagrovic/",
         "teaser": null
       },{
         "title": "Carol Post",

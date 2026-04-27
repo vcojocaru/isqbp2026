@@ -3,7 +3,7 @@ layout: single-people
 classes: wide
 title: "Bojan Žagrović"
 category: people
-permalink: /speakers/Bojan Žagrović/
+permalink: /speakers/Bojan_Zagrovic/
 image:
    cover: ../../../assets/images/people/zagrovic_bojan.jpg
 ---
