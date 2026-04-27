@@ -19,9 +19,9 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **14:00 - 18:15** | **SESSION I: NUCLEIC ACIDS ACROSS SCALES AND TIMES** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 14:00 - 14:25 | <span style="color:blue">[Giulia Palermo](/speakers/Giulia_Palermo/)</span> | University of California Riverside, USA | "Title TBA" |
+| 14:00 - 14:25 | <span style="color:blue">[Jan Huertas](/speakers/Jan_Huertas/)</span> | University of Cambridge, UK | "Multiscale simulations reveal molecular mechanisms of chromatin organisation" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 14:25 - 14:50 | <span style="color:blue">[Jan Huertas](/speakers/Jan_Huertas/)</span> | University of Cambridge, UK | "Multiscale simulations reveal molecular mechanisms of chromatin organisation" |
+| 14:25 - 14:50 | <span style="color:blue">[Bojan Žagrović](/speakers/Bojan_Zagrovic/)</span> | Max Perutz Labs & University of Vienna, Austria | "RNA-protein interactions and the structure of the genetic code" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 14:50 - 15:15 | <span style="color:blue">[Anna Panchenko](/speakers/Anna_Panchenko/)</span> | Queen's University, Canada | "Key Challenges in Modeling Protein–DNA Interactions in Chromatin" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -29,7 +29,7 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **15:30 - 16:00** | **COFFEE BREAK** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 16:00 - 16:25 | <span style="color:blue">[Remo Rohs](/speakers/Remo_Rohs/)</span> | University of Southern California, USA | "Title TBA" |
+| 16:00 - 16:25 | <span style="color:blue">[Remo Rohs](/speakers/Remo_Rohs/)</span> | University of Southern California, USA | "Integrating deep learning and physics-based methods to study molecular interactions" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 16:25 - 16:50 | <span style="color:blue">[Ioan Andricioaei](/speakers/Ioan_Andricioaei/)</span> | University of California, Irvine, USA | "Computing large-and-slow DNA motions from fast sampling of rare conformational transitions" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -54,7 +54,7 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 09:25 - 09:50 |<span style="color:blue">[Jiří Šponer](/speakers/Jiri_Sponer/)</span> | Institute of Biophysics, Brno, Czech Republic | "Atomistic Molecular Dynamics Simulations of Nucleic Acids: Force Field Advances and Issues" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 09:50 - 10:15 | <span style="color:blue">[Thomas Cheatham III](/speakers/Tom_Cheatham/)</span> | University of Utah, USA | "Title TBA" |
+| 09:50 - 10:15 | <span style="color:blue">[Thomas Cheatham III](/speakers/Tom_Cheatham/)</span> | University of Utah, USA | "Over 30 years of RNA simulation - lessons learned, force fields, modified nucleotides and salt." |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 10:15 - 10:30 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -64,7 +64,7 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 11:25 - 11:50 |<span style="color:blue">[Paulo Cesar Telles de Souza](/speakers/Paulo_Cesar_Telles_de_Souza/)</span> | Laboratoire de Biologie et Modélisation de la Cellule, CNRS, Lyon, France | "From Mechanism to Design: Coarse-Grained and Machine-Learning Approaches to Lipid Nanoparticle Delivery" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 11:50 - 12:15 | <span style="color:blue">[Adrian Roitberg](/speakers/Adrian_Roitberg/)</span> | University of Florida, USA | "Title TBA" |
+| 11:50 - 12:15 | <span style="color:blue">[Adrian Roitberg](/speakers/Adrian_Roitberg/)</span> | University of Florida, USA | "10+ years of General Machine Learning Interaction Potentials. Ubi eramus? Ubi sumus? Quo imus?" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 12:15 - 12:30 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -74,7 +74,7 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 14:00 - 14:25 | <span style="color:blue">[Nathalie Reuter](/speakers/Nathalie_Reuter/)</span> | University of Bergen, Norway | "Allosteric control of lipid transfer proteins by membrane lipids" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 14:25 - 14:50 |<span style="color:blue">[Ana Nicoleta Bondar](/speakers/Nicoleta_Bondar/)</span> | University of Bucharest, Romania | "Title TBA" |
+| 14:25 - 14:50 |<span style="color:blue">[Ana Nicoleta Bondar](/speakers/Nicoleta_Bondar/)</span> | University of Bucharest, Romania | "Dynamic hydrogen-bond networks for G Protein Coupled Receptor activation" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 14:50 - 15:15 | <span style="color:blue">[Bert de Groot](/speakers/Bert_de_Groot/)</span> | Max Planck Institute for Multidisciplinary Sciences, Goettingen, Germany | "Alchemical binding free energy calculations for ligand binding, protein allostery, post-translational modifications, and more" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -174,7 +174,7 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 11:55 - 12:20 | <span style="color:blue">[Elinor Haglund](/speakers/Ellinor_Haglund/)</span> | University of Hawaii, Manoa, USA | "Structural Plasticity in Chemokines Driven by Native and Non-Native Disulfide Bonds" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 12:20 - 12:45 | <span style="color:blue">[Roland Stote](/speakers/Roland_Stote/)</span> | Institute of Genetics and Molecular and Cellular Biology, Strasbourg, France | "Title TBA" |
+| 12:20 - 12:45 | <span style="color:blue">[Roland Stote](/speakers/Roland_Stote/)</span> | Institute of Genetics and Molecular and Cellular Biology, Strasbourg, France | "Nuclear Receptors in Motion: Shape-Shifts and Dynamics" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **12:45 - 13:15** | **CLOSING CEREMONY / POSTER PRIZES** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
