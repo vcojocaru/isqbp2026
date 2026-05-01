@@ -4,6 +4,8 @@ main:
     url: /news/
   - title: "Speakers"
     url: /speakers/
+  - title: "Sponsors"
+    url: /sponsors/
   - title: "Program"
     url: /program/
   - title: "Registration"

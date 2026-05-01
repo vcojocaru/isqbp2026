@@ -99,7 +99,7 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 
 | Wednesday | 17.06.2026 | | |
 |---------|------------|-|-|
-| **09:00 - 15:30** | **SESSION IV: BIOMOLECULAR REACTIONS FROM QUANTUM TO CLASSIC** | | |
+| **09:00 - 15:30** | **SESSION IV: BIOMOLECULAR REACTIONS FROM QUANTUM TO CLASSIC AND BEYOND** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 09:00 - 09:25 | <span style="color:blue">[Fahmi Himo](/speakers/Fahmi_Himo/)</span> | Stockholm University, Sweden | "Quantum Chemical Modeling of Enzyme Enantioselectivity" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -121,7 +121,7 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **12:30 - 14:00** | **LUNCH** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 14:00 - 14:25 | <span style="color:blue">[Paolo Carloni](/speakers/Paolo_Carloni/)</span> | Forschungszentrum Jülich, Germany | "Title TBA" |
+| 14:00 - 14:25 | <span style="color:blue">[Paolo Carloni](/speakers/Paolo_Carloni/)</span> | Forschungszentrum Jülich, Germany | "Neurological Disease-Linked Mutations: A Multiscale Approach" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 14:25 - 14:50 | <span style="color:blue">[Ulf Ryde](/speakers/Ulf_Ryde/)</span> | Lund University, Sweden | "Estimating ligand-binding affinities with quantum-mechanical methods" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -145,7 +145,7 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **17:50 - 19:30** | **POSTER SESSION II**      | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| **20:00 - 02:00** | **CONFERENCE GALA DINNER** | | |
+| **20:00 - 02:00** | **CONFERENCE GALA DINNER** | LOCATION: [CLUJANA FESTA](https://clujanafesta.ro/) | see details on the [Venue](/venue) page |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 
 <br>

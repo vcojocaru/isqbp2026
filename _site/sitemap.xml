@@ -181,6 +181,10 @@
 <lastmod>2026-03-31T00:00:00+03:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/news/Invitation_Sponsorship/</loc>
+<lastmod>2026-04-30T00:00:00+03:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/travel/accommodation</loc>
 </url>
 <url>
@@ -209,6 +213,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/venue/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/sponsors/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
@@ -257,6 +264,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/page9/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page10/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/assets/Terms_Conditions_SONNMRLSF.pdf</loc>

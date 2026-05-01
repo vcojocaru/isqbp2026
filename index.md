@@ -13,11 +13,11 @@ author_profile:
 <div class="row" style="display:flex; flex-wrap: wrap; margin: 0 10px;">
    <div class="column" style="flex: 1; min-width: 250px; margin: 0 10px; margin-bottom: 0px;">
       <h4 style="margin-top: 0;"><a href="{{ site.baseurl }}/registration/">Registration</a></h4>
-      <p>The registraton for the 2026 President's meeting is open</p>.
+      <p>The registraton for the 2026 President's meeting is possible until May 15</p>.
    </div>
     <div class="column" style="flex: 1; min-width: 250px; margin: 0 10px; margin-bottom: 0px;">
-      <h4 style="margin-top: 0;"><a href="{{ site.baseurl }}/registration/">Deadlines</a></h4>
-      <p>Abstract submission/Early registration: <span style="color:red">April 26th, 2026</span></p>.
+      <h4 style="margin-top: 0;"><a href="{{ site.baseurl }}/sponsors">Sponsors</a></h4>
+      <p>We invite partners from industry to join us in the organization</p>.
    </div>
   <div class="column" style="flex: 1; min-width: 250px; margin: 0 10px; margin-bottom: 0px;">
       <h4 style="margin-top: 0;"><a href="{{ site.baseurl }}/speakers/">Speakers</a></h4>
