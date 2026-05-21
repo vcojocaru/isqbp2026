@@ -17,7 +17,7 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |--------|------------|-|-|
 | 13:30 - 14:00 | Opening ceremony          |             |             |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| **14:00 - 18:15** | **SESSION I: NUCLEIC ACIDS ACROSS SCALES AND TIMES** | | |
+| **14:00 - 18:15** | **SESSION I: NUCLEIC ACIDS ACROSS SCALES AND TIMES (CHAIR: VLAD COJOCARU)** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 14:00 - 14:25 | <span style="color:blue">[Jan Huertas](/speakers/Jan_Huertas/)</span> | University of Cambridge, UK | "Multiscale simulations reveal molecular mechanisms of chromatin organisation" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -25,7 +25,7 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 14:50 - 15:15 | <span style="color:blue">[Anna Panchenko](/speakers/Anna_Panchenko/)</span> | Queen's University, Canada | "Key Challenges in Modeling Protein–DNA Interactions in Chromatin" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 15:15 - 15:30 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
+| 15:15 - 15:30 | <span style="color:darkgreen">Roxana Geanina Vasarhelyi</span> | Babeș-Bolyai University, Cluj-Napoca, Romania | "Conformational plasticity modulates RNA recognition by tandem RRM proteins" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **15:30 - 16:00** | **COFFEE BREAK** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -33,7 +33,7 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 16:25 - 16:50 | <span style="color:blue">[Ioan Andricioaei](/speakers/Ioan_Andricioaei/)</span> | University of California, Irvine, USA | "Computing large-and-slow DNA motions from fast sampling of rare conformational transitions" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 16:50 - 17:05 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
+| 16:50 - 17:05 | <span style="color:darkgreen">Maria Julia Maristany</span> | University of Cambridge  | "Nucleosome Mechanics Shape the Energy Landscape of DNA Unwrapping" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **17:05 - 17:30** | **REFRESHMENTS/SNACKS** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -41,14 +41,14 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | | <span style="color:darkred">[Modesto Orozco](/speakers/Modesto_Orozco/)</span> | IRB Barcelona, Spain | "A Journey Through DNA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| **19:00 - open** | **DINNER/NETWORKING** | | |
+| **19:00 - open** | **FREE TIME (DINNER/NETWORKING)** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 
 <br>
 
 | Tuesday | 16.06.2026 | | |
 |---------|------------|-|-|
-| **09:00 - 12:30** | **SESSION II: FORCE FIELDS FOR BIOMOLECULES** | | |
+| **09:00 - 12:30** | **SESSION II: FORCE FIELDS FOR BIOMOLECULES (CHAIR: ANA NICOLETA BONDAR)** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 09:00 - 09:25 | <span style="color:blue">[Alex MacKerell](/speakers/Alex_MacKerell/)</span> | University of Maryland, USA | "Ongoing developments in the Classical Drude Oscillator Polarizable Force Field" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -56,7 +56,7 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 09:50 - 10:15 | <span style="color:blue">[Thomas Cheatham III](/speakers/Tom_Cheatham/)</span> | University of Utah, USA | "Over 30 years of RNA simulation - lessons learned, force fields, modified nucleotides and salt." |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 10:15 - 10:30 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
+| 10:15 - 10:30 | <span style="color:darkgreen">Leo Christanell</span> |  Ludwig-Maximilians-Universität, München, Germany  | "An Improved Force Field Parameterization of DNA-Metal Ion Interactions that Preserves the tRNA Anticodon Loop Structure" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **10:30 - 11:00** | **COFFEE BREAK** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -66,11 +66,11 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 11:50 - 12:15 | <span style="color:blue">[Adrian Roitberg](/speakers/Adrian_Roitberg/)</span> | University of Florida, USA | "10+ years of General Machine Learning Interaction Potentials. Ubi eramus? Ubi sumus? Quo imus?" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 12:15 - 12:30 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
+| 12:15 - 12:30 | <span style="color:darkgreen">Valentin Gradisteanu</span> | OneAngstrom, Grenoble, Frace | "Understanding pKa shifts through Local Environment Analysis" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| **12:30 - 14:00** | **LUNCH** | | |
+| **12:30 - 14:00** | **LUNCH AND POSTERS** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| **14:00 - 17:30** | **SESSION III: BIOMOLECULAR INTERACTIONS AND COMPLEXITY** | | |
+| **14:00 - 18:05** | **SESSION III: BIOMOLECULAR INTERACTIONS AND COMPLEXITY (CHAIR: NICOLAE VIOREL BUCHETE)** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 14:00 - 14:25 | <span style="color:blue">[Nathalie Reuter](/speakers/Nathalie_Reuter/)</span> | University of Bergen, Norway | "Allosteric control of lipid transfer proteins by membrane lipids" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -78,7 +78,7 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 14:50 - 15:15 | <span style="color:blue">[Bert de Groot](/speakers/Bert_de_Groot/)</span> | Max Planck Institute for Multidisciplinary Sciences, Goettingen, Germany | "Alchemical binding free energy calculations for ligand binding, protein allostery, post-translational modifications, and more" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 15:15 - 15:30 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
+| 15:15 - 15:30 | <span style="color:darkgreen">Victor Reys</span> | Utrecht University, The Netherlands | "Structural modelling and binding affinity prediction of the Human PDZ-PBM interactome" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **15:30 - 16:00** | **COFFEE BREAK** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -86,20 +86,22 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 16:25 - 16:50 | <span style="color:blue">[Marco De Vivo](/speakers/Marco_de_Vivo/)</span> | Istituto Italiano di Tecnologia, Genoa, Italy | "Decoding Biochemical Complexity with Simulations and AI-Enhanced Sampling" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 16:50 - 17:15 | <span style="color:blue">[Ioana Ilie](/speakers/Ioana_Ilie/)</span> | University of Amsterdam | "AI-enhanced molecular design of peptides regulating Bax activation" |
+| 16:50 - 17:05 | <span style="color:darkgreen">Tom Vlaar</span> | Ghent University, Belgium | "Kinetics of enantiomeric amino acid permeation through chiral phospholipid membranes via path sampling " |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 17:15 - 17:30 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
+| 17:05 - 17:30 | <span style="color:blue">[Ioana Ilie](/speakers/Ioana_Ilie/)</span> | University of Amsterdam | "AI-enhanced molecular design of peptides regulating Bax activation" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| **17:30 - 19:00** | **POSTER SESSION I**      | | |
+| 17:30 - 17:55 | <span style="color:blue">[Paolo Carloni](/speakers/Paolo_Carloni/)</span> | Forschungszentrum Jülich, Germany | "Neurological Disease-Linked Mutations: A Multiscale Approach" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| **19:00 - open** | **DINNER/NETWORKING** | | |
+| **17:55 - 19:30** | **POSTER SESSION I**      | | |
+|:-------------:|:-------------------------:|:-----------:|:-----------:|
+| **19:35 - open** | **FREE TIME (DINNER/NETWORKING)** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 
 <br>
 
 | Wednesday | 17.06.2026 | | |
 |---------|------------|-|-|
-| **09:00 - 15:30** | **SESSION IV: BIOMOLECULAR REACTIONS FROM QUANTUM TO CLASSIC AND BEYOND** | | |
+| **09:00 - 15:30** | **SESSION IV: BIOMOLECULAR REACTIONS FROM QUANTUM TO CLASSIC AND BEYOND (CHAIR: DRAGOS HORVATH)** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 09:00 - 09:25 | <span style="color:blue">[Fahmi Himo](/speakers/Fahmi_Himo/)</span> | Stockholm University, Sweden | "Quantum Chemical Modeling of Enzyme Enantioselectivity" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -107,7 +109,7 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 09:50 - 10:15 | <span style="color:blue">[Alexey Aleksandrov](/speakers/Alexey_Aleksandrov/)</span> | Institut polytechnique de Paris, France | "Molecular Simulation and Experimental Insights into the Catalytic Mechanism of Fatty Acid Photodecarboxylase" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 10:15 - 10:30 | <span style="color:blue">[Nigel Richards](/speakers/Nigel_Richards/)</span> | Foundation for Applied Molecular Evolution, Alachua, Florida, USA | "Quantum Chemical Insights into Arginine Sidechain Modification" |
+| 10:15 - 10:30 | <span style="color:darkgreen">[Nigel Richards](/speakers/Nigel_Richards/)</span> | Foundation for Applied Molecular Evolution, Alachua, Florida, USA | "Quantum Chemical Insights into Arginine Sidechain Modification" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **10:30 - 11:00** | **COFFEE BREAK** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -117,31 +119,33 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 11:50 - 12:15 | <span style="color:blue">[Jan Brezovsky](/speakers/Jan_Brezovsky/)</span> | Adam Mickiewicz University, Poznań, Poland | "Cracking the code of enzyme tunnels: understanding, predicting, and engineering hidden pathways" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 12:15 - 12:30 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
+| 12:15 - 12:30 | <span style="color:darkgreen">Dan T Major</span> | Bar-Ilan University, Israel | "An AI Framework for Reaction Mechanism Discovery in Enzymes- A Case Study of Carbocation Reaction Networks and Enzyme Docking" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| **12:30 - 14:00** | **LUNCH** | | |
+| **12:30 - 14:00** | **FREE TIME (CITY EXPLORATION/LUNCH)** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 14:00 - 14:25 | <span style="color:blue">[Paolo Carloni](/speakers/Paolo_Carloni/)</span> | Forschungszentrum Jülich, Germany | "Neurological Disease-Linked Mutations: A Multiscale Approach" |
+| 14:00 - 14:25 | <span style="color:blue">[Ulf Ryde](/speakers/Ulf_Ryde/)</span> | Lund University, Sweden | "Estimating ligand-binding affinities with quantum-mechanical methods" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 14:25 - 14:50 | <span style="color:blue">[Ulf Ryde](/speakers/Ulf_Ryde/)</span> | Lund University, Sweden | "Estimating ligand-binding affinities with quantum-mechanical methods" |
+| 14:25 - 14:50 | <span style="color:blue">[Johan Aqvist](/speakers/Johan_Aqvist/)</span> | Uppsala University, Sweden | "Computational Design of the Temperature Dependence of Enzyme Reactions" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 14:50 - 15:15 | <span style="color:blue">[Johan Aqvist](/speakers/Johan_Aqvist/)</span> | Uppsala University, Sweden | "Computational Design of the Temperature Dependence of Enzyme Reactions" |
+| 14:50 - 15:15 | <span style="color:blue">[Maciej Szaleniec](/speakers/Maciej_Szaleniec/)</span> | Jerzy Haber Institute, Polish Academy of Sciences, Krakow, Poland | "Tungsten-containing enzymes – new tools in the biotech toolbox. Modelling and challenges" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 15:15 - 15:30 | <span style="color:blue">[Maciej Szaleniec](/speakers/Maciej_Szaleniec/)</span> | Jerzy Haber Institute, Polish Academy of Sciences, Krakow, Poland | "Tungsten-containing enzymes – new tools in the biotech toolbox. Modelling and challenges" |
+| **15:15 - 15:45** | **COFFEE BREAK** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| **15:30 - 16:00** | **COFFEE BREAK** | | |
+| **15:45 - 18:00** | **SESSION V: FRONTIERS IN DRUG DESIGN (CHAIR: RADU SILAGHI DUMITRESCU)** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| **16:00 - 18:00** | **SESSION V: FRONTIERS IN DRUG DESIGN** | | |
+| 15:45 - 16:10 | <span style="color:blue">[William Jorgensen](/speakers/William_Jorgensen/)</span> | Yale University, USA | "What's New with Force Fields and Free Energy" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 16:00 - 16:25 | <span style="color:blue">[William Jorgensen](/speakers/William_Jorgensen/)</span> | Yale University, USA | "What's New with Force Fields and Free Energy" |
+| 16:10 - 16:25 | <span style="color:darkgreen">Inés Sabine Rahali</span> | Université Paris Cité, France | "PockFlex: a web server for flexibility-aware binding site identification and prioritisation from structural ensembles" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 16:25 - 16:50 | <span style="color:blue">[Dragos Horvath](/speakers/Dragos_Horvath/)</span> | Universite de Strasbourg, France | "The Chemical Library Space: From Compound Chemography to Management of Portofolio of DNA-Encoded Libraries" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 16:50 - 17:05 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
+| 16:50 - 17:05 | <span style="color:darkgreen">Stefan Ivanov</span> | Faculty of Pharmacy, Medical University of Sofia, Bulgaria | "An Efficient Computational Chemistry Approach to Generating Negative Data for Virtual High-Throughput Screening Validation " |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **17:05 - 17:50** | <span style="color:darkred">**GILDA LOEW LECTURE**</span> | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | | <span style="color:darkred">[Zoe Cournia](/speakers/Zoe_Cournia/)</span> | Biomedical Research Foundation, Academy of Athena, Greece | "Allostery in Drug Discovery: From MD to ML" |
+|:-------------:|:-------------------------:|:-----------:|:-----------:|
+| **17:50 - 18:20** | **ISQBP AFFAIRS MEETING**      | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **17:50 - 19:30** | **POSTER SESSION II**      | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -152,7 +156,7 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 
 | Thursday | 18.06.2026 | | |
 |---------|------------|-|-|
-| **09:00 - 12:50** | **SESSION VI: FRONTIERS IN BIOMOLECULAR SIMULATIONS** | | |
+| **09:00 - 12:50** | **SESSION VI: FRONTIERS IN BIOMOLECULAR SIMULATIONS (CHAIR: IOANA ILIE)** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 09:00 - 09:25 | <span style="color:blue">[Carol Post](/speakers/Carol_Post/)</span> | Purdue University, West Lafayette, IN, USA | "Phosphorylation influence on protein conformational equilibrium with connections to functional outcomes" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -162,11 +166,12 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 10:15 - 10:30 | <span style="color:blue">[Nicolae Viorel Buchete](/speakers/Viorel_Buchete/)</span> | University College Dublin, Ireland | "Bridging Single‑Protein Biophysics and Nanoparticle Protein Corona Signatures" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 10:30 - 10:45 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
+| 10:30 - 10:45 | <span style="color:darkgreen">Bugeac Cosmin Alexandru</span> | Institute of Biochemistry, Romanian Academy | "Structure-guided engineering of conformational constraints in the HCV
+E2 glycoprotein for epitope-focused vaccine design" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **10:45 - 11:10** | **COFFEE BREAK** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 11:00 - 11:15 | <span style="color:darkgreen">Selected presentation</span> | Affiliation | "Title TBA" |
+| 11:00 - 11:15 | <span style="color:darkgreen">Parham Rezaee</span> | Gent University, Belgium | "Molecular dynamics to estimate biological kinetics: a new path sampling method with replica exchange of Hamiltonians " |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 11:15 - 11:30 | <span style="color:blue">[Laurentiu Spiridon](/speakers/Laurentiu_Spiridon/)</span> | Institute of Biochemistry, Romanian Academy, Bucharest, Romania | "Advanced Sampling Methods for Protein–Ligand Interactions" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
