@@ -47,3 +47,6 @@ In addition to renting a car or a minibus drive, there are also new large buses 
 
 <div class="double-line"></div>
 
+*** 
+
+Public transportation is quite good and reliable within the city.

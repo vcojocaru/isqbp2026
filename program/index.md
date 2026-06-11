@@ -8,7 +8,9 @@ image:
    banner: ../assets/images/pages/program_page_banner_image.jpg
 ---
 
-The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 at 13:30 with an opening ceremony and will end on Thursday, June 18 at 14:00 after a closing ceremony during which the poster prizes will be awarded and a window of free time for lunch. The full program will be available [here](isqbp2026_program.pdf)
+The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 at 13:30 with an opening ceremony and will end on Thursday, June 18 at 14:00 after a closing ceremony during which the poster prizes will be awarded and a window of free time for lunch. 
+
+The complete abstract book can be downloaded [here](ISQBP2026_Abstract_Book.pdf)
 
 <style>
 </style>
@@ -37,11 +39,11 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **17:05 - 17:30** | **REFRESHMENTS/SNACKS** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| **17:30 - 18:15** | <span style="color:darkred">**COMPUTATIONAL BIOLOGY AWARD LECTURE**</span> | | |
+| **17:30 - 18:10** | <span style="color:darkred">**COMPUTATIONAL BIOLOGY AWARD LECTURE**</span> | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | | <span style="color:darkred">[Modesto Orozco](/speakers/Modesto_Orozco/)</span> | IRB Barcelona, Spain | "A Journey Through DNA" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| **19:00 - open** | **FREE TIME (DINNER/NETWORKING)** | | |
+| **18:10 - open** | **FREE TIME (POSTERS/DINNER/NETWORKING)** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 
 <br>
@@ -141,15 +143,15 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 16:50 - 17:05 | <span style="color:darkgreen">Stefan Ivanov</span> | Faculty of Pharmacy, Medical University of Sofia, Bulgaria | "An Efficient Computational Chemistry Approach to Generating Negative Data for Virtual High-Throughput Screening Validation " |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| **17:05 - 17:50** | <span style="color:darkred">**GILDA LOEW LECTURE**</span> | | |
+| **17:05 - 17:45** | <span style="color:darkred">**GILDA LOEW LECTURE**</span> | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | | <span style="color:darkred">[Zoe Cournia](/speakers/Zoe_Cournia/)</span> | Biomedical Research Foundation, Academy of Athena, Greece | "Allostery in Drug Discovery: From MD to ML" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| **17:50 - 18:20** | **ISQBP AFFAIRS MEETING**      | | |
+| **17:45 - 18:15** | **ISQBP AFFAIRS MEETING**      | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| **17:50 - 19:30** | **POSTER SESSION II**      | | |
+| **17:45 - 19:15** | **POSTER SESSION II**      | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| **20:00 - 02:00** | **CONFERENCE GALA DINNER** | LOCATION: [CLUJANA FESTA](https://clujanafesta.ro/) | see details on the [Venue](/venue) page |
+| **19:45 - 02:00** | **CONFERENCE GALA DINNER** | LOCATION: [CLUJANA FESTA](https://clujanafesta.ro/) | see details on the [Venue](/venue) page |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 
 <br>
@@ -166,8 +168,7 @@ The program of the 2026 ISQBP President's meeting will begin on Monday, June 15 
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 10:15 - 10:30 | <span style="color:blue">[Nicolae Viorel Buchete](/speakers/Viorel_Buchete/)</span> | University College Dublin, Ireland | "Bridging Single‑Protein Biophysics and Nanoparticle Protein Corona Signatures" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| 10:30 - 10:45 | <span style="color:darkgreen">Bugeac Cosmin Alexandru</span> | Institute of Biochemistry, Romanian Academy | "Structure-guided engineering of conformational constraints in the HCV
-E2 glycoprotein for epitope-focused vaccine design" |
+| 10:30 - 10:45 | <span style="color:darkgreen">Cosmin Alexandru Bugeac</span> | Institute of Biochemistry, Romanian Academy | "Structure-guided engineering of conformational constraints in the HCV E2 glycoprotein for epitope-focused vaccine design" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | **10:45 - 11:10** | **COFFEE BREAK** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
@@ -181,7 +182,7 @@ E2 glycoprotein for epitope-focused vaccine design" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 | 12:20 - 12:45 | <span style="color:blue">[Roland Stote](/speakers/Roland_Stote/)</span> | Institute of Genetics and Molecular and Cellular Biology, Strasbourg, France | "Nuclear Receptors in Motion: Shape-Shifts and Dynamics" |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
-| **12:45 - 13:15** | **CLOSING CEREMONY / POSTER PRIZES** | | |
+| **12:45 - 13:15** | **CLOSING REMARKS / POSTER PRIZES** | | |
 |:-------------:|:-------------------------:|:-----------:|:-----------:|
 
 <br>
